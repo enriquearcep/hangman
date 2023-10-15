@@ -56,6 +56,7 @@
 	  <None Remove="Resources\Images\img4.jpg" />
 	  <None Remove="Resources\Images\img5.jpg" />
 	  <None Remove="Resources\Images\img6.jpg" />
+	  <None Remove="Resources\Raw\spanish.dic" />
 	</ItemGroup>
 
 </Project>

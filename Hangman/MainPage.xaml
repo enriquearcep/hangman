@@ -51,6 +51,176 @@
 
         </VerticalStackLayout>
 
+        <FlexLayout
+            Grid.Row="1"
+            JustifyContent="SpaceEvenly"
+            Wrap="Wrap"
+            >
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="A"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="B"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="C"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="D"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="E"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="F"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="G"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="H"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="I"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="J"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="K"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="L"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="M"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="N"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="Ñ"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="O"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="P"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="Q"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="R"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="S"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="T"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="U"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="V"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="W"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="X"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="Y"
+                />
+
+            <Button
+                HeightRequest="50"
+                WidthRequest="50"
+                Text="Z"
+                />
+
+        </FlexLayout>
+
     </Grid>
 
 </ContentPage>
