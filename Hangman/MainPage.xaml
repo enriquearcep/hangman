@@ -41,6 +41,7 @@
                 >
 
                 <Button
+                    Clicked="StartNewGameButton_Clicked"
                     HorizontalOptions="CenterAndExpand"
                     Text="NUEVO JUEGO"
                     />
@@ -56,6 +57,7 @@
         </VerticalStackLayout>
 
         <FlexLayout
+            x:Name="keyboardContainer"
             BindableLayout.ItemsSource="{Binding KeyboardLetters}"
             Grid.Row="1"
             JustifyContent="SpaceEvenly"

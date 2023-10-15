@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel;
-using System.Diagnostics;
 
 namespace Hangman;
 
@@ -105,8 +104,6 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 	private void SetRandomWord()
 	{
 		answer = words[new Random().Next(0, words.Count)];
-
-		Debug.WriteLine(answer);
 	}
 
 	private void CalculateWord(string answer, List<char> guessed)
@@ -123,11 +120,6 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
     private void KeyboardButton_Clicked(object sender, EventArgs e)
     {
-        if(CheckIfGameOver() || CheckIfGameWon())
-        {
-            return;
-        }
-
         var keyboardButton = sender as Button;
 
         if (keyboardButton != null)
@@ -163,16 +155,13 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         }
     }
 
-    private bool CheckIfGameWon()
+    private void CheckIfGameWon()
     {
         if(Spotlight.Replace(" ", string.Empty).Equals(answer, StringComparison.OrdinalIgnoreCase))
         {
             StatusMessage = "¡Has ganado!";
-
-            return true;
+            EnableButtons(false);
         }
-
-        return false;
     }
 
     private void UpdateStatus()
@@ -180,15 +169,37 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         AttempsMessage = $"Intentos restantes: {6 - mistakes}";
     }
 
-    private bool CheckIfGameOver()
+    private void CheckIfGameOver()
     {
         if(mistakes == 6)
         {
             StatusMessage = "¡Has perdido!";
-
-            return true;
+            EnableButtons(false);
         }
+    }
 
-        return false;
+    private void EnableButtons(bool enable = true)
+    {
+        foreach (var control in keyboardContainer.Children)
+        {
+            var keyboardButton = control as Button;
+
+            if (keyboardButton != null)
+            {
+                keyboardButton.IsEnabled = enable;
+            }
+        }
+    }
+
+    private void StartNewGameButton_Clicked(object sender, EventArgs e)
+    {
+        mistakes = 0;
+        guessed = new List<char>();
+        CurrentImage = "img0.jpg";
+        StatusMessage = string.Empty;
+        SetRandomWord();
+        CalculateWord(answer, guessed);
+        UpdateStatus();
+        EnableButtons();
     }
 }
