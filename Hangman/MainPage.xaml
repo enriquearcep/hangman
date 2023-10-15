@@ -49,6 +49,7 @@
                 <Button
                     Clicked="ShowAnswerButton_Clicked"
                     HorizontalOptions="CenterAndExpand"
+                    IsVisible="{Binding ShowAnswerIsVisible}"
                     Text="REVELAR RESPUESTA"
                     />
 

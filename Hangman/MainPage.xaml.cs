@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Globalization;
 
 namespace Hangman;
 
@@ -64,6 +65,18 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             OnPropertyChanged();
         }
     }
+
+    private bool _showAnswerIsVisible;
+    public bool ShowAnswerIsVisible
+    {
+        get => _showAnswerIsVisible;
+
+        set
+        {
+            _showAnswerIsVisible = value;
+            OnPropertyChanged();
+        }
+    }
     #endregion
 
     #region Global variables
@@ -80,6 +93,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         KeyboardLetters.AddRange("ABCDEFGHIJKLMNÑOPQRSTUVWXYZ");
         AttempsMessage = "Intentos restantes: 6";
         CurrentImage = "img0.jpg";
+        ShowAnswerIsVisible = true;
 
         BindingContext = this;
 
@@ -108,7 +122,9 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
 	private void CalculateWord(string answer, List<char> guessed)
 	{
-		var temp = answer.Select(s => (guessed.Any(a => s.ToString().Equals(a.ToString(), StringComparison.OrdinalIgnoreCase)) ? s : '_')).ToArray();
+        var comparer = StringComparer.Create(new CultureInfo("es-ES", false), CompareOptions.IgnoreNonSpace);
+
+        var temp = answer.Select(s => (guessed.Any(a => comparer.Equals(s.ToString(), a.ToString())) ? s : '_')).ToArray();
 
         Spotlight = string.Join(' ', temp);
 	}
@@ -132,12 +148,14 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
     private void HandleGuess(char letter)
     {
-        if(!guessed.Any(a => a.ToString().Equals(letter.ToString(), StringComparison.OrdinalIgnoreCase)))
+        var comparer = StringComparer.Create(new CultureInfo("es-ES", false), CompareOptions.IgnoreNonSpace);
+
+        if (!guessed.Any(a => comparer.Equals(a.ToString(), letter.ToString())))
         {
             guessed.Add(letter);
         }
 
-        if(answer.Any(a => a.ToString().Equals(letter.ToString(), StringComparison.OrdinalIgnoreCase)))
+        if(answer.Any(a => comparer.Equals(a.ToString(), letter.ToString())))
         {
             CalculateWord(answer, guessed);
 
@@ -157,9 +175,12 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
     private void CheckIfGameWon()
     {
-        if(Spotlight.Replace(" ", string.Empty).Equals(answer, StringComparison.OrdinalIgnoreCase))
+        var comparer = StringComparer.Create(new CultureInfo("es-ES", false), CompareOptions.IgnoreNonSpace);
+
+        if (comparer.Equals(Spotlight.Replace(" ", string.Empty), answer))
         {
             StatusMessage = "¡Has ganado!";
+            ShowAnswerIsVisible = false;
             EnableButtons(false);
         }
     }
@@ -197,6 +218,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         guessed = new List<char>();
         CurrentImage = "img0.jpg";
         StatusMessage = string.Empty;
+        ShowAnswerIsVisible = true;
         SetRandomWord();
         CalculateWord(answer, guessed);
         UpdateStatus();
