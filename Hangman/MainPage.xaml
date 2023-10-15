@@ -23,7 +23,7 @@
             <Label
                 FontSize="40"
                 HorizontalOptions="Center"
-                Text="_ _ _ _ _"
+                Text="{Binding Spotlight}"
                 />
 
             <Label
