@@ -17,6 +17,18 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             OnPropertyChanged();
         }
     }
+
+    private List<char> keyboardLetters = new List<char>();
+    public List<char> KeyboardLetters
+    {
+        get => keyboardLetters;
+
+        set
+        {
+            keyboardLetters = value;
+            OnPropertyChanged();
+        }
+    }
     #endregion
 
     #region Global variables
@@ -28,6 +40,8 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
     public MainPage()
 	{
 		InitializeComponent();
+
+        KeyboardLetters.AddRange("ABCDEFGHIJKLMNÑOPQRSTUVWXYZ");
 
         BindingContext = this;
 
