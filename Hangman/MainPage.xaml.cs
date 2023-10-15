@@ -91,7 +91,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 		InitializeComponent();
 
         KeyboardLetters.AddRange("ABCDEFGHIJKLMNÑOPQRSTUVWXYZ");
-        AttempsMessage = "Intentos restantes: 6";
+        AttempsMessage = "INTENTOS RESTANTES: 6";
         CurrentImage = "img0.jpg";
         ShowAnswerIsVisible = true;
 
@@ -111,7 +111,12 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
         while(reader.Peek() is not -1)
 		{
-			words.Add(reader.ReadLine().Split("/").FirstOrDefault().ToUpper());
+            var word = reader.ReadLine().Split("/").FirstOrDefault().ToUpper();
+
+            if (word.Length <= 8)
+            {
+                words.Add(word);
+            }
 		}
     }
 
@@ -131,7 +136,13 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
     private void ShowAnswerButton_Clicked(object sender, EventArgs e)
     {
-        CalculateWord(answer, answer.ToArray().ToList());
+        guessed = answer.ToArray().ToList();
+
+        CalculateWord(answer, guessed);
+
+        ShowAnswerIsVisible = false;
+
+        EnableButtons(false);
     }
 
     private void KeyboardButton_Clicked(object sender, EventArgs e)
@@ -179,7 +190,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
         if (comparer.Equals(Spotlight.Replace(" ", string.Empty), answer))
         {
-            StatusMessage = "¡Has ganado!";
+            StatusMessage = "¡HAS GANADO!";
             ShowAnswerIsVisible = false;
             EnableButtons(false);
         }
@@ -187,14 +198,14 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
     private void UpdateStatus()
     {
-        AttempsMessage = $"Intentos restantes: {6 - mistakes}";
+        AttempsMessage = $"INTENTOS RESTANTES: {6 - mistakes}";
     }
 
     private void CheckIfGameOver()
     {
         if(mistakes == 6)
         {
-            StatusMessage = "¡Has perdido!";
+            StatusMessage = "¡HAS PERDIDO!";
             EnableButtons(false);
         }
     }

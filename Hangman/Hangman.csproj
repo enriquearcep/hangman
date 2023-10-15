@@ -49,6 +49,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Fonts\Donkin.otf" />
+	  <None Remove="Resources\Fonts\Mistage.ttf" />
 	  <None Remove="Resources\Images\img0.jpg" />
 	  <None Remove="Resources\Images\img1.jpg" />
 	  <None Remove="Resources\Images\img2.jpg" />

@@ -11,6 +11,8 @@ public static class MauiProgram
 			{
 				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+				fonts.AddFont("Donkin.otf", "Donkin");
+				fonts.AddFont("Mistage.ttf", "Mistage");
 			});
 
 		return builder.Build();
