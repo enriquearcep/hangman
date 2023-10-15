@@ -14,12 +14,12 @@
             <Label
                 FontAttributes="Bold"
                 HorizontalOptions="Center"
-                Text="Intentos restantes: 6"
+                Text="{Binding AttempsMessage}"
                 />
 
             <Image
                 HeightRequest="200"
-                Source="img0.jpg"
+                Source="{Binding CurrentImage}"
                 />
 
             <Label

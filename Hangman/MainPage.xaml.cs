@@ -41,11 +41,36 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             OnPropertyChanged();
         }
     }
+
+    private string attempsMessage;
+    public string AttempsMessage
+    {
+        get => attempsMessage;
+
+        set
+        {
+            attempsMessage = value;
+            OnPropertyChanged();
+        }
+    }
+
+    private string _currentImage;
+    public string CurrentImage
+    {
+        get => _currentImage;
+
+        set
+        {
+            _currentImage = value;
+            OnPropertyChanged();
+        }
+    }
     #endregion
 
     #region Global variables
     List<string> words = new List<string>();
 	string answer = string.Empty;
+	int mistakes = 0;
     List<char> guessed = new List<char>();
     #endregion
 
@@ -54,6 +79,8 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 		InitializeComponent();
 
         KeyboardLetters.AddRange("ABCDEFGHIJKLMNÑOPQRSTUVWXYZ");
+        AttempsMessage = "Intentos restantes: 6";
+        CurrentImage = "img0.jpg";
 
         BindingContext = this;
 
@@ -96,6 +123,11 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
     private void KeyboardButton_Clicked(object sender, EventArgs e)
     {
+        if(CheckIfGameOver() || CheckIfGameWon())
+        {
+            return;
+        }
+
         var keyboardButton = sender as Button;
 
         if (keyboardButton != null)
@@ -119,13 +151,44 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
             CheckIfGameWon();
         }
+        else
+        {
+            mistakes++;
+
+            UpdateStatus();
+
+            CurrentImage = $"img{mistakes}.jpg";
+
+            CheckIfGameOver();
+        }
     }
 
-    private void CheckIfGameWon()
+    private bool CheckIfGameWon()
     {
         if(Spotlight.Replace(" ", string.Empty).Equals(answer, StringComparison.OrdinalIgnoreCase))
         {
             StatusMessage = "¡Has ganado!";
+
+            return true;
         }
+
+        return false;
+    }
+
+    private void UpdateStatus()
+    {
+        AttempsMessage = $"Intentos restantes: {6 - mistakes}";
+    }
+
+    private bool CheckIfGameOver()
+    {
+        if(mistakes == 6)
+        {
+            StatusMessage = "¡Has perdido!";
+
+            return true;
+        }
+
+        return false;
     }
 }
