@@ -3,7 +3,53 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Hangman.MainPage">
 
-    <Grid>
+    <Grid
+        RowDefinitions="0.6*, 0.4*"
+        >
+
+        <VerticalStackLayout>
+
+            <Label
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                Text="Intentos restantes: 6"
+                />
+
+            <Image
+                HeightRequest="200"
+                Source="img0.jpg"
+                />
+
+            <Label
+                FontSize="40"
+                HorizontalOptions="Center"
+                Text="_ _ _ _ _"
+                />
+
+            <Label
+                FontSize="36"
+                HorizontalTextAlignment="Center"
+                Text="¡Has ganado!"
+                />
+
+            <HorizontalStackLayout
+                HorizontalOptions="CenterAndExpand"
+                Spacing="10"
+                >
+
+                <Button
+                    HorizontalOptions="CenterAndExpand"
+                    Text="NUEVO JUEGO"
+                    />
+
+                <Button
+                    HorizontalOptions="CenterAndExpand"
+                    Text="REVELAR RESPUESTA"
+                    />
+
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
 
     </Grid>
 
