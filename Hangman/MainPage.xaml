@@ -7,7 +7,9 @@
         RowDefinitions="0.6*, 0.4*"
         >
 
-        <VerticalStackLayout>
+        <VerticalStackLayout
+            Margin="0, 15, 0, 0"
+            >
 
             <Label
                 FontAttributes="Bold"
@@ -29,11 +31,12 @@
             <Label
                 FontSize="36"
                 HorizontalTextAlignment="Center"
-                Text="¡Has ganado!"
+                Text="{Binding StatusMessage}"
                 />
 
             <HorizontalStackLayout
                 HorizontalOptions="CenterAndExpand"
+                Margin="0, 15"
                 Spacing="10"
                 >
 
@@ -43,6 +46,7 @@
                     />
 
                 <Button
+                    Clicked="ShowAnswerButton_Clicked"
                     HorizontalOptions="CenterAndExpand"
                     Text="REVELAR RESPUESTA"
                     />
@@ -55,6 +59,7 @@
             BindableLayout.ItemsSource="{Binding KeyboardLetters}"
             Grid.Row="1"
             JustifyContent="SpaceEvenly"
+            Margin="10, 0"
             Wrap="Wrap"
             >
 
@@ -63,6 +68,7 @@
                 <DataTemplate>
 
                     <Button
+                        Clicked="KeyboardButton_Clicked"
                         HeightRequest="50"
                         WidthRequest="50"
                         Text="{Binding .}"
