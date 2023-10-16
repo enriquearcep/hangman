@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using Hangman.Models;
+using System.ComponentModel;
 using System.Globalization;
 
 namespace Hangman;
@@ -6,6 +7,18 @@ namespace Hangman;
 public partial class MainPage : ContentPage, INotifyPropertyChanged
 {
     #region Properties
+    private List<Life> lifes;
+    public List<Life> Lifes
+    {
+        get => lifes;
+
+        set
+        {
+            lifes = value;
+            OnPropertyChanged();
+        }
+    }
+
     private string spotlight;
     public string Spotlight
     {
@@ -42,18 +55,6 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         }
     }
 
-    private string attempsMessage;
-    public string AttempsMessage
-    {
-        get => attempsMessage;
-
-        set
-        {
-            attempsMessage = value;
-            OnPropertyChanged();
-        }
-    }
-
     private string _currentImage;
     public string CurrentImage
     {
@@ -77,6 +78,18 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             OnPropertyChanged();
         }
     }
+
+    private bool resultGameIsVisible;
+    public bool ResultGameIsVisible
+    {
+        get => resultGameIsVisible;
+
+        set
+        {
+            resultGameIsVisible = value;
+            OnPropertyChanged();
+        }
+    }
     #endregion
 
     #region Global variables
@@ -91,9 +104,10 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 		InitializeComponent();
 
         KeyboardLetters.AddRange("ABCDEFGHIJKLMNÑOPQRSTUVWXYZ");
-        AttempsMessage = "INTENTOS RESTANTES: 6";
         CurrentImage = "img0.jpg";
         ShowAnswerIsVisible = true;
+        ResultGameIsVisible = false;
+        RestartLifes();
 
         BindingContext = this;
 
@@ -104,6 +118,31 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         CalculateWord(answer, guessed);
 	}
 
+    private void RestartLifes()
+    {
+        Lifes = new List<Life>()
+        {
+            new Life() { Alive = true },
+            new Life() { Alive = true },
+            new Life() { Alive = true },
+            new Life() { Alive = true },
+            new Life() { Alive = true },
+            new Life() { Alive = true }
+        };
+    }
+
+    private void RemoveALife()
+    {
+        if (Lifes is null)
+        {
+            return;
+        }
+
+        int index = Lifes.IndexOf(Lifes.FirstOrDefault(f => !f.Alive));
+
+        Lifes[index == -1 ? Lifes.Count - 1 : index - 1].Alive = false;
+    }
+
     private void LoadWords()
     {
         using var stream = FileSystem.OpenAppPackageFileAsync("spanish.dic").Result;
@@ -111,9 +150,9 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 
         while(reader.Peek() is not -1)
 		{
-            var word = reader.ReadLine().Split("/").FirstOrDefault().ToUpper();
+            var word = reader.ReadLine().ToUpper();
 
-            if (word.Length <= 8)
+            if (word.Length > 3 && word.Length <= 8 && !word.Contains("Ñ"))
             {
                 words.Add(word);
             }
@@ -174,9 +213,11 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         }
         else
         {
+            Vibration.Default.Vibrate(TimeSpan.FromSeconds(1));
+
             mistakes++;
 
-            UpdateStatus();
+            RemoveALife();
 
             CurrentImage = $"img{mistakes}.jpg";
 
@@ -192,13 +233,9 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         {
             StatusMessage = "¡HAS GANADO!";
             ShowAnswerIsVisible = false;
+            ResultGameIsVisible = true;
             EnableButtons(false);
         }
-    }
-
-    private void UpdateStatus()
-    {
-        AttempsMessage = $"INTENTOS RESTANTES: {6 - mistakes}";
     }
 
     private void CheckIfGameOver()
@@ -206,6 +243,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         if(mistakes == 6)
         {
             StatusMessage = "¡HAS PERDIDO!";
+            ResultGameIsVisible = true;
             EnableButtons(false);
         }
     }
@@ -230,9 +268,10 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         CurrentImage = "img0.jpg";
         StatusMessage = string.Empty;
         ShowAnswerIsVisible = true;
+        ResultGameIsVisible = false;
+        RestartLifes();
         SetRandomWord();
         CalculateWord(answer, guessed);
-        UpdateStatus();
         EnableButtons();
     }
 }

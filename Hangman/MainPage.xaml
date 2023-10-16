@@ -13,11 +13,38 @@
             Margin="0, 15, 0, 0"
             >
 
-            <Label
-                FontFamily="Mistage"
-                HorizontalOptions="Center"
-                Text="{Binding AttempsMessage}"
-                />
+            <HorizontalStackLayout
+                BindableLayout.ItemsSource="{Binding Lifes}"
+                HorizontalOptions="CenterAndExpand"
+                Spacing="5"
+                >
+
+                <BindableLayout.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <Image
+                            VerticalOptions="Center"
+                            >
+
+                            <Image.Source>
+
+                                <FontImageSource
+                                    Color="White"
+                                    FontFamily="Icons"
+                                    Glyph="{Binding ImageSource, Mode=TwoWay}"
+                                    Size="20"
+                                    />
+
+                            </Image.Source>
+
+                        </Image>
+
+                    </DataTemplate>
+
+                </BindableLayout.ItemTemplate>
+
+            </HorizontalStackLayout>
 
             <Image
                 HeightRequest="200"
@@ -43,6 +70,7 @@
                 FontFamily="Mistage"
                 FontSize="36"
                 HorizontalTextAlignment="Center"
+                IsVisible="{Binding ResultGameIsVisible}"
                 Text="{Binding StatusMessage}"
                 />
 
