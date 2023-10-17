@@ -1,4 +1,5 @@
 ﻿using Hangman.Models;
+using Plugin.Maui.Audio;
 using System.ComponentModel;
 using System.Globalization;
 
@@ -209,6 +210,8 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         {
             CalculateWord(answer, guessed);
 
+            PlayHitSound();
+
             CheckIfGameWon();
         }
         else
@@ -218,6 +221,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             mistakes++;
 
             RemoveALife();
+            PlayWrongSound();
 
             CurrentImage = $"img{mistakes}.jpg";
 
@@ -246,6 +250,20 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             ResultGameIsVisible = true;
             EnableButtons(false);
         }
+    }
+
+    private void PlayHitSound()
+    {
+        var audioPlayer = AudioManager.Current.CreatePlayer(FileSystem.OpenAppPackageFileAsync("hit.wav").Result);
+
+        audioPlayer.Play();
+    }
+
+    private void PlayWrongSound()
+    {
+        var audioPlayer = AudioManager.Current.CreatePlayer(FileSystem.OpenAppPackageFileAsync("wrong.wav").Result);
+
+        audioPlayer.Play();
     }
 
     private void EnableButtons(bool enable = true)
