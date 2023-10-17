@@ -236,6 +236,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         if (comparer.Equals(Spotlight.Replace(" ", string.Empty), answer))
         {
             StatusMessage = "¡HAS GANADO!";
+            PlayWonSound();
             ShowAnswerIsVisible = false;
             ResultGameIsVisible = true;
             EnableButtons(false);
@@ -247,6 +248,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         if(mistakes == 6)
         {
             StatusMessage = "¡HAS PERDIDO!";
+            PlayGameOverSound();
             ResultGameIsVisible = true;
             EnableButtons(false);
         }
@@ -262,6 +264,20 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
     private void PlayWrongSound()
     {
         var audioPlayer = AudioManager.Current.CreatePlayer(FileSystem.OpenAppPackageFileAsync("wrong.wav").Result);
+
+        audioPlayer.Play();
+    }
+
+    private void PlayWonSound()
+    {
+        var audioPlayer = AudioManager.Current.CreatePlayer(FileSystem.OpenAppPackageFileAsync("won.wav").Result);
+
+        audioPlayer.Play();
+    }
+
+    private void PlayGameOverSound()
+    {
+        var audioPlayer = AudioManager.Current.CreatePlayer(FileSystem.OpenAppPackageFileAsync("game_over.wav").Result);
 
         audioPlayer.Play();
     }
