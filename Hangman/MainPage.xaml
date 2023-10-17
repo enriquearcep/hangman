@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Hangman.MainPage"
-             BackgroundColor="Black"
+             BackgroundColor="#f0ccef"
              >
 
     <Grid
@@ -30,7 +30,7 @@
                             <Image.Source>
 
                                 <FontImageSource
-                                    Color="White"
+                                    Color="Black"
                                     FontFamily="Icons"
                                     Glyph="{Binding ImageSource, Mode=TwoWay}"
                                     Size="20"
@@ -48,19 +48,21 @@
 
             <Image
                 HeightRequest="200"
+                Margin="0, 10"
                 Source="{Binding CurrentImage}"
                 />
 
             <Label
                 FontFamily="Donkin"
                 FontSize="40"
-                HorizontalOptions="Center"
-                Margin="0, 15, 0, 0"
+                HorizontalOptions="FillAndExpand"
+                HorizontalTextAlignment="Center"
                 Text="{Binding Spotlight}"
-                TextColor="White"
+                TextColor="Black"
                 />
 
             <BoxView
+                Color="Black"
                 HeightRequest="1"
                 HorizontalOptions="FillAndExpand"
                 Margin="15"
@@ -72,6 +74,7 @@
                 HorizontalTextAlignment="Center"
                 IsVisible="{Binding ResultGameIsVisible}"
                 Text="{Binding StatusMessage}"
+                TextColor="Black"
                 />
 
             <HorizontalStackLayout
@@ -85,6 +88,7 @@
                     FontFamily="Mistage"
                     HorizontalOptions="CenterAndExpand"
                     Text="NUEVO JUEGO"
+                    TextColor="Black"
                     />
 
                 <Button
@@ -93,6 +97,7 @@
                     HorizontalOptions="CenterAndExpand"
                     IsVisible="{Binding ShowAnswerIsVisible}"
                     Text="REVELAR RESPUESTA"
+                    TextColor="Black"
                     />
 
             </HorizontalStackLayout>

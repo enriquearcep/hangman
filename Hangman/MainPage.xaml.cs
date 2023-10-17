@@ -105,7 +105,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 		InitializeComponent();
 
         KeyboardLetters.AddRange("ABCDEFGHIJKLMNÑOPQRSTUVWXYZ");
-        CurrentImage = "img0.jpg";
+        CurrentImage = "img_0.jpg";
         ShowAnswerIsVisible = true;
         ResultGameIsVisible = false;
         RestartLifes();
@@ -223,7 +223,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             RemoveALife();
             PlayWrongSound();
 
-            CurrentImage = $"img{mistakes}.jpg";
+            CurrentImage = $"img_{mistakes}.jpg";
 
             CheckIfGameOver();
         }
@@ -299,7 +299,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
     {
         mistakes = 0;
         guessed = new List<char>();
-        CurrentImage = "img0.jpg";
+        CurrentImage = "img_0.jpg";
         StatusMessage = string.Empty;
         ShowAnswerIsVisible = true;
         ResultGameIsVisible = false;
