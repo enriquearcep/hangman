@@ -3,11 +3,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Hangman.MainPage"
              BackgroundColor="#f0ccef"
+             xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
              >
 
     <Grid
         RowDefinitions="0.6*, 0.4*"
         >
+
+        <skia:SKLottieView
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            HorizontalOptions="Fill"
+            RepeatCount="-1"
+            IsVisible="{Binding RecentlyWinned}"
+            VerticalOptions="Fill"
+            Source="conffetti.json"
+            />
 
         <VerticalStackLayout
             Margin="0, 15, 0, 0"

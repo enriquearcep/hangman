@@ -91,6 +91,18 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             OnPropertyChanged();
         }
     }
+
+    private bool recentlyWinned;
+    public bool RecentlyWinned
+    {
+        get => recentlyWinned;
+
+        set
+        {
+            recentlyWinned = value;
+            OnPropertyChanged();
+        }
+    }
     #endregion
 
     #region Global variables
@@ -109,6 +121,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         ShowAnswerIsVisible = true;
         ResultGameIsVisible = false;
         RestartLifes();
+        RecentlyWinned = false;
 
         BindingContext = this;
 
@@ -268,11 +281,17 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         audioPlayer.Play();
     }
 
-    private void PlayWonSound()
+    private async Task PlayWonSound()
     {
         var audioPlayer = AudioManager.Current.CreatePlayer(FileSystem.OpenAppPackageFileAsync("won.wav").Result);
 
         audioPlayer.Play();
+
+        RecentlyWinned = true;
+
+        await Task.Delay(4000);
+
+        RecentlyWinned = false;
     }
 
     private void PlayGameOverSound()
@@ -303,6 +322,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         StatusMessage = string.Empty;
         ShowAnswerIsVisible = true;
         ResultGameIsVisible = false;
+        RecentlyWinned = false;
         RestartLifes();
         SetRandomWord();
         CalculateWord(answer, guessed);

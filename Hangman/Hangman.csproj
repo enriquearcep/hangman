@@ -51,6 +51,7 @@
 	  <None Remove="Resources\Fonts\Donkin.otf" />
 	  <None Remove="Resources\Fonts\fontello.ttf" />
 	  <None Remove="Resources\Fonts\Mistage.ttf" />
+	  <None Remove="Resources\Images\conffetti.json" />
 	  <None Remove="Resources\Images\img0.jpg" />
 	  <None Remove="Resources\Images\img1.jpg" />
 	  <None Remove="Resources\Images\img2.jpg" />
@@ -73,7 +74,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiImage Include="Resources\Raw\conffetti.json" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <PackageReference Include="Plugin.Maui.Audio" Version="2.0.0" />
+	  <PackageReference Include="SkiaSharp.Extended.UI.Maui" Version="2.0.0-preview.61" />
 	</ItemGroup>
 
 </Project>
