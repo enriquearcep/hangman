@@ -25,6 +25,38 @@
             >
 
             <HorizontalStackLayout
+                HorizontalOptions="Center"
+                Margin="0, 0, 0, 5"
+                Spacing="15"
+                >
+
+                <Label
+                    FontSize="10"
+                    Text="{Binding TotalWon, StringFormat='Ganadas: {0}'}"
+                    TextColor="Black"
+                    />
+
+                <Label
+                    FontSize="10"
+                    Text="{Binding TotalLost, StringFormat='Perdidas: {0}'}"
+                    TextColor="Black"
+                    />
+
+                <Label
+                    FontSize="10"
+                    Text="{Binding WinStreak, StringFormat='Racha: {0}'}"
+                    TextColor="Black"
+                    />
+
+                <Label
+                    FontSize="10"
+                    Text="{Binding LongestWinStreak, StringFormat='Racha más larga: {0}'}"
+                    TextColor="Black"
+                    />
+
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout
                 BindableLayout.ItemsSource="{Binding Lifes}"
                 HorizontalOptions="CenterAndExpand"
                 Spacing="5"

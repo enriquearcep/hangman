@@ -1,4 +1,7 @@
 ﻿using Hangman.Models;
+using Hangman.Services;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Maui.Controls;
 using Plugin.Maui.Audio;
 using System.ComponentModel;
 using System.Globalization;
@@ -103,6 +106,54 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
             OnPropertyChanged();
         }
     }
+
+    private int totalWon;
+    public int TotalWon
+    {
+        get => totalWon;
+
+        set
+        {
+            totalWon = value;
+            OnPropertyChanged();
+        }
+    }
+
+    private int totalLost;
+    public int TotalLost
+    {
+        get => totalLost;
+
+        set
+        {
+            totalLost = value;
+            OnPropertyChanged();
+        }
+    }
+
+    private int winStreak;
+    public int WinStreak
+    {
+        get => winStreak;
+
+        set
+        {
+            winStreak = value;
+            OnPropertyChanged();
+        }
+    }
+
+    private int longestWinStreak;
+    public int LongestWinStreak
+    {
+        get => longestWinStreak;
+
+        set
+        {
+            longestWinStreak = value;
+            OnPropertyChanged();
+        }
+    }
     #endregion
 
     #region Global variables
@@ -130,6 +181,8 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
 		SetRandomWord();
 
         CalculateWord(answer, guessed);
+
+        GetStats();
 	}
 
     private void RestartLifes()
@@ -242,13 +295,14 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         }
     }
 
-    private void CheckIfGameWon()
+    private async void CheckIfGameWon()
     {
         var comparer = StringComparer.Create(new CultureInfo("es-ES", false), CompareOptions.IgnoreNonSpace);
 
         if (comparer.Equals(Spotlight.Replace(" ", string.Empty), answer))
         {
             StatusMessage = "¡HAS GANADO!";
+            SetResult(true);
             PlayWonSound();
             ShowAnswerIsVisible = false;
             ResultGameIsVisible = true;
@@ -256,11 +310,55 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         }
     }
 
+    private async void GetStats()
+    {
+        try
+        {
+            var api = new ApiService();
+
+            var stats = await api.GetStats(GetDeviceId());
+
+            if(stats is not null)
+            {
+                TotalWon = stats.TotalWon;
+                TotalLost = stats.TotalLost;
+                WinStreak = stats.WinStreak;
+                LongestWinStreak = stats.LongestWinStreak;
+            }
+        }
+        catch (Exception)
+        {
+            // Nothing
+        }
+    }
+
+    private async void SetResult(bool won)
+    {
+        try
+        {
+            var api = new ApiService();
+
+            var saved = await api.SetResult(GetDeviceId(), answer, mistakes, won);
+
+            GetStats();
+        }
+        catch (Exception)
+        {
+            // Nothing
+        }
+    }
+
+    private string GetDeviceId()
+    {
+        return $"{DeviceInfo.Model}-{DeviceInfo.Manufacturer}-{DeviceInfo.Name}".Normalize();
+    }
+
     private void CheckIfGameOver()
     {
         if(mistakes == 6)
         {
             StatusMessage = "¡HAS PERDIDO!";
+            SetResult(false);
             PlayGameOverSound();
             ResultGameIsVisible = true;
             EnableButtons(false);
