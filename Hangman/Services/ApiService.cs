@@ -54,6 +54,41 @@ namespace Hangman.Services
             }
         }
 
+        public async Task<SignUpResponse> SignUp(SignUpRequest request)
+        {
+            try
+            {
+                using (var client = new HttpClient())
+                {
+                    var requestContent = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
+
+                    var response = await client.SendAsync(new HttpRequestMessage()
+                    {
+                        Content = requestContent,
+                        RequestUri = new Uri($"{GetApiUrl()}/account/sign-up"),
+                        Method = HttpMethod.Post
+                    });
+
+                    var responseText = await response.Content.ReadAsStringAsync();
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        return JsonSerializer.Deserialize<SignUpResponse>(responseText);
+                    }
+                    else
+                    {
+                        LoadError($"Error - {response.StatusCode}", responseText);
+                        return null;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                LoadError(ex);
+                return null;
+            }
+        }
+
         public async Task<bool> SetResult(SetResultRequest request)
         {
 			try

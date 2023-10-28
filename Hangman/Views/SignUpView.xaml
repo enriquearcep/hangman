@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Hangman.Views.SignInView"
-             Title="SignInView"
-             NavigationPage.HasNavigationBar="False"
+             x:Class="Hangman.Views.SignUpView"
+             Title="Nueva cuenta"
              BackgroundColor="#f0ccef"
              >
-    
+
     <VerticalStackLayout
         Padding="25"
         Spacing="15"
         >
-        
+
         <Label
             FontFamily="Mistage"
             FontSize="24"
@@ -27,7 +26,21 @@
             Text="El Ahorcado"
             TextColor="Black"
             />
-        
+
+        <Entry
+            FontFamily="Mistage"
+            Placeholder="Nombre"
+            Text="{Binding FirstName}"
+            TextColor="Black"
+            />
+
+        <Entry
+            FontFamily="Mistage"
+            Placeholder="Apellido"
+            Text="{Binding LastName}"
+            TextColor="Black"
+            />
+
         <Entry
             FontFamily="Mistage"
             Keyboard="Email"
@@ -45,26 +58,10 @@
             />
 
         <Button
-            Command="{Binding SignInCommand}"
+            Command="{Binding SignUpCommand}"
             FontFamily="Mistage"
             Text="ENTRAR"
             />
-
-        <Label
-            FontFamily="Mistage"
-            HorizontalOptions="Center"
-            Text="Crear una cuenta"
-            TextColor="Black"
-            TextDecorations="Underline"
-            >
-
-            <Label.GestureRecognizers>
-
-                <TapGestureRecognizer Command="{Binding RedirectToSignUpCommand}"/>
-
-            </Label.GestureRecognizers>
-            
-        </Label>
 
     </VerticalStackLayout>
     

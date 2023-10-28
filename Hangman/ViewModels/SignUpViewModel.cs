@@ -1,33 +1,25 @@
 ﻿using Hangman.Helpers;
 using Hangman.Models.Api.Request;
 using Hangman.Services;
-using Hangman.Views;
 using System.Windows.Input;
 
 namespace Hangman.ViewModels
 {
-    public class SignInViewModel
+    public class SignUpViewModel
     {
         #region Properties
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
         #endregion
 
         #region Commands
-        public ICommand SignInCommand => new Command(SignIn);
-        public ICommand RedirectToSignUpCommand => new Command(RedirectToSignUp);
-        #endregion
-
-        #region Constructors
-        public SignInViewModel()
-        {
-            Email = "medss@enriquepz.com";
-            Password = "$Kikin123";
-        } 
+        public ICommand SignUpCommand => new Command(SignUp);
         #endregion
 
         #region Functions
-        private async void SignIn()
+        private async void SignUp()
         {
             try
             {
@@ -35,13 +27,15 @@ namespace Hangman.ViewModels
                 {
                     var api = new ApiService();
 
-                    var signed = await api.SignIn(new SignInRequest()
+                    var registered = await api.SignUp(new SignUpRequest()
                     {
                         Email = Email,
-                        Password = Password
+                        Password = Password,
+                        FirstName = FirstName,
+                        LastName = LastName
                     });
 
-                    if (signed is null)
+                    if (registered is null)
                     {
                         var error = api.GetLastError();
 
@@ -50,24 +44,31 @@ namespace Hangman.ViewModels
                         return;
                     }
 
-                    SessionHelper.Set(signed.AccessToken);
+                    SessionHelper.Set(registered.AccessToken);
 
                     App.Current.MainPage = new MainPage();
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                await App.Current.MainPage.DisplayAlert("Error", ex.Message, "Aceptar");
+                // Nothing
             }
-        }
-
-        private void RedirectToSignUp()
-        {
-            App.Current.MainPage.Navigation.PushAsync(new SignUpView());
         }
 
         private bool AreValidFields()
         {
+            if(string.IsNullOrEmpty(FirstName))
+            {
+                App.Current.MainPage.DisplayAlert("Campo requerido", "Debes ingresar tu nombre.", "Aceptar");
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(LastName))
+            {
+                App.Current.MainPage.DisplayAlert("Campo requerido", "Debes ingresar tu apellido.", "Aceptar");
+                return false;
+            }
+
             if (string.IsNullOrEmpty(Email))
             {
                 App.Current.MainPage.DisplayAlert("Campo requerido", "Debes ingresar tu correo electrónico.", "Aceptar");
