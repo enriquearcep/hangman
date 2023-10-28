@@ -1,4 +1,5 @@
-﻿using Hangman.Models.Api.Request;
+﻿using Hangman.Helpers;
+using Hangman.Models.Api.Request;
 using Hangman.Services;
 using System.Windows.Input;
 
@@ -45,7 +46,9 @@ namespace Hangman.ViewModels
                     return;
                 }
 
-                await App.Current.MainPage.DisplayAlert("Signed", signed.AccessToken, "OK");
+                SessionHelper.Set(signed.AccessToken);
+
+                App.Current.MainPage = new MainPage();
             }
             catch (Exception ex)
             {

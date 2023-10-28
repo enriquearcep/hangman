@@ -4,6 +4,7 @@
              x:Class="Hangman.MainPage"
              BackgroundColor="#f0ccef"
              xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
+             NavigationPage.HasNavigationBar="False"
              >
 
     <Grid

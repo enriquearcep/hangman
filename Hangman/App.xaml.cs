@@ -1,4 +1,5 @@
-﻿using Hangman.Views;
+﻿using Hangman.Helpers;
+using Hangman.Views;
 
 namespace Hangman;
 
@@ -8,6 +9,13 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new NavigationPage(new SignInView());
+		if(SessionHelper.IsAuthenticate())
+		{
+            MainPage = new NavigationPage(new MainPage());
+        }
+		else
+		{
+            MainPage = new NavigationPage(new SignInView());
+        }
 	}
 }

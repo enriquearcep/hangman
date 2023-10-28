@@ -1,7 +1,6 @@
 ﻿using Hangman.Models;
+using Hangman.Models.Api.Request;
 using Hangman.Services;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Maui.Controls;
 using Plugin.Maui.Audio;
 using System.ComponentModel;
 using System.Globalization;
@@ -316,7 +315,7 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         {
             var api = new ApiService();
 
-            var stats = await api.GetStats(GetDeviceId());
+            var stats = await api.GetStats();
 
             if(stats is not null)
             {
@@ -338,7 +337,12 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         {
             var api = new ApiService();
 
-            var saved = await api.SetResult(GetDeviceId(), answer, mistakes, won);
+            var saved = await api.SetResult(new SetResultRequest()
+            {
+                Word = answer,
+                Mistakes = mistakes,
+                Won = won
+            });
 
             GetStats();
         }

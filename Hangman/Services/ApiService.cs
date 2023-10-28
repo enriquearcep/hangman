@@ -1,9 +1,12 @@
 ﻿using Hangman.Models.Api;
 using Hangman.Models.Api.Request;
 using Hangman.Models.Api.Response;
+using System.Net.Http.Headers;
+using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using Hangman.Helpers;
 
 namespace Hangman.Services
 {
@@ -51,15 +54,21 @@ namespace Hangman.Services
             }
         }
 
-        public async Task<bool> SetResult(string deviceId, string word, int mistakes, bool won)
+        public async Task<bool> SetResult(SetResultRequest request)
         {
 			try
 			{
-                using(var client = new HttpClient())
+                var requestContent = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
+
+                using (var client = new HttpClient())
                 {
+                    client.DefaultRequestHeaders.Authorization =
+                        new AuthenticationHeaderValue("Bearer", SessionHelper.GetToken());
+
                     var response = await client.SendAsync(new HttpRequestMessage()
                     {
-                        RequestUri = new Uri($"{GetApiUrl()}/hangman/set-result?deviceId={deviceId}&word={word}&mistakes={mistakes}&won={won}"),
+                        Content = requestContent,
+                        RequestUri = new Uri($"{GetApiUrl()}/game/set-result"),
                         Method = HttpMethod.Post
                     });
 
@@ -72,15 +81,18 @@ namespace Hangman.Services
 			}
         }
 
-        public async Task<Stats> GetStats(string deviceId)
+        public async Task<GetStatsResponse> GetStats()
         {
             try
             {
                 using (var client = new HttpClient())
                 {
+                    client.DefaultRequestHeaders.Authorization =
+                        new AuthenticationHeaderValue("Bearer", SessionHelper.GetToken());
+
                     var response = await client.SendAsync(new HttpRequestMessage()
                     {
-                        RequestUri = new Uri($"{GetApiUrl()}/hangman/get-stats?deviceId={deviceId}"),
+                        RequestUri = new Uri($"{GetApiUrl()}/game/get-stats"),
                         Method = HttpMethod.Get
                     });
 
@@ -88,7 +100,7 @@ namespace Hangman.Services
 
                     if (response.IsSuccessStatusCode)
                     {
-                        return JsonSerializer.Deserialize<Stats>(jsonResponse);
+                        return JsonSerializer.Deserialize<GetStatsResponse>(jsonResponse);
                     }
                     else
                     {
@@ -138,21 +150,6 @@ namespace Hangman.Services
         public class ConfigFile
         {
             public string ApiUrl { get; set; }
-        }
-
-        public class Stats
-        {
-            [JsonPropertyName("totalWon")]
-            public int TotalWon { get; set; }
-
-            [JsonPropertyName("totalLost")]
-            public int TotalLost { get; set; }
-
-            [JsonPropertyName("winStreak")]
-            public int WinStreak { get; set; }
-
-            [JsonPropertyName("longestWinStreak")]
-            public int LongestWinStreak { get; set; }
         }
     }
 }
