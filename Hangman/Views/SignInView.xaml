@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hangman.Views.SignInView"
+             Title="SignInView"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#f0ccef"
+             >
+    
+    <VerticalStackLayout
+        Padding="25"
+        Spacing="15"
+        >
+        
+        <Label
+            FontFamily="Mistage"
+            FontSize="24"
+            HorizontalOptions="Center"
+            Text="Bienvenido/a al juego"
+            TextColor="Black"
+            />
+
+        <Label
+            FontFamily="Donkin"
+            FontSize="32"
+            HorizontalOptions="Center"
+            Text="El Ahorcado"
+            TextColor="Black"
+            />
+        
+        <Entry
+            FontFamily="Mistage"
+            Keyboard="Email"
+            Placeholder="Correo electrónico"
+            Text="{Binding Email}"
+            TextColor="Black"
+            />
+
+        <Entry
+            FontFamily="Mistage"
+            IsPassword="True"
+            Placeholder="Contraseña"
+            Text="{Binding Password}"
+            TextColor="Black"
+            />
+
+        <Button
+            Command="{Binding SignInCommand}"
+            FontFamily="Mistage"
+            Text="ENTRAR"
+            />
+
+    </VerticalStackLayout>
+    
+</ContentPage>
