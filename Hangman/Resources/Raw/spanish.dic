@@ -1,1436 +1,1744 @@
-VELOCIDAD
-CANTIDAD
-IMPORTANTE
-PERSONAL
-MARAVILLOSO
-CIRCUNSTANCIA
-POSIBILIDAD
-INMEDIATO
-ESENCIAL
-DIFERENTE
-ESTRATEGIA
-COMPLICADO
-FUNCIONAMIENTO
-RESPONSABLE
-DETERMINACIÓN
-INFORMACIÓN
-INTERESANTE
-NECESARIO
-EFICIENTE
-SATISFACCIÓN
-ESTABLECIMIENTO
-FORTALEZA
-AMPLIO
-INDEPENDIENTE
-APROXIMADAMENTE
-IMAGINACIÓN
-ADAPTACIÓN
-LIDERAZGO
-CAPACIDAD
-RESPETABLE
-FUNDAMENTAL
-DESTACADO
-EXCELENTE
-EMOCIONANTE
-COMPRENSIÓN
-ADECUADO
-SUPERIOR
-AMPLIAMENTE
-REALMENTE
-SUSTANCIA
-REPRESENTATIVO
-SIGNIFICATIVO
-PROMINENTE
-ATRACTIVO
-EMPRESARIAL
-APROPIADO
-EXCEPCIONAL
-EXIGENTE
-SORPRENDENTE
-ENRIQUECEDOR
-BRILLANTE
-DETERMINADO
-VIGOROSO
-INNOVADOR
-VENTAJA
-PERMANENTE
-DECISIVO
-AVENTURA
-EQUILIBRIO
-ESTIMULANTE
-EFICAZ
-HABILIDOSO
-RENDIMIENTO
-RESPETADO
-ATRACTIVIDAD
-LOGRO
-CONVICCIÓN
-INOLVIDABLE
-IMPORTANCIA
-PROFUNDIDAD
-ALCANCE
-DESCUBRIMIENTO
-CONSECUENCIA
-ELEVADO
-OPORTUNIDAD
-SATISFACTORIO
-EXPERIMENTADO
-DURADERO
-PROSPERIDAD
-FUNDAMENTO
-VALIOSO
-ALCANZABLE
-INTERESADO
-RACIONAL
-SIGNIFICADO
-VALIENTE
-COLABORADOR
-INTELIGENTE
-DESTINO
-ENERGÍA
-FELICIDAD
-EFICAZMENTE
-PRECISIÓN
-PROMINENCIA
-ENFOQUE
-MARAVILLA
-INGENIOSO
-AUTENTICIDAD
-ESTRATÉGICO
-CRECIENTE
-INTERÉS
-DESARROLLADO
-AMPLIFICADOR
-EFICACIA
-APOYO
-COLABORACIÓN
-GARANTÍA
-INCLUSIÓN
-VIGOR
-ESTUPENDO
-EXCITANTE
-VENTUROSO
-INTELIGENCIA
-MAGNÍFICO
-CALIDAD
-ENRIQUECIMIENTO
-RENDIDOR
-DISTINGUIDO
-FAVORECEDOR
-ESTIMADO
-SENSACIÓN
-TRIUNFANTE
-ELEGANCIA
-RESISTENCIA
-INTRÉPIDO
-ADMIRABLE
-AUDAZ
-CARISMÁTICO
-SUBLIME
-EXUBERANTE
-PLENITUD
-GRANDEZA
-MAJESTUOSO
-MAGISTRAL
-TALENTO
-TRIUNFO
-SOBRESALIENTE
-SUPERACIÓN
-INVENCIBLE
-EXCELSO
-EXITOSO
-MAESTRÍA
-EXQUISITO
-ENCOMIABLE
-ESPECTACULAR
-TRIUNFADOR
-PRODIGIOSO
-EXÓTICO
-CELEBRADO
-ADMIRADO
-FABULOSO
-BRILLANT
-ESPECIALIDAD
-GLORIOSO
-DISTINGUIBLE
-ESPLENDOR
-VIGENTE
-VALEROSO
-ESPECIALISTA
-TRASCENDENTE
-ASOMBROSO
-NOTABLE
-EFICACÍSIMO
-HÁBIL
-HEROICO
-GIGANTESCO
-SUBLIMIDAD
-MAJESTUOSIDAD
-EXCELENCIA
-ADMIRACIÓN
-FANTÁSTICO
-ADMIRABLEMENTE
-BRILLANTÍSIMO
-VICTORIOSO
-RELEVANTE
-INOLVIDABLEMENTE
-IMPONENTE
-EXQUISITEZ
-PREMIUM
-SOLEMNIDAD
-INVENCIBILIDAD
-ILUSTRE
-SOBRESALIENTEMENTE
-MAGNO
-ADMIRATIVO
-HERMOSURA
-EXCELSITUD
-ADMIRADOR
-FABULOSAMENTE
-ELOCUENCIA
-HERMOSAMENTE
-TRIUNFAL
-MERITORIO
-RECONOCIDO
-BRILLANTEZ
-SUBJETIVIDAD
-FELIZ
-ÚNICO
-VALIENTEMENTE
-TRIUNFANTEMENTE
-SORPRENDENTEMENTE
-ÚNICAMENTE
-CUALIDAD
-SIGNIFICATIVAMENTE
-TRASCENDENTEMENTE
-CAPACITADO
-TRIUNFALMENTE
-PRODIGIOSAMENTE
-HEROICIDAD
-GIGANTESCAMENTE
-SUBLIMEMENTE
-EXUBERANTEMENTE
-MAJESTUOSAMENTE
-ÚNICA
-ADMIRADORAMENTE
-BRILLANTÍSIMAMENTE
-MARAVILLOSAMENTE
-DESTACADAMENTE
-IMPONENTEMENTE
-MAGISTRALMENTE
-ESTUPENDAMENTE
-GLORIOSAMENTE
-FANTÁSTICAMENTE
-CELEBRADAMENTE
-HEROICAMENTE
-NOTABLEMENTE
-ADMIRATIVAMENTE
-SOLEMNEMENTE
-INVENCIBLEMENTE
-MERITORIAMENTE
-RECONOCIDAMENTE
-CONJUNTO
-ESFUERZO
-VEHÍCULO
-CONFIANZA
-DESTREZA
-COOPERACIÓN
-LIBERTAD
-ABUNDANCIA
-RESILIENCIA
-INSPIRACIÓN
-APRENDIZAJE
-INTEGRIDAD
-RECONOCIMIENTO
-DESARROLLO
-INNOVACIÓN
-SABIDURÍA
-PERSEVERANCIA
-HONESTIDAD
-RESPONSABILIDAD
-DECISIÓN
-PERSISTENCIA
-METICULOSIDAD
-PRODUCTIVIDAD
-OPTIMISMO
-TOLERANCIA
-VALOR
-MOTIVACIÓN
-PACIENCIA
-COMPROMISO
-INNOVAR
-PERSEVERAR
-EMPATÍA
-SOLIDARIDAD
-DIVERSIDAD
-ALEGRÍA
-ESPERANZA
-CREATIVIDAD
-CURIOSIDAD
-GRATITUD
-COMPASIÓN
-HUMILDAD
-GENEROSIDAD
-COMPETENCIA
-RESPETO
-SERENIDAD
-AMISTAD
-AMOR
-COMPRENDER
-ALGUNAS
-MOMENTO
-HISTORIA
-GENTE
-MINUTO
-SEGUNDO
-REALIDAD
-PERSONAS
-AÑOS
-PUEDE
-PROBLEMA
-GOBIERNO
-CIUDAD
-HOMBRE
-NOMBRE
-MAÑANA
-SEÑOR
-ESTADO
-FAMILIA
-PARTE
-CAMINO
-AMIGO
-AMIGA
-PALABRA
-SOLUCIÓN
-EMPRESA
-ECONOMÍA
-MERCADO
-RESULTADO
-PROGRAMA
-CULTURA
-PROFESOR
-RELACIÓN
-SALUD
-SOCIEDAD
-LIBRO
-INDUSTRIA
-TECNOLOGÍA
-UNIVERSIDAD
-INVESTIGACIÓN
-DEMOCRACIA
-PARTICIPACIÓN
-AUTONOMÍA
-TRADICIÓN
-CRECIMIENTO
-EXPERIENCIA
-CONTAMINACIÓN
-IDENTIDAD
-REPRESENTACIÓN
-EVALUACIÓN
-PROTECCIÓN
-ORGANIZACIÓN
-ÁRBOL
-AGUA
-LUNA
-TIERRA
-SOL
-NUBE
-LLUVIA
-VIENTO
-MAR
-RÍO
-FLOR
-PLANTA
-HOJA
-RAMA
-RAÍZ
-FRUTO
-SEMILLA
-ANIMAL
-PERRO
-GATO
-PAJARO
-PEZ
-CABALLO
-VACA
-OVEJA
-CERDO
-RATÓN
-ELEFANTE
-LEÓN
-TIGRE
-OSO
-LOBO
-SERPIENTE
-ARAÑA
-INSECTO
-MOSCA
-MOSQUITO
-MARIPOSA
-GUSANO
-HORMIGA
-CIELO
-ESTRELLA
-PLANETA
-COMETA
-GALAXIA
-UNIVERSO
-AIRE
-FUEGO
-MONTAÑA
-VALLE
-CALLE
-PUEBLO
-EDIFICIO
-CASA
-APARTAMENTO
-ESCUELA
-HOSPITAL
-BANCO
-IGLESIA
-TEMPLO
-ESTADIO
-PARQUE
-JARDÍN
-ZOOLÓGICO
-MUSEO
-BIBLIOTECA
-RESTAURANTE
-HOTEL
-TIENDA
-FÁBRICA
-GRANJA
-ESTACIÓN
-AEROPUERTO
-PUERTO
-PLAYA
-DESIERTO
-SELVA
-BOSQUE
-LAGO
-ISLA
-OCÉANO
-PUENTE
-TÚNEL
-CARRETERA
-COCHE
-BICICLETA
-MOTOCICLETA
-AUTOBÚS
-TREN
-AVIÓN
-BARCO
-CAMIÓN
-COHETE
-BALÓN
-JUEGO
-PELÍCULA
-MÚSICA
-CANCIÓN
-GUITARRA
-PIANO
-TROMPETA
-BATERÍA
-ARTE
-PINTURA
-ESCULTURA
-FOTOGRAFÍA
-DANZA
-TEATRO
-POESÍA
-NOVELA
-CUENTO
-REVISTA
-PERIÓDICO
-CIENCIA
-MATEMÁTICAS
-FÍSICA
-QUÍMICA
-BIOLOGÍA
-MEDICINA
-GEOGRAFÍA
-LENGUAJE
-RELIGIÓN
-FILOSOFÍA
-PSICOLOGÍA
-POLÍTICA
-DERECHO
-EDUCACIÓN
-COMPUTADORA
-INTERNET
-TELÉFONO
-TELEVISIÓN
-RADIO
-CÁMARA
-RELOJ
-LÁMPARA
-BOTELLA
-VASO
-TAZA
-PLATO
-CUCHARA
-CUCHILLO
-TENEDOR
-OLLA
-SARTÉN
-CAZUELA
-COPA
-JARRA
-BOLSO
-MOCHILA
-ZAPATO
-BOTA
-SANDALIA
-GORRA
-SOMBRERO
-CAMISA
-PANTALÓN
-FALDA
-VESTIDO
-SUÉTER
-CHAQUETA
-ABRIGO
-GUANTE
-BUFANDA
-CORBATA
-CINTURÓN
-ANILLO
-COLLAR
-PULSERA
-GAFAS
-ESPEJO
-CEPILLO
-PEINE
-JABÓN
-SHAMPOO
-TOALLA
-DIENTES
-MAQUILLAJE
-PERFUME
-PAPEL
-LAPICERO
-LÁPIZ
-BORRADOR
-TIJERAS
-GRAPADORA
-PEGAMENTO
-CUADERNO
-CARTA
-SOBRE
-PAQUETE
-CAJA
-BOLSA
-CESTA
-MONEDA
-BILLETE
-TARJETA
-FARMACIA
-CAFETERÍA
-BAR
-CINE
-CLÍNICA
-GIMNASIO
-ZOO
-ACUARIO
-OFICINA
-GARAJE
-ALMACÉN
-TALLER
-BUZÓN
-PUERTA
-VENTANA
-PISO
-ESCALERA
-ELEVADOR
-TECHO
-PARED
-SUELO
-AVENIDA
-PLAZA
-CARRIL
-AUTOPISTA
-CRUCE
-SEMÁFORO
-PASO
-VEREDA
-CICLOVÍA
-FUENTE
-POSTE
-SEÑAL
-BÁSCULA
-CAJERO
-MÁQUINA
-CANDADO
-LLAVE
-BOTÓN
-INTERRUPTOR
-CABLE
-ENCHUFE
-CARGADOR
-CONTROL
-MOUSE
-TECLADO
-PANTALLA
-IMPRESORA
-ESCÁNER
-CELULAR
-TABLETA
-PORTÁTIL
-AURICULARES
-ALTAVOZ
-MICRÓFONO
-TRIPODE
-LENTE
-FILTRO
-FLASH
-MEMORIA
-DISCO
-USB
-CONECTOR
-BLUETOOTH
-WIFI
-SOFTWARE
-APLICACIÓN
-NAVEGADOR
-BUSCADOR
-CORREO
-MENSAJE
-CHAT
-FORO
-BLOG
-SITIO
-PÁGINA
-LINK
-RED
-SOCIAL
-VIDEO
-IMAGEN
-AUDIO
-TEXTO
-FOTO
-GRÁFICO
-DISEÑO
-ESTILO
-COLOR
-FORMA
-TAMAÑO
-PESO
-ALTURA
-ANCHO
-LARGO
-PROFUNDO
-VOLUMEN
-NÚMERO
-LETRA
-FRASE
-ORACIÓN
-PÁRRAFO
-CAPÍTULO
-SECCIÓN
-TÍTULO
-ETIQUETA
-LISTA
-TABLA
-FIGURA
-ICONO
-SÍMBOLO
-CÓDIGO
-PASSWORD
-USUARIO
-CUENTA
-PERFIL
-ROL
-GRUPO
-EQUIPO
-SOCIO
-CLIENTE
-VISITANTE
-MIEMBRO
-ADMIN
-MODERADOR
-AUTOR
-EDITOR
-LECTOR
-SUSCRIPTOR
-FAN
-SEGUIDOR
-CONTACTO
-RECURSO
-ARCHIVO
-CARPETA
-DIRECTORIO
-UBICACIÓN
-ORIGEN
-INICIO
-FIN
-ARRIBA
-ABAJO
-IZQUIERDA
-DERECHA
-FRENTE
-ATRÁS
-ENTRADA
-SALIDA
-LLEGADA
-ENTRAR
-SALIR
-ABRIR
-CERRAR
-EMPEZAR
-TERMINAR
-CONTINUAR
-PAUSAR
-DETENER
-CANCELAR
-BORRAR
-CREAR
-EDITAR
-MODIFICAR
-ACTUALIZAR
-REFRESCAR
-CARGAR
-DESCARGAR
-SUBIR
-BAJAR
-ENVIAR
-RECIBIR
-RESPONDER
-REENVIAR
-SOLICITAR
-PERMITIR
-DENEGAR
-ACEPTAR
-RECHAZAR
-CONFIRMAR
-VERIFICAR
-CHEQUEAR
-REVISAR
-INSPECCIONAR
-BUSCAR
-ENCONTRAR
-SELECCIONAR
-ELEGIR
-CAMBIAR
-MOVER
-GIRAR
-ROTAR
-ZOOM
-ALEJAR
-ACERCAR
-VISTA
-VISION
-OÍDO
-OLER
-SABOR
-TACTO
-SENTIR
-ESCUCHAR
-VER
-MIRAR
-OBSERVAR
-NOTAR
-RECONOCER
-RECORDAR
-OLVIDAR
-APRENDER
-ENSEÑAR
-GUIAR
-SEGUIR
-LIDERAR
-MANDAR
-OBEDECER
-ESCOGER
-DECIDIR
-PLANEAR
-PREPARAR
-ORGANIZAR
-ORDENAR
-LIMPIAR
-CONSTRUIR
-REPARAR
-MEJORAR
-AUMENTAR
-REDUCIR
-CRECER
-DISMINUIR
-ACELERAR
-FRENAR
-AVANZAR
-RETROCEDER
-CRUZAR
-PASAR
-LLEGAR
-QUEDAR
-PERMANECER
-ESPERAR
-DURAR
-COMPLETAR
-FINALIZAR
-LOGRAR
-CONSEGUIR
-GANAR
-PERDER
-TRIUNFAR
-FRACASAR
-COMPETIR
-PARTICIPAR
-COLABORAR
-CONTRIBUIR
-AYUDAR
-ASISTIR
-SOPORTAR
-DEFENDER
-PROTEGER
-SEGURIDAD
-RIESGO
-PELIGRO
-EMERGENCIA
-URGENCIA
-CRISIS
-RESPUESTA
-REACCIÓN
-EFECTO
-ÉXITO
-FRACASO
-SUERTE
-FUTURO
-PRESENTE
-PASADO
-CONOCIMIENTO
-DATO
-ESTADÍSTICA
-ANÁLISIS
-ESTUDIO
-INVENCIÓN
-IDEA
-PENSAMIENTO
-MENTE
-CEREBRO
-SENSIBILIDAD
-EMOCIÓN
-SENTIMIENTO
-PASIÓN
-DESEO
-NECESIDAD
-OBJETIVO
-META
-PROPÓSITO
-PLAN
-TÁCTICA
-ACCIÓN
-ACTIVIDAD
-MOVIMIENTO
-OPERACIÓN
-PROCESO
-SISTEMA
-MÉTODO
-HERRAMIENTA
-MATERIAL
-COMPONENTE
-ELEMENTO
-PIEZA
-CAPA
-NIVEL
-ETAPA
-FASE
-PERÍODO
-ÉPOCA
-TEMPORADA
-TIEMPO
-HORARIO
-RUTINA
-HÁBITO
-COSTUMBRE
-COMUNIDAD
-INSTITUCIÓN
-NACIÓN
-PAÍS
-BARRIO
-DOMICILIO
-LUGAR
-ZONA
-ÁREA
-REGIÓN
-TERRITORIO
-CONTINENTE
-OCEÁNO
-PISCINA
-COLINA
-FLORA
-FAUNA
-HIERBA
-ESPACIO
-ASTEROIDE
-METEORO
-CLIMA
-TEMPERATURA
-CALOR
-FRÍO
-NIEVE
-HIELO
-GRANIZO
-TORMENTA
-HURACÁN
-TORNADO
-TERREMOTO
-VOLCÁN
-INCENDIO
-INUNDACIÓN
-SEQUÍA
-HAMBRUNA
-ENFERMEDAD
-REMEDIO
-CURA
-REPOSO
-EJERCICIO
-DIETA
-ALIMENTO
-BEBIDA
-JUGO
-LECHE
-TE
-CAFÉ
-VINO
-CERVEZA
-COMIDA
-DESAYUNO
-ALMUERZO
-CENA
-SNACK
-FRUTA
-VERDURA
-CARNE
-PESCADO
-HUEVO
-PAN
-ARROZ
-PASTA
-SALSA
-AZÚCAR
-SAL
-PIMIENTA
-ACEITE
-VINAGRE
-MIEL
-QUESO
-YOGUR
-MANTEQUILLA
-JAMÓN
-SALCHICHA
-POLLO
-TURKEY
-PÁJARO
-METAL
-MADERA
-TELA
-PIEL
-CUERO
-PLÁSTICO
-VIDRIO
-CERÁMICA
-PIEDRA
-ARENA
-ORO
-PLATA
-BRONCE
-COBRE
-HIERRO
-ACERO
-ALUMINIO
-ZINC
-PLOMO
-TITANIO
-MERCURIO
-AZUFRE
-CARBONO
-OXÍGENO
-HIDRÓGENO
-NITRÓGENO
-CALCIO
-POTASIO
-FÓSFORO
-SODIO
-CLORO
-YODO
-FLÚOR
-SILICIO
-MAGNESIO
-PLATINO
-DIAMANTE
-RUBÍ
-ZAFIRO
-ESMERALDA
-PERLA
-AMBAR
-JADE
-OPALO
-CUARZO
-TURQUESA
-AGATA
-LAPISLÁZULI
-ONIX
-TOPACIO
-CORAL
-CRISTAL
-BRILLO
-LUZ
-OSCURIDAD
-SOMBRA
-ROJO
-AZUL
-VERDE
-AMARILLO
-NARANJA
-MORADO
-ROSA
-NEGRO
-BLANCO
-GRIS
-MARRÓN
-DORADO
-PLATEADO
-TINTA
-DIBUJO
-CUADRO
-MELODÍA
-RITMO
-ARMONÍA
-NOTA
-ACORDE
-VERSO
-CORO
-ESCENA
-ACTO
-PERSONAJE
-ACTOR
-ACTRIZ
-DIRECTOR
-PÚBLICO
-AUDIENCIA
-ESCENARIO
-TELÓN
-VESTUARIO
-DISFRAZ
-MÁSCARA
-LITERATURA
-PROSA
-ESCRITOR
-IMPRENTA
-ARTÍCULO
-NOTICIA
-REPORTE
-ENTREVISTA
-OPINIÓN
-CRÍTICA
-COMENTARIO
-ANUNCIO
-PUBLICIDAD
-MARCA
-PRODUCTO
-PRECIO
-COMPRA
-VENTA
-OFERTA
-DEMANDA
-VENDEDOR
-COMERCIO
-DINERO
-CRÉDITO
-DEUDA
-PAGO
-FACTURA
-CHEQUE
-BANQUERO
-INVERSIÓN
-AHORRO
-GASTO
-PRESUPUESTO
-IMPUESTO
-TASA
-PRÉSTAMO
-HIPOTECA
-SEGURO
-CONTRATO
-ACUERDO
-CONDICIÓN
-CLÁUSULA
-FIRMA
-TESTIGO
-ABOGADO
-JUEZ
-TRIBUNAL
-JUICIO
-SENTENCIA
-MULTA
-PENA
-CASTIGO
-CRIMEN
-DELITO
-FALTA
-INFRACCIÓN
-ROBO
-FRAUDE
-VIOLENCIA
-ACCIDENTE
-LESIÓN
-HERIDA
-DOLOR
-SUFRIMIENTO
-TRATAMIENTO
-MEDICAMENTO
-CIRUGÍA
-DOCTOR
-ENFERMERO
-PACIENTE
-SÍNTOMA
-DIAGNÓSTICO
-PROGNÓSTICO
-RECUPERACIÓN
-MEJORÍA
-CURACIÓN
-REMISIÓN
-RECAÍDA
-PREVENCIÓN
-VACUNA
-INMUNIZACIÓN
-ADVERTENCIA
-ALERTA
-CUIDADO
-PRECAUCIÓN
-AMENAZA
-DEFENSA
-RESCATE
-SALVAMENTO
-AYUDA
-ASISTENCIA
-SOPORTE
-CONSUELO
-UNIÓN
-PRACTICA
-OCUPACIÓN
-PROFESIÓN
-TRABAJO
-EMPLEO
-OFICIO
-CARRERA
-VOCACIÓN
-HABILIDAD
-ENSEÑANZA
-LECTURA
-ESCRITURA
-IDIOMA
-DEPORTE
-INFORMÁTICA
-WEBSITE
-EMAIL
-HARDWARE
-DOCUMENTO
-VIRUS
-CONTRASEÑA
-ACCESO
-SERVIDOR
-CONEXIÓN
-BÚSQUEDA
-VISITA
-CLICK
-DESCARGA
-UPLOAD
-BACKUP
-ERROR
-FALLA
-EVENTO
-FECHA
-AGENDA
-CITA
-REUNIÓN
-CONFERENCIA
-SEMINARIO
-CURSO
-CLASE
-EXAMEN
-PRUEBA
-CALIFICACIÓN
-AVANCE
-PROGRESO
-MEJORA
-CAMBIO
-TRANSFORMACIÓN
-REVOLUCIÓN
-EVOLUCIÓN
-SUPERVIVENCIA
-FUERZA
-PODER
-DOMINIO
-INFLUENCIA
-IMPACTO
-SERVICIO
-ATENCIÓN
-MANTENIMIENTO
-REPARACIÓN
-MODIFICACIÓN
-AJUSTE
-CORRECCIÓN
-VERIFICACIÓN
-CONFIRMACIÓN
-VALIDACIÓN
-APROBACIÓN
-ACEPTACIÓN
-RESPECTO
-CONSIDERACIÓN
-ESTIMA
-COSTO
-PÉRDIDA
-DESAFÍO
-OBSTÁCULO
-BARRERA
-LÍMITE
-RESTRICCIÓN
-PROHIBICIÓN
-VETO
-NEGACIÓN
-RECHAZO
-OPOSICIÓN
-QUEJA
-RECLAMO
-DENUNCIA
-ACUSACIÓN
-EXCUSA
-JUSTIFICACIÓN
-RAZÓN
-MOTIVO
-CAUSA
-BASE
-PRINCIPIO
-COMIENZO
-NACIMIENTO
-CREACIÓN
-FORMACIÓN
-EXPANSIÓN
-EXTENSIÓN
-DIVERSIFICACIÓN
-VARIACIÓN
-ALTERACIÓN
-VARIANTE
-VERSIÓN
-EDICIÓN
-REVISIÓN
-ACTUALIZACIÓN
-OPTIMIZACIÓN
-PERFECCIONAMIENTO
-INCREMENTO
-ADICIÓN
-AUMENTO
-MULTIPLICACIÓN
-AMPLITUD
-MAGNITUD
-INTENSIDAD
-POTENCIA
-VITALIDAD
-BIENESTAR
-COMODIDAD
-PLACER
-GOZO
-ENTUSIASMO
-PERCEPCIÓN
-REFLEXIÓN
-PERSPECTIVA
-VISIÓN
-CONCEPTO
-DEFINICIÓN
-EXPLICACIÓN
-DESCRIPCIÓN
-DETALLE
-CIFRA
-MEDIDA
-VALORACIÓN
-APRECIACIÓN
-ESTIMACIÓN
-CALCULO
-PREDICCIÓN
-PROYECCIÓN
-PROCEDIMIENTO
-TÉCNICA
-SEGMENTO
-FRACCIÓN
-PORCIÓN
-DOSIS
-GRADO
-ESCALA
-RANGO
-CATEGORÍA
-TIPO
-MODELO
-MODA
-TENDENCIA
-CORRIENTE
-FLUJO
-DIRECCIÓN
-RUTA
-TRAYECTO
-RECORRIDO
-VIAJE
-TRAVESÍA
-EXCURSIÓN
-TOUR
-EXPLORACIÓN
-INDAGACIÓN
-PREGUNTA
-CUESTIÓN
-DUDA
-INTERROGANTE
-DIFICULTAD
-COMPLICACIÓN
-CONFLICTO
-DISPUTA
-DEBATE
-DISCUSIÓN
-DIÁLOGO
-CONVERSACIÓN
-COMUNICACIÓN
-REPORTAJE
-NARRACIÓN
-RELATO
-REGISTRO
-ESTRUCTURA
-CONSTRUCCIÓN
-INFRAESTRUCTURA
-INSTALACIÓN
-INSTRUMENTO
-APARATO
-DISPOSITIVO
-MECANISMO
-INVENCION
-PRODUCCIÓN
-FABRICACIÓN
-MANUFACTURA
-NEGOCIO
-AUTORIDAD
-ADMINISTRACIÓN
-MANEJO
-GESTIÓN
-BENEFICIO
-GANANCIA
-UTILIDAD
-PROVECHO
-APROVECHAMIENTO
-EFICIENCIA
-SUPERIORIDAD
-PREFERENCIA
-ELECCIÓN
-SELECCIÓN
-RESOLUCIÓN
-FIRMEZA
-CONSTANCIA
-DEDICACIÓN
-OBLIGACIÓN
-DEBER
-MANDATO
-ORDEN
-INSTRUCCIÓN
-GUÍA
-ORIENTACIÓN
-CONSEJO
-RECOMENDACIÓN
-SUGERENCIA
-PROPUESTA
-INICIATIVA
-PROYECTO
-EJECUCIÓN
-REALIZACIÓN
-CUMPLIMIENTO
-VICTORIA
-CONQUISTA
-OBTENCIÓN
-ADQUISICIÓN
-TRANSACCIÓN
-INTERCAMBIO
-NEGOCIACIÓN
-PACTO
-ALIANZA
-ASOCIACIÓN
-SOCORRO
-SALVACIÓN
-RESGUARDO
-CONSERVACIÓN
-PRESERVACIÓN
-SALVAGUARDA
-ASEGURAMIENTO
-COMPROBACIÓN
-DEMOSTRACIÓN
-EVIDENCIA
-MUESTRA
-EJEMPLO
-ILUSTRACIÓN
-VISUALIZACIÓN
-OBSERVACIÓN
-INSPECCIÓN
-CONSULTA
-INTERROGATORIO
-CUESTIONARIO
-ENCUESTA
-SONDEO
-MEDITACIÓN
-CONTEMPLACIÓN
-FOCO
-CONCENTRACIÓN
-LABOR
-TAREA
-MISIÓN
-INTENCIÓN
-PREPARACIÓN
-CAPACITACIÓN
-ENTRENAMIENTO
-IMPLEMENTACIÓN
-USO
-UTILIZACIÓN
-MANDO
-SUPREMACÍA
-GUIA
-ASESORÍA
-PRESENTACIÓN
-EXHIBICIÓN
-EXPOSICIÓN
-DECLARACIÓN
-EXPRESIÓN
-MANIFESTACIÓN
-TRANSMISIÓN
-DIFUSIÓN
-PROPAGACIÓN
-VALORIZACIÓN
-MEDICIÓN
-ANALISIS
-CRITICA
-PUBLICACIÓN
-EMISIÓN
-ENTREGA
-PROPORCIÓN
-COMPARTIR
-DISTRIBUCIÓN
-REPARTO
-ASIGNACIÓN
-OTORGAMIENTO
-CONCESIÓN
-DONACIÓN
-REGALO
-OBSEQUIO
-PREMIO
-RECOMPENSA
-GALARDÓN
-HONOR
-DISTINCIÓN
-ADMISIÓN
-CONTRIBUCIÓN
-APORTACIÓN
-FINANCIAMIENTO
-FOMENTO
-PROMOCIÓN
-ESTÍMULO
-INCENTIVO
-IMPULSO
-EXPERTIZ
-COMANDO
-JERARQUÍA
-REVELACIÓN
-ILUMINACIÓN
-CLARIDAD
-LUCIDEZ
+ABISMO: Profundidad grande y peligrosa en la tierra o en el mar.
+BALUARTE: Fortificación elevada que defiende un lugar.
+CABILDO: Consejo o junta que trata asuntos administrativos o religiosos.
+DACIÓN: Acto de conceder o dar algo voluntariamente.
+EFICAZ: Capacidad de lograr efectivamente lo que se desea o se espera.
+FÁBRICA: Lugar donde se produce o construye algo en masa.
+GABINETE: Habitación destinada a un uso específico, como el trabajo.
+HÁBITO: Costumbre o práctica regular de una persona.
+ÍNDICE: Indicador, señal o lista ordenada.
+JABALÍ: Animal salvaje, similar al cerdo.
+KIOSCO: Pequeña estructura para vender periódicos, dulces, etc.
+LÁBARO: Antigua insignia romana, bandera o estandarte.
+MACABRO: Relativo a la muerte, que causa horror.
+NÁCAR: Sustancia brillante y dura que recubre el interior de algunos moluscos.
+ÓBICE: Obstáculo, impedimento.
+PACATO: Calmado, sin exaltaciones, que busca la paz.
+QUEBRADO: Partido, dividido, roto.
+RÁBANO: Planta comestible de raíz blanca o roja.
+SÁBADO: Sexto día de la semana.
+TABIQUE: Pared delgada que divide espacios internos.
+UBICAR: Situar o localizar en un espacio determinado.
+VÁLIDO: Que tiene eficacia o valor.
+WÁTER: Inodoro, retrete.
+XERÓFITA: Planta adaptada a ambientes secos.
+YACIMIENTO: Lugar donde se encuentra material arqueológico o mineral.
+ZÓCALO: Base de una construcción o parte inferior de una pared.
+ÚLCERA: Lesión abierta en la piel o membrana mucosa.
+ÍNFIMO: Muy pequeño o de poca importancia.
+ÁLGEBRA: Rama de las matemáticas que utiliza números y letras.
+ÉNFASIS: Fuerza de expresión para dar importancia a algo.
+HÁPTICO: Relativo al sentido del tacto.
+ÓRGANO: Parte del cuerpo con función específica; instrumento musical.
+ÚTERO: Órgano femenino donde se desarrolla el feto.
+ÓSCULO: Pequeña abertura o poro, especialmente en esponjas.
+ÍGNEO: Relativo al fuego.
+ÚMERO: Hueso del brazo humano.
+ÍDOLO: Imagen de adoración; persona muy admirada.
+ÚNICO: Sin otro igual, singular.
+ÍTEM: Elemento de una lista o enumeración.
+ÚTIL: Que sirve o es adecuado para su uso.
+YEMA: Parte interna del huevo; brote de una planta.
+ZURDO: Que usa principalmente la mano izquierda.
+ÍNDIGO: Color azul profundo; planta usada para teñir de este color.
+YUNQUE: Bloque de hierro sobre el cual se forjan metales.
+ZARPA: Garra de un animal.
+ZURRÓN: Bolsa grande usada para llevar cosas.
+YOGUR: Producto lácteo fermentado.
+YATE: Embarcación pequeña y lujosa para recreo.
+ÍMPETU: Fuerza o velocidad con que se mueve algo.
+ÓBITO: Muerte o fallecimiento de una persona.
+LITURGIA: Conjunto de ritos y ceremonias de una religión.
+MAGNITUD: Tamaño o cantidad de algo.
+NIMBO: Halo o aureola que rodea la cabeza de las figuras sagradas.
+OPTATIVO: Deseable, que se puede elegir o desear.
+PAROXISMO: Exacerbación extrema de un estado o sentimiento.
+QUIÓSCO: Estructura pequeña y abierta para vender diversos artículos.
+RELINCHO: Sonido característico que emite un caballo.
+SUTIL: Fino, delicado o que tiene agudeza mental.
+TRIBUTAR: Pagar impuestos o dar algo en señal de respeto.
+URBE: Ciudad, especialmente una grande y poblada.
+VÉRTIGO: Sensación de girar, acompañada de inestabilidad.
+WAGNERIANO: Relativo al compositor Richard Wagner o a su obra.
+XENÓFOBO: Persona que muestra hostilidad hacia los extranjeros.
+YUGULAR: Relativo a la parte del cuello donde están ubicadas las venas yugulares.
+ZAMBUYA: Variante de zambullida, acción de meterse en el agua.
+ÁUREO: Relativo al oro o de color oro.
+ÉBANO: Madera negra y dura, también un color negro intenso.
+ZAFIRO: Piedra preciosa de color azul.
+YUNTA: Par de animales enganchados para trabajar.
+YOYO: Juguete que sube y baja por un cordón enrollado.
+XILÓFONO: Instrumento musical de percusión con láminas de madera.
+VÓRTICE: Centro de una situación de intensa actividad o interés.
+UTOPÍA: Idea idealizada y perfecta, pero irrealizable.
+VIVAZ: Algo o alguien lleno de vida y energía.
+URDIMBRE: Conjunto de hilos que en una tela se cruzan con los de la trama.
+TRUENO: Sonido fuerte producido por la expansión del aire en un rayo.
+SÍMBOLO: Signo que representa algo abstracto o concreto.
+RÉQUIEM: Misa católica que se celebra para los muertos.
+QUÍMICO: Relativo a la química.
+PÚRPURA: Color rojo oscuro; rango o dignidad de cardenales y obispos.
+OXÍGENO: Elemento químico esencial para la respiración de los seres humanos.
+NÉCTAR: Jugo dulce de las flores; cualquier líquido dulce y agradable.
+MÍSTICO: Relativo a la unión del alma con Dios.
+LÍVIDO: Color azulado debido a un hematoma o falta de oxigenación.
+KÁRATE: Arte marcial de origen japonés.
+LIMBO: Lugar donde, según la teología cristiana, van las almas de quienes mueren sin bautizar.
+MODAL: Relativo a modo o manera.
+NOVELA: Obra literaria de ficción en prosa.
+ORQUESTA: Grupo de músicos que tocan instrumentos diferentes.
+PELUCA: Cabello falso que se usa en la cabeza.
+QUIOSCO: Estructura para la venta de revistas o refrescos.
+RELOJ: Instrumento para medir el tiempo.
+TROMPA: Parte frontal alargada de algunos animales; instrumento musical.
+VIRTUD: Cualidad moral buena de una persona.
+WOLFRAMIO: Elemento químico, también conocido como tungsteno.
+XEROX: Marca de una compañía conocida por sus máquinas fotocopiadoras.
+YEGUA: Hembra del caballo.
+ZAMBOMBA: Instrumento musical; fiesta popular en España.
+ÁMBITO: Espacio real o imaginario que incluye algo.
+ÉPOCA: Período específico en el tiempo.
+ÍCONO: Imagen o figura; símbolo que representa algo.
+OLIVA: Fruto del olivo; también, el propio árbol.
+PÚA: Espina o punta aguda en plantas o animales.
+QUILO: Unidad de peso, también conocida como kilogramo.
+RIÑÓN: Órgano que filtra la sangre, produciendo orina.
+SASTRE: Persona que se dedica a hacer ropa a medida.
+TRONO: Silla elevada donde se sienta una persona importante.
+UÑA: Lámina que protege la punta de los dedos.
+VIANDA: Tipo de alimento, usualmente referido a la comida.
+WEB: Sistema de información global accesible vía internet.
+YESO: Material usado en construcción y en moldes médicos.
+ZAPATO: Prenda que se usa para cubrir los pies.
+ÁNODO: Electrodo positivo en una célula electroquímica.
+ÉTER: Compuesto orgánico; también, cielo o espacio.
+ÓPTICO: Relativo a la visión o la luz.
+ZONA: Área o región específica.
+ÓRBITA: Trayectoria de un astro o electrón.
+VENA: Vaso sanguíneo que lleva la sangre hacia el corazón.
+WATT: Unidad de potencia eléctrica.
+XENOFOBIA: Odio o miedo a lo extranjero o desconocido.
+YOGA: Práctica física y mental originaria de la India.
+ZOOLÓGICO: Lugar donde se mantienen y exhiben animales.
+ÁTOMO: Unidad básica de la materia.
+ÉXITO: Resultado favorable en una tarea o acción.
+LABIAL: Referente a los labios o un cosmético usado en los labios.
+NATILLA: Postre cremoso a base de leche y huevos.
+ORÁCULO: Respuesta o predicción dada por una deidad a través de un intermediario.
+PAPELÓN: Situación embarazosa o incómoda; también un tipo de azúcar sin refinar.
+QUEMADO: Algo que ha sido dañado por el fuego o el calor.
+RADIAR: Emitir energía en forma de ondas o partículas.
+SAHUMERIO: Acto de producir humo aromático, generalmente en rituales religiosos.
+TABLERO: Superficie plana y amplia; parte de un juego; panel de instrumentos.
+UMBRAL: Entrada o comienzo de algo, como una puerta o una etapa.
+VACUNA: Sustancia que protege contra una enfermedad infecciosa.
+WILAYA: División administrativa en algunos países árabes, similar a una provincia.
+XEROFILIA: Adaptación de plantas para sobrevivir en ambientes secos.
+YEISMO: Fenómeno lingüístico en español donde "ll" y "y" se pronuncian igual.
+ZARPAR: Levantar el ancla y empezar a navegar.
+ÁLGIDO: Crítico, culminante, especialmente en un proceso o discusión.
+ÉGIDA: Protección, auspicio.
+VORÁGINE: Remolino violento de agua; situación caótica o tumultuosa.
+WEBCAM: Cámara utilizada para transmitir video en línea.
+XOCOYOTE: Hijo menor en una familia.
+YANQUI: Relativo a los Estados Unidos; un estadounidense.
+ZODÍACO: Banda celeste por donde se mueven el sol, la luna y los planetas.
+ÁSPERO: Superficie rugosa; situación difícil.
+DÁDIVA: Regalo o donación, algo dado gratuitamente.
+EMBALSE: Reserva artificial de agua.
+FÉRULA: Dispositivo usado para inmovilizar una parte del cuerpo lesionada.
+GRÚA: Maquinaria para levantar y mover objetos pesados.
+JARABE: Medicina líquida; solución azucarada.
+KÁISER: Emperador alemán.
+LÚGUBRE: Sombrío, triste, melancólico.
+MÉDULA: Parte interna; en biología, tejido dentro de huesos o el sistema nervioso central.
+PÉNJAMO: Lugar lleno de agua, charco grande.
+QUINTAL: Medida de peso equivalente a 100 kg.
+RÉPLICA: Respuesta; copia exacta; en geología, temblor posterior al principal.
+SÉPTIMO: Que sigue inmediatamente al sexto.
+TRÉBOL: Planta con hojas trifoliadas; símbolo de buena suerte.
+CALCIO: Elemento químico, esencial para los seres vivos; mineral en los huesos.
+DIURNO: Relativo al día, que ocurre durante el día.
+FÓSFORO: Elemento químico; componente de cerillas y fertilizantes.
+GLÁNDULA: Órgano que produce y secreta sustancias, como hormonas.
+HIATO: Separación de dos vocales que usualmente se pronuncian juntas.
+ÍNDOLE: Carácter o naturaleza inherente de algo.
+JENGIBRE: Raíz utilizada como especia y en medicina herbal.
+KIOSKO: Pequeño establecimiento para la venta de diversos artículos.
+MÚSCULO: Tejido corporal que produce movimiento al contraerse.
+NUBLADO: Cubierto de nubes; oscurecido, sin brillo.
+OVARIO: Órgano reproductor femenino que produce óvulos.
+PLÉYADE: Grupo de personas destacadas; grupo de estrellas.
+QUÓRUM: Número mínimo de miembros necesarios para tomar decisiones en una asamblea.
+REHÉN: Persona retenida para asegurar el cumplimiento de demandas.
+SÍNFISIS: Tipo de articulación en los huesos.
+TILO: Árbol con flores utilizadas en infusión para calmar nervios.
+UNCIÓN: Acto de ungir, usualmente con fines religiosos o medicinales.
+VORAZ: Que come o destruye en grandes cantidades.
+USANZA: Costumbre o práctica habitual.
+TÓRTOLA: Ave similar a una paloma, conocida por su canto melódico.
+RUBOR: Enrojecimiento de la piel, generalmente en la cara.
+QUIEBRA: Fracaso financiero, incapacidad para pagar deudas.
+PUTREFACTOR: Que causa descomposición o corrupción.
+OVULAR: Producir o liberar un óvulo.
+NUBES: Masas visibles de partículas de agua o hielo suspendidas en el aire.
+MÓVIL: Que se puede mover; un objeto colgante que se mueve con el aire.
+LATIR: Función repetitiva del corazón; palpitar.
+KERMÉS: Fiesta popular o feria.
+JINETE: Persona que monta a caballo.
+INCISO: Corte o muesca; en gramática, una cláusula insertada.
+HOZ: Herramienta curva utilizada para cortar hierba o grano.
+GRATIS: Sin costo, gratuito.
+FLUCTUAR: Cambiar regularmente de nivel, posición, etc.
+ESMERIL: Herramienta para pulir; variedad de corindón.
+DÚPLEX: Casa de dos pisos o apartamento en dos niveles.
+CUÓRUM: Número mínimo de personas requeridas para que una reunión sea válida.
+BROTE: Crecimiento nuevo en una planta; inicio o aparición de algo.
+ASIDUO: Frecuente, regular o persistente.
+BÓLIDO: Meteoro brillante; un coche rápido.
+CENIT: Punto más alto en el cielo sobre un observador.
+DÉFICIT: Cantidad por la cual los gastos exceden los ingresos.
+ACACIA: Tipo de árbol o arbusto con flores amarillas o blancas.
+CÁLIZ: Copa o vaso usado en ceremonias religiosas; parte de una flor.
+DESEMBOQUE: Lugar donde un río o corriente fluye hacia un cuerpo de agua más grande.
+EFLUVIO: Emisión de partículas, generalmente un olor desagradable.
+FRIVOLIDAD: Falta de seriedad o importancia; superficialidad.
+GAZAPO: Error, equivocación; cría de algunos animales como el conejo.
+HERMETISMO: Práctica o creencia esotérica; cualidad de ser difícil de comprender.
+IMBÉCIL: Persona con falta de inteligencia o sentido común.
+JIRÓN: Pedazo desgarrado o parte de algo más grande.
+KILÓMETRO: Unidad de medida equivalente a mil metros.
+MARASMO: Decadencia; en medicina, una forma de desnutrición severa.
+NÓMADA: Persona que se mueve regularmente, sin una residencia fija.
+OSMOSIS: Movimiento de moléculas a través de una membrana semipermeable.
+PÓLVORA: Sustancia que explota utilizada como propulsor en armas de fuego.
+QUEBRADA: Pequeño valle con un arroyo o río.
+REMOLINO: Movimiento circular del agua o aire.
+SOLSTICIO: Evento astronómico que ocurre dos veces al año, más largo y más corto del día.
+TAPIZ: Pieza de material tejido o decorativo, a menudo colgado en paredes.
+VÓMITO: Expulsión violenta del contenido del estómago a través de la boca.
+YERGA: Variante de yergue, referente a erguir o levantar algo.
+ZAMBULLIDA: Acción de lanzarse al agua cabeza primero.
+ABDICAR: Renunciar a una posición de autoridad o trono.
+BECERRO: Cría joven de ganado vacuno.
+CICATRIZ: Marca dejada en la piel después de que una herida ha sanado.
+DESDÉN: Sentimiento de desprecio o falta de respeto.
+EMISARIO: Persona enviada en una misión o como representante.
+FUGAZ: Algo que desaparece rápidamente o dura un tiempo muy corto.
+GREMIO: Asociación de personas con intereses o empleos similares.
+HUMEDAL: Área de tierra inundada permanentemente o estacionalmente.
+INSIDIA: Acción o comentario malicioso o perjudicial.
+JURADO: Grupo de personas que toman una decisión en un tribunal.
+LICOR: Bebida alcohólica que se ha destilado.
+MIRTO: Tipo de arbusto con flores blancas o rosadas.
+NOVILLO: Toro joven.
+OPULENTO: Rico y lujoso.
+PATÉTICO: Que provoca compasión o pena.
+QUILOMBO: En Argentina y Uruguay, lugar de desorden; también una comunidad de esclavos fugitivos.
+TÓTEM: Objeto, animal o planta que representa a un grupo de personas relacionadas.
+VULGAR: Común, sin refinamiento; obsceno o grosero.
+WAFFLE: Alimento dulce cocido entre dos placas para darle un patrón cuadriculado.
+XERÓFILA: Planta adaptada a entornos secos y áridos.
+YELMO: Parte de una armadura que protege la cabeza.
+ZEPPELIN: Tipo de dirigible rígido.
+AZADA: Herramienta manual utilizada para cavar y remover tierra.
+BUCÓLICO: Relacionado con la vida en el campo o rural.
+CÚSPIDE: Punto más alto o cima.
+DIFUSO: Esparcido, distribuido ampliamente, no concentrado.
+EFUSIVO: Expresando sentimientos de gratitud, placer o aprobación de manera entusiasta.
+FLUXIÓN: Acción de fluir.
+GRÁFICO: Representación visual como un dibujo o diagrama.
+HÉLICE: Forma espiral; objeto en forma de espiral, como una hélice de propulsor.
+IMPULSO: Fuerza motriz; deseo súbito o urgente de actuar.
+JUBILOSO: Sentimiento o expresión de alegría o exultación.
+KLAXON: Una bocina o claxon.
+LÉXICO: Conjunto de palabras o vocabulario de una lengua, región o persona.
+MAGENTA: Color rojo púrpura brillante.
+NEUMÁTICO: Rueda de caucho inflada con aire, usada en vehículos.
+OCULTO: Escondido, no visible o no conocido.
+QUEJAR: Expresar dolor, sufrimiento o una objeción.
+REFLUJO: Movimiento hacia atrás de un fluido.
+TÁCTIL: Relativo al sentido del tacto.
+URDIDURA: Conjunto de hilos longitudinales en un telar.
+VAGABUNDO: Persona sin hogar fijo que deambula de lugar en lugar.
+WIKI: Sitio web colaborativo que permite la edición de contenido.
+XILEMA: Tejido vascular de las plantas que transporta agua.
+YESENIA: Nombre femenino de origen árabe.
+ZODIACO: Cinturón imaginario en el cielo por donde se mueven el sol, la luna y los planetas.
+ABETO: Tipo de árbol de hoja perenne, común en climas fríos.
+BÚHO: Ave nocturna con ojos grandes y frente plana.
+CIRCO: Lugar o espectáculo con actos de entretenimiento variado, como acróbatas y animales.
+ESCALA: Serie ordenada o secuencia; también para medir temperatura o intensidad.
+FISURA: Grieta o abertura estrecha.
+GLÚCIDO: Otro término para carbohidrato.
+HORCA: Herramienta con dos o más puntas utilizada en agricultura; estructura para ejecuciones.
+INDICIO: Señal o evidencia que sugiere algo.
+MORSA: Mamífero marino con grandes colmillos.
+NARANJA: Fruta cítrica; también un color.
+ORÉGANO: Hierba utilizada como especia, común en la cocina italiana.
+PANTANO: Área húmeda y fangosa; difícil de cruzar.
+QUESO: Alimento sólido hecho de leche cuajada.
+RÚBRICA: Instrucción o dirección detallada; firma o iniciales.
+SACAPUNTAS: Herramienta para afilar lápices.
+TIZÓN: Pieza de madera quemada; enfermedad de las plantas.
+UTERO: Órgano femenino donde se desarrolla el feto.
+XENÓN: Elemento químico, gas noble incoloro e inodoro.
+ACUARIO: Recipiente para peces; signo zodiacal.
+BANCAL: Terreno destinado al cultivo.
+CORCHEA: Nota musical.
+DICTAR: Decir palabras para que otro las escriba.
+EMPUJE: Fuerza aplicada contra un objeto para moverlo.
+FLOTAR: Mantenerse en la superficie de un líquido o gas.
+GÉRMEN: Microorganismo; origen o base de algo.
+HALCÓN: Ave de presa.
+INCAUTO: Sin cautela o cuidado.
+JOVIAL: Alegre y amistoso.
+KARATE: Arte marcial originario de Okinawa, Japón.
+LUDOPATÍA: Adicción patológica al juego.
+MANGUERA: Tubo flexible utilizado para transportar agua.
+PÁRPADO: Piel que cubre el ojo.
+RESINA: Sustancia pegajosa secretada por algunas plantas y árboles.
+SALIVA: Líquido producido en la boca que ayuda a la digestión.
+TÓRAX: Parte del cuerpo entre el cuello y el abdomen.
+URBANO: Relacionado con la ciudad.
+VESÍCULA: Pequeña bolsa o ampolla llena de líquido.
+WINCHE: Mecanismo para levantar o mover objetos pesados.
+XOGRÁFICO: Relacionado con la impresión o grabado en relieve.
+ACÉFALO: Sin líder o cabeza.
+CACOFONÍA: Sonido desagradable; uso de palabras que suenan desagradables juntas.
+DEAMBULAR: Caminar sin un destino específico; vagar.
+ENCOMIO: Alabanza o elogio, especialmente en un discurso formal.
+FABULAR: Inventar o contar historias, generalmente aquellas que son ficticias o fabulosas.
+GRANIZO: Precipitación en forma de bolas o gránulos de hielo.
+HERALDO: Mensajero, especialmente uno que trae noticias importantes.
+INCURSIÓN: Entrada repentina en otro territorio, generalmente con un propósito hostil.
+JADEAR: Respirar con dificultad, generalmente después del ejercicio físico.
+LIGERO: De poco peso; no pesado.
+MASCOTA: Animal domesticado para compañía o placer.
+NOVICIO: Persona nueva e inexperta en una actividad o profesión.
+ORTOGRAFÍA: Correcto uso y combinación de los caracteres alfabéticos en escritura.
+PULSERA: Joya que se lleva alrededor de la muñeca.
+QUIJOTE: Personaje principal de una novela de Cervantes; también una persona idealista.
+RISIBLE: Capaz de provocar risa; gracioso.
+SUBLIME: De excelencia suprema o belleza; impresionante.
+VIGÍA: Persona o cosa que mantiene la vigilancia.
+WHISKY: Bebida alcohólica destilada de granos fermentados.
+YOGUI: Persona que practica yoga; alguien maestro en yoga.
+ZURCIR: Reparar agujeros o desgarros en tela usando una aguja e hilo.
+ÁBACO: Herramienta para realizar cálculos matemáticos.
+BÓVEDA: Estructura arquitectónica que forma un techo o cielo.
+CUARZO: Mineral común en la corteza terrestre, utilizado en relojería y electrónica.
+DIVISAR: Ver o notar desde la distancia.
+ESPECIA: Sustancia utilizada para dar sabor a los alimentos.
+FORTUNA: Riqueza, suerte o destino.
+GÉNESIS: Origen o formación de algo.
+HIPÉRBOLE: Exageración utilizada para el énfasis.
+LÁMINA: Hoja delgada de material.
+NEÓN: Gas noble; también usado en señales luminosas brillantes y coloridas.
+PRISMA: Objeto geométrico; también un objeto que separa la luz en varios colores.
+QUINOA: Grano considerado como superalimento debido a su alto contenido nutricional.
+RECTO: Parte final del intestino grueso; también algo que es derecho o vertical.
+TRINO: Serie de notas musicales; también el canto de algunos pájaros.
+URGENCIA: Necesidad inmediata de atención o acción.
+VEREDICTO: Decisión final de un jurado en un juicio.
+WILDEBEEST: Otro término para el ñu, un animal africano.
+ZANJA: Excavación larga y estrecha en el suelo.
+ÁRBOL: Planta perenne, con un tallo leñoso y ramas.
+BRAGA: Prenda interior femenina; también una ciudad en Portugal.
+CÁÑAMO: Planta utilizada para hacer cuerda y otros materiales textiles.
+DAMA: Mujer; también una pieza en el juego de ajedrez.
+ENSALADA: Plato hecho principalmente de vegetales crudos.
+FRAUDE: Acto de engañar o estafar a alguien para obtener un beneficio.
+GRANERO: Lugar donde se almacena grano y otros productos agrícolas.
+HUNDIR: Sumergir algo en un líquido; caer o bajar algo.
+LUMBRE: Fuego o luz, especialmente de una chimenea o fogata.
+MONEDA: Pieza de metal utilizada como medio de intercambio.
+NÚCLEO: Centro o parte más importante de algo.
+OBTUSO: No agudo o romo; también lento para comprender.
+PLANTA: Organismo que tiene clorofila y produce su propio alimento.
+RUMBO: Dirección o curso; plan o método de acción.
+SERPIENTE: Reptil alargado y sin extremidades.
+XERÓFITO: Planta adaptada a vivir en condiciones de sequía extrema.
+ÁCIDO: Sustancia con un pH inferior a 7; opuesto de básico.
+BRUMA: Niebla, especialmente una ligera o vista a distancia.
+CÓDIGO: Sistema de símbolos o palabras utilizado para la comunicación.
+DELITO: Acto en contra de la ley.
+EMBRIÓN: Organismo en sus primeras etapas de desarrollo.
+FÁBULA: Historia corta, generalmente con animales, que enseña una moral.
+GRUTA: Cueva natural o cavidad subterránea.
+HORNO: Aparato que produce calor para cocinar o calentar.
+JAZMÍN: Tipo de planta con flores fragantes.
+KIWI: Fruta; también un pájaro nativo de Nueva Zelanda.
+MUSGO: Planta pequeña que crece en lugares húmedos y sombríos.
+OCÉANO: Extensión muy grande de agua salada.
+RÉGIMEN: Sistema o método de gobierno o control.
+SÍNTESIS: Combinación de partes para formar un todo.
+TRIUNFO: Victoria o éxito en algo.
+JERINGA: Instrumento para inyectar o extraer líquidos.
+LÚCIDO: Claro, brillante o mentalmente sano.
+MÁSTIL: Palo vertical en barco para sostener velas.
+NÁUSEA: Sensación de querer vomitar.
+PALUDISMO: Enfermedad transmitida por mosquitos, también llamada malaria.
+SABANA: Gran extensión de terreno sin árboles.
+URETRA: Conducto que lleva orina desde la vejiga.
+WAPITÍ: Especie de ciervo nativo de América del Norte.
+XANTINA: Base nitrogenada encontrada en los tejidos animales.
+YESCA: Sustancia usada para encender fuego.
+BLASONAR: Hacer alarde o jactarse de algo.
+CÚMULO: Acumulación o montón de algo.
+DILUVIO: Lluvia muy intensa y abundante.
+FILANTROPÍA: Amor al género humano, generalmente mostrado en forma de donaciones.
+GERMINAR: Empezar a crecer, referido especialmente a las plantas.
+HARAPIENTO: Desgastado, en mal estado, referido generalmente a la ropa.
+IDILIO: Romance o relación amorosa idealizada.
+JACTANCIA: Alarde o vanidad excesiva.
+LATIGAZO: Golpe dado con un látigo.
+ALEGRE: Estado de ánimo caracterizado por la satisfacción y el placer.
+AMABLE: Bondadoso, cariñoso.
+ANDAR: Desplazarse a pie.
+ANTIGUO: Que ya no se usa o se produce.
+ARTÍCULO: Palabra que indica el género y el número de un sustantivo.
+ATRACCIÓN: Fuerza que atrae a dos objetos o personas.
+BIEN: Lo contrario de mal.
+BLANCO: Color que no tiene color.
+CARRO: Vehículo de cuatro ruedas tirado por animales o por motor.
+CONOCIMIENTO: Saber o información.
+CULTURA: Conjunto de conocimientos, costumbres y tradiciones de un grupo humano.
+DÍA: Intervalo de tiempo que transcurre entre dos amaneceres.
+ELEGANTE: Que es bonito y tiene buen gusto.
+ESPERANZA: Deseo de que algo bueno ocurra.
+FAMILIA: Grupo de personas unidas por parentesco o afinidad.
+FELICIDAD: Estado de ánimo caracterizado por la satisfacción y el placer.
+FRASE: Conjunto de palabras que expresan un pensamiento completo.
+GRACIA: Belleza, donaire o encanto.
+HAMBRE: Necesidad de comer.
+HERMANO: Persona que tiene los mismos padres que otra.
+HIJO: Persona que nace de una mujer.
+HOMBRE: Ser humano masculino.
+IR: Moverse de un lugar a otro.
+JUSTICIA: Virtud que consiste en dar a cada uno lo que le corresponde.
+LECHE: Sustancia blanca y nutritiva que producen las glándulas mamarias de los mamíferos.
+MADRE: Mujer que ha dado a luz a un hijo.
+MAR: Gran extensión de agua salada que cubre gran parte de la superficie terrestre.
+MES: Unidad de tiempo que equivale a un período de 30 días.
+MUJER: Ser humano femenino.
+NOCHE: Intervalo de tiempo que transcurre entre dos anocheceres.
+PADRE: Hombre que ha engendrado a un hijo.
+PÁJARO: Vertebrado de pequeño tamaño con plumas, alas y pico.
+PAZ: Estado de tranquilidad y armonía.
+PERRO: Mamífero doméstico de la familia de los cánidos, de hocico alargado y orejas puntiagudas.
+PESCA: Actividad de capturar peces.
+PLANETA: Astro que gira alrededor del Sol y que tiene forma esférica.
+PLUMA: Pelo que recubre el cuerpo de las aves.
+POETA: Persona que escribe poesía.
+PRINCIPIO: Inicio o comienzo de algo.
+PROHIBIDO: Que no se puede hacer o tener.
+REALIDAD: Conjunto de cosas que existen.
+RESPUESTA: Lo que se dice o hace en respuesta a una pregunta o a una demanda.
+SOL: Estrella que se encuentra en el centro del sistema solar.
+SUERTE: Fortuna o casualidad.
+TERRIBLE: Que causa mucho terror o espanto.
+UNIVERSAL: Que pertenece o se extiende a todo el universo.
+VERDAD: Conformidad de las cosas con su realidad.
+VIDA: Estado de los seres orgánicos caracterizado por el crecimiento, el desarrollo y la reproducción.
+VIOLENCIA: Acción u omisión que causa daño físico o moral a una persona.
+VIERNES: Día de la semana que precede al sábado.
+VOCABULARIO: Conjunto de palabras que usa una persona o un grupo social.
+YAMA: Cavidad profunda en la tierra.
+ZAPATILLA: Calzado ligero que cubre el pie y el tobillo.
+ÁGUILA: Ave rapaz de gran tamaño, con pico y garras fuertes.
+ÁLBUM: Libro en el que se guardan fotos, recortes u otros objetos.
+ÁMBAR: Sustancia resinosa fosilizada que se utiliza en joyería.
+ÁNGEL: Ser celestial que se cree que es mensajero de Dios.
+ÁREA: Superficie de un terreno.
+ÁRIDA: Que no tiene agua o que tiene muy poca agua.
+ÁRTICO: Región del hemisferio norte que rodea el Polo Norte.
+ÁRTIDO: Mamífero peludo que vive en la región ártica.
+ÁRTULA: Unión entre dos huesos que permite el movimiento de una parte del cuerpo.
+ASALTO: Ataque violento contra una persona o un lugar.
+ASIGNACIÓN: Tarea o trabajo que se encarga a alguien.
+ASPIRANTE: Persona que desea conseguir algo.
+ASTRO: Cuerpo celeste que se encuentra fuera de la atmósfera terrestre.
+ATLAS: Libro que contiene mapas del mundo o de una región.
+AUDIO: Sonido grabado.
+AUTO: Vehículo de motor que tiene cuatro ruedas y que se conduce por una persona.
+AUTOMÓVIL: Vehículo de motor que tiene cuatro ruedas y que se conduce por una persona.
+AUTORIDAD: Poder que tiene una persona o una institución para hacer cumplir las leyes.
+AUTORRETRATO: Imagen de una persona que ha sido pintada o dibujada por ella misma.
+AVIÓN: Vehículo de motor que vuela.
+AZUL: Color del cielo.
+BABA: Líquido que se segrega de la boca.
+BARCO: Vehículo que navega por el agua.
+BASE: Parte inferior de algo que sirve de apoyo.
+BATE: Palo que se utiliza para golpear una pelota.
+BEBEDOR: Persona que consume bebidas alcohólicas.
+BIENVENIDA: Acto de dar la bienvenida a alguien.
+BIBLIOGRAFÍA: Lista de libros y artículos que se han consultado para realizar una investigación.
+BICICLETA: Vehículo de dos ruedas que se impulsa con los pies.
+BICOLOR: Que tiene dos colores.
+BIOGRAFÍA: Relato de la vida de una persona.
+BÍBLIA: Libro sagrado del cristianismo.
+BODA: Ceremonia religiosa o civil en la que se contrae matrimonio.
+BOMBA: Explosivo que se utiliza para destruir o dañar algo.
+BONO: Título de crédito que representa una deuda.
+BORRACHA: Material flexible que se utiliza para fabricar neumáticos, zapatos, etc.
+BOTÁNICO: Persona que estudia las plantas.
+BRAZO: Extremidad del cuerpo humano que se extiende desde el hombro hasta la muñeca.
+BRISA: Viento suave y fresco.
+BUCEO: Actividad de sumergirse en el agua para explorar el fondo marino.
+BUENO: Que es satisfactorio o que tiene valor.
+BURGUESÍA: Clase social que se caracteriza por su riqueza y su nivel cultural.
+BUS: Vehículo de motor que se utiliza para el transporte público.
+BUZO: Persona que practica el buceo.
+BÚSQUEDA: Acción de buscar algo.
+CAJA: Recipiente cerrado por todas partes.
+CAMA: Mueble para dormir.
+CAMINO: Vía de comunicación entre dos lugares.
+CAMIONETA: Vehículo de motor con plataforma abierta en la parte trasera.
+CANCIÓN: Obra musical vocal.
+CARA: Parte anterior de la cabeza.
+CARNE: Tejido muscular de los animales.
+CASA: Edificio destinado a la vivienda.
+CASO: Situación o circunstancia.
+CASCO: Cobertura que se usa para proteger la cabeza.
+CATARATA: Salto de agua.
+CELEBRAR: Hacer un acto público para expresar alegría o satisfacción.
+CENTRAL: Lugar donde se concentra algo.
+CERCA: A corta distancia.
+CIENCIA: Conjunto de conocimientos obtenidos mediante la observación y la experimentación.
+CINE: Sala donde se proyectan películas.
+CIUDAD: Conjunto de edificios y calles que forman un núcleo de población.
+CLIMA: Condiciones atmosféricas de una región.
+COLOR: Tonalidad que percibe el ojo.
+COMIDA: Acción de comer.
+COMPUTADORA: Máquina electrónica que realiza cálculos y operaciones.
+CONCIENCIA: Facultad de percibirse a uno mismo y a su entorno.
+CONDUCTOR: Persona que conduce un vehículo.
+CONFERENCIA: Reunión para tratar un tema determinado.
+CONEJO: Mamífero pequeño de pelo abundante y orejas largas.
+CONTADOR: Persona que lleva la cuenta de algo.
+CONTINENTE: Gran masa de tierra que está rodeada por agua.
+CONTRATO: Acuerdo entre dos o más personas.
+CONVENCIÓN: Acuerdo entre personas para hacer algo.
+COPIAR: Repetir algo que ha hecho otra persona.
+CORAJE: Valor o fuerza de ánimo para afrontar situaciones difíciles.
+CORAZÓN: Órgano muscular que bombea la sangre.
+CORTE: Reunión de personas para deliberar sobre un asunto.
+COSECHA: Recolección de los frutos de la tierra.
+COSTO: Precio que hay que pagar por algo.
+COCINA: Habitación destinada a preparar los alimentos.
+CORONA: Adorno en forma de anillo que se lleva en la cabeza.
+CREAR: Dar forma a algo nuevo.
+CRIATURA: Ser vivo.
+CUENTO: Narración breve de hechos imaginarios.
+CUEVA: Espacio natural excavado en la roca.
+DANZA: Conjunto de movimientos rítmicos del cuerpo.
+DIETA: Régimen alimenticio que se sigue para conservar la salud o para adelgazar.
+DIBUJO: Representación de algo a través de líneas.
+DINERO: Medio de cambio que se utiliza para comprar bienes y servicios.
+DISCIPLINA: Conjunto de normas que regulan el comportamiento de alguien.
+DISCO: Objeto circular que se utiliza para grabar sonido o imágenes.
+DISTRITO: División territorial de un país.
+DIVERSIÓN: Actividad que produce placer o entretenimiento.
+DOCTOR: Persona que tiene un título universitario en medicina.
+DOLAR: Moneda oficial de Estados Unidos.
+DOMICILIO: Lugar donde vive una persona.
+DOS: Número que sigue al uno y precede al tres.
+DULCE: Que tiene sabor agradable.
+ECLIPSE: Ocultación de un astro por otro.
+EDIFICIO: Obra arquitectónica destinada a albergar actividades humanas.
+EJÉRCITO: Conjunto de personas organizadas para la defensa de un país.
+ELECTRÓNICA: Rama de la física que estudia los fenómenos relacionados con la electricidad.
+ELEMENTO: Sustancia simple que no se puede descomponer en otras más simples.
+EMOCIÓN: Estado afectivo que se experimenta de forma intensa y pasajera.
+ENEMIGO: Persona que está en contra de otra.
+ENFERMEDAD: Alteración de la salud que produce síntomas y signos.
+ENFRENTAMIENTO: Conflicto o choque entre dos o más personas o grupos.
+ENFLUENCIA: Efecto que produce una persona o cosa sobre otra.
+ENLACE: Unión o conexión entre dos cosas.
+ENTRADA: Acción de entrar en un lugar.
+ENTORNO: Conjunto de circunstancias que rodean a una persona o cosa.
+ERROR: Acción de equivocarse.
+ESCULTURA: Obra de arte que representa una figura, un animal o un objeto.
+ESPEJO: Objeto que refleja la luz y las imágenes.
+ESPÍRITU: Parte inmaterial del ser humano.
+ESTADO: Conjunto de instituciones que gobiernan un país.
+ESTÉTICA: Ciencia que estudia la belleza.
+ESTUDIANTE: Persona que está matriculada en un centro educativo.
+ESTUFA: Aparato que sirve para calentar una habitación.
+ESTUVO: Habitación en la que se cocina.
+ETIQUETA: Conjunto de normas de comportamiento social.
+EVALUAR: Estimar o juzgar el valor de algo.
+EXAMEN: Prueba que se realiza para evaluar los conocimientos o habilidades de una persona.
+EXCESO: Cantidad o grado superior al normal.
+EXCELENTE: Que tiene muy buena calidad.
+EXISTENCIA: Hecho de ser o de estar presente.
+EXPERIENCIA: Conocimiento o aprendizaje que se adquiere a través de la práctica.
+EXPERTO: Persona que tiene un alto nivel de conocimientos o habilidades en un campo determinado.
+EXPRESIÓN: Acción de exteriorizar los pensamientos o sentimientos.
+EXTERIOR: Parte de algo que está fuera.
+EXTINTO: Que ya no existe.
+EXTRANJERO: Persona que no es natural de un país o lugar.
+EXTREMIDAD: Parte final de un cuerpo o de un objeto.
+FANTASMA: Imagen o figura que se cree que es el espíritu de una persona muerta.
+FARMACIA: Establecimiento donde se venden medicamentos y productos sanitarios.
+FAVOR: Acto de bondad o deferencia que se hace a alguien.
+FE: Creencia en algo que no se puede ver ni tocar.
+FÉLIX: Que tiene mucha suerte.
+FERIA: Fiesta popular que se celebra en una ciudad o pueblo.
+FIESTA: Acontecimiento alegre y festivo.
+FIGURA: Representación de una persona, un animal o un objeto.
+FIN: Término o conclusión de algo.
+FLAMENCO: Baile folclórico español.
+FLECHA: Arma arrojadiza que se lanza con un arco.
+FLORA: Conjunto de plantas de una región.
+FLOTA: Conjunto de barcos de una misma bandera.
+FLUJO: Movimiento continuo de algo.
+FOBIA: Miedo irracional a algo.
+FONDO: Parte inferior de algo.
+FÓRMULA: Conjunto de símbolos y signos que expresan una relación matemática.
+FRUTAS: Frutos comestibles que se obtienen de las plantas.
+FUENTE: Manantial de agua que brota de la tierra.
+FUEGO: Combustión que produce llamas y calor.
+FUSIÓN: Combinación de dos o más cosas para formar una nueva.
+FUTURA: Que sucederá en el futuro.
+GALGO: Perro de caza de patas largas y delgadas.
+GALAXIA: Conjunto de estrellas que están unidas por la fuerza de la gravedad.
+GÉNERO: Clasificación de los seres vivos en función de sus características.
+GESTIÓN: Acción de administrar o dirigir algo.
+GLORIA: Honra, fama o reconocimiento.
+GOLPE: Acción de golpear a alguien o algo.
+GRACIAS: Expresión de agradecimiento.
+GRANJA: Establecimiento agrícola donde se crían animales y se cultivan plantas.
+GRANO: Semilla de un cereal.
+GRASA: Sustancia grasa que se encuentra en los animales y en las plantas.
+GRATO: Que produce placer o satisfacción.
+GRIETA: Fisura o abertura pequeña en una superficie.
+GRUPO: Conjunto de personas o cosas que están unidas por una característica común.
+GUIA: Persona que dirige o acompaña a otra.
+HABILIDAD: Capacidad para realizar una tarea con destreza.
+HABITACIÓN: Lugar cerrado destinado a un uso determinado.
+HABITUAL: Que ocurre o se hace con frecuencia.
+HABITAR: Ocupar o vivir en un lugar.
+HACER: Realizar una acción.
+HACERSE: Convertirse en algo.
+HISTORIA: Relato de los acontecimientos del pasado.
+HONOR: Dignidad, respeto o consideración que se merece alguien.
+HORA: Unidad de tiempo que equivale a 60 minutos.
+HUERTO: Terreno dedicado al cultivo de hortalizas y frutas.
+HUMANO: Que pertenece o se refiere a los seres humanos.
+HUMEDAD: Cantidad de agua que hay en el aire o en una superficie.
+IGLESIA: Edificio destinado al culto religioso cristiano.
+IMAGEN: Representación de algo.
+IMAGINAR: Formar una idea de algo que no existe.
+IMPERIO: Conjunto de territorios gobernados por un mismo emperador.
+IMPOSIBLE: Que no se puede hacer o conseguir.
+INCLUIR: Agregar algo a algo.
+INDEPENDENCIA: Estado de un país que no está sometido a la autoridad de otro.
+INDIVIDUO: Persona o cosa considerada por separado.
+INFANCIA: Etapa de la vida humana que va desde el nacimiento hasta la pubertad.
+INFINITO: Que no tiene fin.
+INFORMÁTICA: Ciencia que estudia el tratamiento automático de la información.
+INGENIERÍA: Ciencia que aplica los conocimientos de la física, la química y las matemáticas para la resolución de problemas prácticos.
+INJUSTICIA: Falta de justicia o de equidad.
+INSECTO: Animal invertebrado de cuerpo dividido en cabeza, tórax y abdomen.
+INSTITUTO: Establecimiento educativo o de investigación.
+INTERÉS: Sentimiento de curiosidad o atención hacia algo.
+INTERNACIONAL: Que pertenece o se refiere a varios países.
+INTERPRETAR: Explicar o explicar el significado de algo.
+INVESTIGACIÓN: Estudio sistemático de un asunto para descubrir nuevos conocimientos.
+INVENTOR: Persona que crea algo nuevo.
+JALEA: Gelatina de frutas o de otros productos.
+JARDÍN: Terreno con plantas, flores y árboles.
+JEFE: Persona que dirige o manda a otras.
+JUICIO: Acto de juzgar o de emitir un dictamen.
+KILOMETRAJE: Distancia recorrida por un vehículo.
+LABIOS: Parte carnosa de la boca.
+LÁMPARA: Objeto que produce luz.
+LANZA: Arma arrojadiza que se lanza con la mano.
+LEY: Norma que rige el comportamiento de las personas.
+LIBRO: Obra impresa en hojas de papel unidas por un lado.
+LLAMA: Cuerpo de fuego que arde con llama.
+LLEGADA: Acción de llegar a un lugar.
+LLENADO: Acción de llenar algo.
+LLENURA: Estado de algo que está lleno.
+LOCALIDAD: Lugar o sitio determinado.
+LOCOMOCIÓN: Acción de moverse o trasladarse.
+LOGRAR: Conseguir algo que se desea.
+LÓGICA: Rama de la filosofía que estudia los principios del razonamiento.
+LUZ: Emisión de radiación electromagnética visible.
+MANDADO: Orden que se da a alguien.
+MANERA: Forma o modo de hacer algo.
+MANEJO: Acción de manejar algo.
+MANHATTAN: Isla de la ciudad de Nueva York.
+MANJAR: Alimento muy sabroso.
+MANSIÓN: Casa grande y lujosa.
+MARTES: Día de la semana que precede al miércoles.
+MATAR: Dar muerte a un ser vivo.
+MATERIA: Sustancia que forma parte de la naturaleza.
+MATEMÁTICAS: Ciencia que estudia los números, las figuras y las relaciones entre ellos.
+MEDICINA: Ciencia que estudia las enfermedades y sus tratamientos.
+MEDIODIA: Momento del día en el que el sol está más alto en el cielo.
+MEJORA: Acción de mejorar algo.
+MEMORIA: Capacidad de recordar.
+MERCADO: Lugar donde se venden productos.
+MERCURIO: Planeta del sistema solar más cercano al Sol.
+META: Fin o objetivo que se persigue.
+MIEDO: Sensación de aprensión o temor
+MIEMBRO: Parte del cuerpo humano o animal.
+MISTERIO: Cosa que no se puede explicar o comprender.
+MÚSICA: Arte que se expresa mediante sonidos.
+MUERTE: Cese de la vida.
+MUNICIPIO: Entidad territorial que forma parte de un Estado.
+MUSEO: Establecimiento donde se conservan y exhiben obras de arte.
+NACER: Comenzar a existir.
+NACIONAL: Que pertenece o se refiere a una nación.
+NATURALEZA: Conjunto de seres vivos y no vivos que forman el mundo.
+NECESIDAD: Falta de algo que es indispensable para vivir o para realizar una actividad.
+NEGRO: Color que no tiene color.
+NEGOCIO: Actividad económica que se realiza con el objetivo de obtener beneficios.
+NIEVE: Precipitación sólida que se forma por la condensación del vapor de agua en las nubes.
+NOMBRE: Palabra o conjunto de palabras que se usan para identificar a una persona, un lugar o una cosa.
+NOTA: Señal o señal que sirve para indicar algo.
+NUEVO: Que no es viejo o que no ha sido usado antes.
+NÚMERO: Símbolo o conjunto de símbolos que se utilizan para representar cantidades.
+OBJETO: Cosa que se puede percibir por los sentidos.
+OCHO: Número que sigue al siete y precede al nueve.
+OJO: Órgano de la vista.
+OLER: Percibir un olor.
+OPINIÓN: Juicio o creencia que se tiene sobre algo.
+ORACIÓN: Expresión de un pensamiento o deseo dirigido a Dios.
+ORDEN: Disposición regular de las cosas.
+OREJA: Órgano de la audición.
+ORGANISMO: Entidad viva formada por un conjunto de órganos que funcionan de forma coordinada.
+OSCAR: Premio cinematográfico estadounidense.
+OTRO: Que no es el mismo que uno.
+PAÍS: Territorio con sus habitantes, gobierno y leyes.
+PÁGINA: Cada una de las hojas de un libro.
+PALABRA: Conjunto de sonidos que tienen un significado.
+PALMA: Árbol tropical de tronco alto y hojas grandes.
+PARTES: División de un todo.
+PASIÓN: Sentimiento intenso de amor o afecto hacia alguien o algo.
+PASO: Acción de caminar o de avanzar.
+PASTELERÍA: Establecimiento donde se venden pasteles y otros dulces.
+PATA: Extremidad inferior de los animales cuadrúpedos.
+PATO: Ave acuática de pico ancho y patas palmeadas.
+PELO: Cubierta de pelos que tiene el cuerpo de los animales y de algunas personas.
+PENA: Castigo que se impone a alguien por haber cometido un delito.
+PENSAR: Ejercer la actividad intelectual para formar ideas o juicios.
+PEQUEÑO: Que tiene un tamaño inferior al normal.
+PERDER: Dejar de tener algo o no conseguir algo que se desea.
+PERIODISTA: Persona que se dedica a informar sobre los acontecimientos actuales.
+PERSONA: Ser humano individual.
+PERSONALIZADO: Que se adapta a las características de una persona o de un grupo.
+PERSONAJES: Personajes ficticios que aparecen en una obra literaria o artística.
+PERSPECTIVA: Punto de vista desde el que se observa algo.
+PESCADO: Animal acuático que vive en el agua y que se alimenta de otros animales o de plantas.
+PESO: Medida de la fuerza de la gravedad que actúa sobre un cuerpo.
+PIEZA: Objeto de una forma determinada.
+PILAR: Soporte vertical que sostiene algo.
+PINTAR: Representar algo con pintura.
+PLAZA: Espacio público rodeado de edificios.
+POEMA: Obra literaria en verso que expresa sentimientos o ideas.
+POBRE: Persona que tiene pocos recursos económicos.
+POBLACIÓN: Conjunto de personas que viven en un lugar determinado.
+POLICÍA: Cuerpo de seguridad encargado de mantener el orden público.
+POLÍTICA: Actividad que se ocupa del gobierno de los pueblos.
+POSIBILIDAD: Probabilidad de que algo ocurra.
+POTENCIA: País que tiene un gran poder militar o económico.
+PRACTICAR: Ejercitar algo para adquirir habilidad en ello.
+PRECIO: Cantidad de dinero que se paga por algo.
+PRESIDENTE: Persona que preside una reunión o una institución.
+PRIMAVERA: Estación del año que va después del invierno y antes del verano.
+PROBLEMA: Dificultad o asunto que no se puede resolver fácilmente.
+PRODUCTO: Resultado de la actividad de una persona o de un grupo.
+PROFESIÓN: Ocupación que una persona ejerce para ganarse la vida.
+PROGRAMA: Conjunto de actividades que se van a realizar.
+PROMESA: Compromiso de hacer algo.
+PROPIO: Que pertenece a una persona o a un grupo.
+PROYECTO: Plan o idea que se va a realizar.
+PÚBLICO: Conjunto de personas que conocen o están al tanto de algo.
+PUENTE: Obra de ingeniería que permite salvar un obstáculo.
+PUÑO: Extremidad de la mano cerrada.
+PUNTO: Marca o señal que sirve para indicar algo.
+QUINTETO: Grupo de cinco personas o cosas.
+RACIÓN: Cantidad de comida que se da a una persona.
+RAÍZ: Parte de una planta que crece bajo tierra.
+RAMA: Parte de un árbol que se extiende desde el tronco.
+RAMO: Conjunto de flores que se atan juntas.
+REBELIÓN: Acción de levantarse contra una autoridad o un poder establecido.
+RECETA: Instrucciones para preparar un alimento.
+RECLAMAR: Pedir algo con insistencia.
+RECIBIR: Obtener algo que alguien te da.
+RECONOCER: Identificar o identificar algo.
+RECONOCIMIENTO: Acción de reconocer a alguien o algo.
+RECORRIDO: Trayecto que se hace de un lugar a otro.
+RECUERDO: Recordatorio de algo que ha sucedido.
+RED: Conjunto de líneas o puntos que se unen entre sí.
+REFORMA: Cambio que se introduce en algo para mejorarlo.
+REGALAR: Dar algo a alguien sin esperar nada a cambio.
+REGIÓN: Parte de un país o de un continente que tiene características comunes.
+REGISTRO: Lista o documento que contiene información sobre algo.
+REINO: Territorio gobernado por un rey o una reina.
+RELIGIÓN: Conjunto de creencias y prácticas que tienen que ver con lo divino.
+REPRESENTANTE: Persona que actúa en nombre de otra.
+RESPETO: Estimación o consideración que se tiene hacia alguien o algo.
+RESTAURAR: Devolver algo a su estado original.
+REVOLUCIÓN: Cambio radical que se produce en un sistema político o social.
+ROBO: Acción de tomar algo que no te pertenece sin el consentimiento del dueño.
+ROJO: Color que se asocia con la sangre o con el peligro.
+ROCA: Masa de piedra que se encuentra en la superficie de la Tierra.
+RONDA: Recorrido que se hace alrededor de algo.
+ROSA: Flor de color rojo o rosa que tiene pétalos carnosos.
+RUEDA: Objeto circular que gira sobre un eje.
+RUIDO: Sonido molesto o desagradable.
+RUINA: Destrucción o deterioro de algo.
+SABOR: Sensación que se produce en la lengua al probar algo.
+SABIO: Persona que tiene mucho conocimiento y experiencia.
+SACRIFICIO: Acción de renunciar a algo que se desea por algo que se considera más importante.
+SAL: Mineral que se utiliza como condimento y como conservante.
+SALÓN: Sala grande y elegante.
+SALUD: Estado de bienestar físico y mental.
+SALUDO: Acción de saludar
+SANGRE: Líquido que circula por el cuerpo de los animales y que transporta oxígeno y nutrientes a las células.
+SANTA: Persona que es considerada como un modelo de virtud o de santidad.
+SATISFACCIÓN: Sensación de placer o de bienestar que se produce al conseguir algo que se desea.
+SAUTÉ: Guiso de carne, pescado o verduras que se cocina en una sartén con aceite.
+SELLO: Marca o señal que se pone en algo para identificarlo o para autenticarlo.
+SENTIDO: Capacidad de percibir algo con los sentidos.
+SENTIMIENTO: Estado afectivo que se experimenta de forma intensa y pasajera.
+SEPARACIÓN: Acción de separar dos cosas que están unidas.
+SER: Persona o cosa que existe.
+SERIE: Sucesión de cosas que tienen una relación entre sí.
+SERVICIO: Actividad que se realiza para ayudar a alguien o para cumplir con un deber.
+SILLA: Mueble con asiento y respaldo para sentarse.
+SIMILITUD: Semejanza entre dos o más cosas.
+SIMPLE: Que no es complejo o que no tiene muchas partes.
+SIN: Preposición que indica ausencia o carencia.
+SINGULAR: Que es único o que no tiene igual.
+SOBRE: Preposición que indica encima o que se refiere a algo.
+SOBRANTE: Cantidad de algo que queda después de haber usado una parte.
+SOBREVIVIR: Continuar viviendo después de que otros hayan muerto o desaparecido.
+SOCIEDAD: Grupo de personas que viven en un mismo lugar y que tienen intereses comunes.
+SONIDO: Vibración que se propaga por el aire u otros medios.
+SONRISA: Acción de mostrar los dientes y las encías como expresión de alegría o de satisfacción.
+SORTEO: Adjudicación de algo a alguien de forma aleatoria.
+SUCESOR: Persona que ocupa el lugar de otra.
+SUELO: Capa superficial de la Tierra.
+SUGERIR: Proponer o aconsejar algo.
+SUMAR: Añadir dos o más números para obtener un resultado.
+SUPERIOR: Que está situado más arriba o que tiene un rango o un nivel más alto.
+SUPERFICIE: Capa exterior de un cuerpo.
+SUPLEMENTO: Cantidad adicional que se añade a algo.
+SUSTANCIAL: Que tiene mucha importancia o relevancia.
+TABLA: Superficie plana que se utiliza para apoyar cosas o para escribir.
+TALLAR: Escultura que se realiza en una pieza de madera, piedra o metal.
+TAMBIÉN: Además o por otra parte.
+TALLER: Lugar donde se realizan trabajos manuales.
+TARJETA: Objeto de cartón o plástico con una inscripción o una imagen.
+TAREA: Trabajo o actividad que se debe realizar.
+TARDE: Parte del día que va desde el mediodía hasta la noche.
+TASA: Cantidad de dinero que se paga por un servicio o por un producto.
+TECHO: Parte superior de una construcción que cubre el interior.
+TECNOLOGÍA: Conjunto de conocimientos y técnicas que se aplican a la creación de bienes y servicios.
+TELEVISIÓN: Medio de comunicación que transmite imágenes y sonidos a través de ondas electromagnéticas.
+TEMPESTAD: Fenómeno meteorológico que se caracteriza por la presencia de viento fuerte, lluvia, granizo o nieve.
+TENDENCIA: Dirección o inclinación que sigue algo.
+TENSIÓN: Estado de ánimo de una persona que está nerviosa o agitada.
+TESTIGO: Persona que ve o escucha algo que puede servir para demostrar algo.
+TEXTO: Conjunto de palabras escritas o impresas que forman un discurso.
+TÍO: Hermano del padre o de la madre.
+TOCAR: Poner la mano o algo sobre algo.
+TODO: Conjunto de todas las cosas o de todas las partes de algo.
+TODOS: Todas las personas o todas las cosas.
+TOMAR: Agarrar o coger algo.
+TORRE: Edificio alto y estrecho.
+TRABAJO: Actividad que se realiza para ganarse la vida
+TRAMPA: Artefacto o dispositivo que se utiliza para capturar o atrapar a alguien o algo.
+TRÁNSITO: Movimiento de personas o vehículos por una vía pública.
+TRANSPORTE: Acción de llevar o trasladar algo de un lugar a otro.
+TRIÁNGULO: Figura geométrica formada por tres lados y tres ángulos.
+TRISTE: Que siente tristeza o melancolía.
+TÚ: Segunda persona del singular del pronombre personal.
+TÚNEL: Paso subterráneo que se construye para atravesar una montaña o un obstáculo.
+UNIDAD: Conjunto de cosas que forman un todo.
+UNIFORME: Prenda de vestir que llevan las personas que pertenecen a un mismo grupo.
+UNIVERSO: Conjunto de todo lo que existe.
+UTILIDAD: Propiedad de algo que es útil o que sirve para algo.
+VALOR: Cualidad de algo que lo hace digno de ser apreciado.
+VANGUARDIA: Grupo de personas que se adelantan a su tiempo en el pensamiento o en la acción.
+VERDE: Color que se asocia con la naturaleza o con la esperanza.
+VERGÜENZA: Sentimiento de pena o de humillación que se experimenta por haber hecho algo malo o impropio.
+VISTA: Sentido que permite percibir el mundo a través de la luz.
+VOLUNTAD: Capacidad de decidir y actuar libremente.
+VUELO: Movimiento de un cuerpo que se desplaza por el aire.
+AMOR: Sentimiento de afecto y cariño hacia otra persona.
+AÑO: Unidad de tiempo que equivale a 365 días.
+ABEJA: Insecto himenóptero de cuerpo alargado y alas membranosas, que produce miel.
+AGUA: Líquido incoloro, inodoro e insípido que constituye la mayor parte de la superficie de la Tierra.
+AIRE: Mezcla de gases que rodea la Tierra y que es necesaria para la vida.
+ALIMENTO: Sustancia que se consume para obtener energía y nutrientes.
+ANIMAL: Ser vivo que no es vegetal y que se caracteriza por la capacidad de moverse y de sentir.
+ARTE: Manifestación de la actividad humana mediante la cual se expresa una visión personal y estética del mundo.
+ASIENTO: Lugar donde se puede sentarse.
+AZÚCAR: Sustancia blanca, cristalina y dulce que se obtiene de la caña de azúcar o de la remolacha.
+BEBÉ: Niño pequeño que aún no ha cumplido un año.
+BELLEZA: Cualidad de lo que es agradable a la vista.
+BOCA: Abertura del cuerpo humano que sirve para comer, hablar y respirar.
+LUNA: Satélite natural de la Tierra.
+MESA: Mueble con una superficie plana que se utiliza para comer, escribir o trabajar.
+MUNDO: Conjunto de todas las cosas que existen.
+NACIMIENTO: Inicio de la vida de un ser vivo.
+PAN: Alimento hecho con harina, agua y levadura.
+PARQUE: Lugar público con árboles, flores y zonas de recreo.
+PIE: Extremidad inferior del cuerpo humano o de un animal.
+PLATO: Pieza de vajilla que se utiliza para servir la comida.
+PUERTA: Abertura en una pared que sirve para entrar o salir de un lugar.
+SABER: Conocimiento de algo.
+TIERRA: Planeta que habitamos los seres humanos.
+TORO: Mamífero ungulado de gran tamaño, con cuernos en la cabeza y un pelaje de color marrón o negro.
+VOZ: Sonido que se produce al hablar o al cantar.
+YO: Pronombre personal que se refiere a la persona que habla o escribe.
+CIELO: Atmosfera que rodea la Tierra.
+DIOS: Ser supremo que es considerado como creador y señor del universo.
+DUELO: Pena o aflicción que se experimenta por la pérdida de un ser querido.
+ELEGANCIA: Cualidad de lo que es bello y refinado.
+FLOR: Órgano reproductor de las plantas que tiene forma de pétalos.
+ILUSIÓN: Imagen o creencia que se tiene de algo que no existe o que no es real.
+LIBERTAD: Estado de una persona que no está sometida a la autoridad de otra.
+MAGIA: Conjunto de creencias y prácticas que se basan en la idea de que existen fuerzas sobrenaturales.
+PIEDRA: Fragmento de roca que ha sido separado de una masa mayor.
+PODER: Capacidad de una persona o de un grupo para influir en los demás.
+SILENCIO: Ausencia de ruido o de sonido.
+VIENTO: Movimiento del aire.
+AMBICIÓN: Deseo intenso de conseguir algo.
+AMISTAD: Relación de afecto y confianza entre dos o más personas.
+CONSTRUCCIÓN: Acción de levantar un edificio o una obra.
+CREATIVIDAD: Capacidad de una persona de crear algo nuevo.
+DESTINO: Hecho o suceso inevitable que va a suceder.
+EDUCACIÓN: Proceso de enseñanza y aprendizaje que permite a una persona adquirir conocimientos y habilidades.
+MANIVELA: Dispositivo para transmitir movimiento a una máquina.
+NOTARIO: Persona autorizada a dar fe de actos y documentos.
+OPERETA: Forma de teatro musical, ligera y cómica.
+PELÍCANO: Ave acuática conocida por su gran bolsa gular.
+RIEGO: Aplicación de agua para ayudar al crecimiento de las plantas.
+SAETA: Antiguo tipo de flecha; canción religiosa española.
+TENAZA: Herramienta usada para agarrar objetos calientes o materiales.
+VAGÓN: Vehículo de tren usado para transportar carga o pasajeros.
+WALABI: Marsupial australiano similar a un canguro pequeño.
+ZAETA: Variedad de poesía o canción en algunos dialectos españoles.
+BÚFALO: Mamífero grande, similar a un toro, nativo de África y Asia.
+CACTUS: Planta espinosa adaptada a ambientes desérticos.
+DÓLAR: Unidad de moneda utilizada en varios países, incluyendo Estados Unidos.
+FOLKLORE: Tradiciones y creencias populares de una cultura.
+GALÓN: Medida de capacidad, especialmente de líquidos.
+ISÓTOPO: Variante de un elemento químico con diferente número de neutrones.
+LENTEJA: Tipo de legumbre; también un pequeño disco de cristal en óptica.
+NEURONA: Célula fundamental del sistema nervioso.
+PAPILA: Elevación en la lengua que contiene las yemas gustativas.
+QUITINA: Sustancia que forma el exoesqueleto de los artrópodos.
+RUBÍ: Piedra preciosa de color rojo.
+SITIO: Lugar o espacio ocupado o vacante.
+TÁBANO: Insecto que pica y chupa sangre, similar a una mosca grande.
+ZANCADA: Paso largo o distancia cubierta por tal paso.
+ABASTO: Provisión o suministro, especialmente de alimentos.
+BOCINA: Dispositivo que produce un sonido fuerte; claxon.
+CEBADA: Planta cereal cuyos granos se utilizan en la alimentación y para fabricar cerveza.
+DÉDALO: Laberinto; también un famoso artesano de la mitología griega.
+ENGRANE: Conjunto de ruedas dentadas que transmiten movimiento.
+FAROL: Lámpara o luz exterior.
+GNEIS: Tipo de roca metamórfica.
+INTRIGA: Curiosidad; trama complicada en una historia o plan.
+JUNCO: Planta de tallo largo y flexible, utilizada en la fabricación de cestas.
+LLANURA: Extensión de tierra plana y amplia.
+NOPAL: Cactus típico de México, usado en alimentación y bebidas.
+RIEL: Barra de metal sobre la que viajan los trenes.
+SORBO: Acto de beber un poco de líquido.
+TEJIDO: Material hecho entrelazando hilos; también, conjunto de células en un organismo.
+VÍBORA: Serpiente venenosa.
+ABECE: Conjunto de conocimientos básicos; alfabeto.
+BRÚJULA: Instrumento para determinar direcciones mediante una aguja magnética.
+COHECHO: Delito de dar o recibir sobornos.
+DUETO: Pieza musical para dos intérpretes.
+FALANGE: Hueso de los dedos; grupo militar en formación apretada.
+GÓTICO: Estilo de arquitectura y arte predominante en la Edad Media.
+HECHIZO: Encanto mágico; también, atractivo irresistible.
+LACTOSA: Azúcar presente en la leche.
+MERMELADA: Conserva de frutas cocidas con azúcar.
+NÍTIDO: Claro, limpio, fácil de ver o escuchar.
+ÓNICE: Variedad de cuarzo utilizada en joyería y ornamentación.
+PARCHE: Material adhesivo usado para cubrir heridas o reparar objetos.
+QUORUM: Número mínimo de miembros necesarios para tomar decisiones en una asamblea.
+SUSPIRO: Respiración profunda y audible, generalmente mostrando cansancio o alivio.
+TURBA: Materia vegetal descompuesta, usada como combustible y en jardinería.
+CACAO: Semilla utilizada para hacer chocolate, también el árbol que la produce.
+DECRETO: Orden oficial emitida por una autoridad.
+ENFADO: Estado de irritación o molestia.
+FULGOR: Brillantez, esplendor, resplandor intenso.
+GLACIAR: Masa grande de hielo que se mueve lentamente.
+HÁLITO: Aliento, especialmente su olor.
+INERCIA: Resistencia al cambio de movimiento o actividad.
+KARMA: Concepto de causa y efecto en la moral en las filosofías hindú y budista.
+LÁTEX: Sustancia lechosa de ciertas plantas, utilizada en fabricación de caucho.
+MAULLIDO: Sonido emitido por un gato.
+NAUFRAGIO: Destrucción o pérdida de una nave en el agua.
+PARASOL: Objeto que protege del sol, como un sombrero o una sombrilla.
+SARCASMO: Burla mordaz y cortante.
+TUBÉRCULO: Órgano de algunas plantas que almacena nutrientes, como la papa.
+YERMO: Terreno baldío o sin cultivar.
+ÁLAMO: Tipo de árbol de crecimiento rápido.
+ESTRÉS: Tensión mental o emocional.
+FLANCO: Lado o borde de algo, especialmente una formación militar.
+GRAFITO: Forma de carbono utilizada en lápices y lubricantes.
+INFUSIÓN: Bebida hecha al verter agua caliente sobre hojas o hierbas, como el té.
+KILOMETRO: Unidad de medida equivalente a 1,000 metros.
+LEGADO: Algo transmitido por o recibido de un antecesor o predecesor.
+NOSTALGIA: Deseo sentimental de volver a un tiempo o lugar pasado.
+SABUESO: Perro usado para rastrear por el olfato; detective.
+YACHT: Embarcación de recreo de lujo.
+ÁNCORA: Antiguo término para ancla; también usado simbólicamente como un término para algo que proporciona estabilidad o conexión.
+BRILLANTE: Algo que emite o refleja luz; también, inteligente o destacado.
+DAMASCO: Tipo de tela; también, una ciudad de Siria.
+ENCLAVE: Territorio rodeado o casi rodeado por otro territorio.
+FÓSIL: Restos o impresiones de plantas o animales preservados en la roca.
+GRANEL: Mercancía a granel, sin empaque.
+HEBILLA: Dispositivo de metal usado para asegurar correas y cinturones.
+INDÓMITO: Algo o alguien que no puede ser domado o controlado.
+JUBÓN: Antigua prenda de vestir acolchada y ajustada.
+KOALA: Marsupial australiano conocido por parecerse a un oso y vivir en árboles.
+LABIO: Parte externa de la boca; también, un borde o margen.
+MIMBRE: Tipo de material flexible utilizado en la fabricación de muebles y cestas.
+NENÚFAR: Planta acuática con flores grandes y hojas flotantes, también conocida como lirio de agua.
+PUGNAR: Luchar o competir fervientemente contra algo o alguien.
+QUIRÓFANO: Sala en un hospital donde se realizan cirugías.
+RISUEÑO: Alegre, propenso a sonreír o reír.
+SOFOCO: Sensación de calor extremo y falta de aire.
+VÁNDALO: Persona que destruye o daña propiedad ajena.
+ÁRIDO: Seco, carente de humedad; también, algo sin interés o monótono.
+BÍCEPS: Músculo del brazo que permite la flexión del codo.
+CÚBICO: Relacionado con un cubo o volumen.
+FÚNEBRE: Relacionado con funerales o muerte.
+HIERRO: Elemento químico, metal duro y fuerte utilizado en construcción y manufactura.
+INEPTO: No apto; incompetente o inadecuado para una función o propósito.
+JUNCOS: Plantas de tallo largo y flexible, comúnmente encontradas en áreas húmedas.
+MÍTICO: Relacionado con mitos; ficticio o imaginario.
+PÉRDIDA: Acto de perder; algo que se ha perdido.
+RETOÑO: Brotes de plantas; descendencia, niños.
+ULTRASONIDO: Ondas sonoras de frecuencia superior a la del sonido audible, utilizadas en medicina y otros campos.
+VÉRTICE: Punto más alto; cima, también un punto donde se encuentran dos líneas o bordes.
+YERBA: Planta o hierba, especialmente la utilizada como té o medicina.
+BLASON: Escudo de armas; también, ostentación o vanagloria.
+DRÁSTICO: Severo, radical, extremo en efecto o acción.
+ÉTICO: Relacionado con la moral o las reglas de comportamiento correcto.
+FRACTAL: Figura geométrica que se repite a diferentes escalas.
+HARINA: Polvo fino hecho de granos molidos, utilizado para cocinar.
+NOVATO: Persona nueva e inexperta en una actividad o profesión.
+OLVIDO: Falta de memoria o atención.
+PRAGMÁTICO: Práctico, basado en la realidad más que en teorías o especulaciones.
+TÍMIDO: Falto de confianza o valentía; reservado.
+VÍVERES: Alimentos necesarios para la subsistencia.
+WOK: Sartén profunda usada especialmente en la cocina asiática.
+ÁLVEO: Lecho o canal por donde fluye un río o corriente.
+CÍAN: Color azul verdoso; también, un pigmento usado en impresión y fotografía.
+DÉBIL: Falto de fuerza física o carácter; frágil.
+FÉRETRO: Caja en la que se coloca un cadáver para el entierro o cremación.
+GANANCIA: Beneficio obtenido de una inversión o trabajo.
+HORMIGA: Insecto social conocido por su capacidad de trabajo en equipo y organización.
+AMARILLO: Color semejante al oro o al limón, primario y claro.
+BERMELLÓN: Rojo brillante y algo anaranjado.
+CARMESÍ: Rojo oscuro, color de la sangre coagulada.
+DORADO: Similar al oro, brillante y amarillento.
+ESMERALDA: Verde brillante, similar a la piedra preciosa esmeralda.
+FALCÓN: Referencia a un ave de presa, rapaz diurna.
+GORILA: Primate grande, fuerte y generalmente herbívoro.
+HIENA: Mamífero carnívoro conocido por su risa característica.
+ÍBICE: Especie de cabra salvaje que vive en montañas.
+KAZAJISTÁN: País situado en Asia Central y parte de Europa del Este.
+LÍBANO: País en Medio Oriente, bañado por el mar Mediterráneo.
+MÉXICO: País de América del Norte, conocido por su rica cultura y biodiversidad.
+NICARAGUA: País situado en América Central, conocido por sus lagos y volcanes.
+OMÁN: País situado en la península arábiga, conocido por su monarquía y desierto.
+PINO: Árbol de hojas perennes, agujas y conos de semillas.
+QUINA: Árbol cuya corteza se usa para hacer medicinas, especialmente contra la malaria.
+SAUCO: Árbol o arbusto conocido por sus flores y frutos.
+BEIGE: Color claro, cercano al marrón pálido o amarillo pálido.
+BORDEAUX: Color rojo oscuro, similar al vino tinto de la región de Burdeos.
+CELESTE: Azul claro, similar al color del cielo.
+CARMÍN: Rojo intenso y ligeramente púrpura.
+CHAMPÁN: Color dorado pálido, similar al vino espumoso.
+CORAL: Color rojo anaranjado, similar al de los corales marinos.
+CREMA: Color claro, amarillento suave, similar al de la crema de leche.
+CYAN: Azul verdoso, uno de los colores primarios en la impresión.
+FUCSIA: Color rosa púrpura brillante, nombrado por una flor.
+GRIS: Color intermedio entre blanco y negro.
+HUESO: Estructura rígida en el esqueleto.
+JADE: Verde claro o verdeazulado, similar al de la piedra preciosa.
+LAVANDA: Color púrpura claro, similar al de las flores de lavanda.
+MARRÓN: Color café o de la madera sin tratar.
+TURQUESA: Color azul verdoso, similar al de la piedra preciosa turquesa.
+VIOLETA: Color similar al de la flor; mezcla de azul y rojo.
+AZAFRÁN: Amarillo anaranjado brillante, similar al color de la especia azafrán.
+BRONCE: Marrón rojizo metálico, similar al color del metal bronce.
+CAFÉ: Marrón oscuro, similar al color del café sin leche.
+ECRU: Color grisáceo o beige claro, sin teñir o blanquear.
+GRANATE: Rojo oscuro y profundo, similar al color de la piedra granate.
+HAVANA: Marrón medio a oscuro, similar al color del tabaco curado.
+IVORY: Blanco suave con una ligera tonalidad amarilla, similar al marfil.
+JET: Negro intenso y profundo, similar al color de la gema azabache.
+KAKI: Verde amarillento o marrón verdoso, similar al color de la fruta caqui.
+LIMA: Verde brillante y ácido, similar al color de la lima (fruta).
+MOSTAZA: Amarillo oscuro y apagado, similar al color de la mostaza.
+NUDE: Color piel claro, similar al color natural de la piel humana.
+OCRE: Amarillo rojizo, similar al color del pigmento natural ocre.
+PLATA: Gris brillante y metálico, similar al color del metal plata.
+QUEEN: Rosa suave y brillante, similar al color asociado con lo femenino y delicado.
+SAFIRO: Azul brillante y profundo, similar al color de la gema zafiro.
+TEAL: Verde azulado oscuro, similar al color de la cabeza de un pato macho.
+UVA: Púrpura oscuro, similar al color de la uva madura.
+XANADÚ: Verde grisáceo, nombrado según un color específico de un tipo de planta.
+BALLENA: Mamífero marino de gran tamaño, conocido por sus impresionantes saltos y cantos.
+CAMELLO: Animal de gran tamaño conocido por sus jorobas y resistencia en desiertos.
+DELFÍN: Mamífero marino inteligente, conocido por su habilidad para realizar acrobacias en el agua.
+ELEFANTE: El mamífero terrestre más grande, conocido por sus grandes orejas y larga trompa.
+GUEPARDO: El animal terrestre más rápido, conocido por su velocidad en cortas distancias.
+IGUANA: Reptil conocido por su capacidad de cambiar de color y su larga cola.
+JIRAFA: El animal terrestre más alto, conocido por su largo cuello y patas.
+MANATÍ: Mamífero marino herbívoro, conocido por su cuerpo grande y forma apacible.
+NUTRIA: Mamífero semi-acuático conocido por su pelaje denso y habilidades de natación.
+ORNITORRINCO: Mamífero ovíparo australiano con pico de pato y cuerpo de mamífero.
+PINGÜINO: Ave no voladora adaptada a la vida marina en regiones frías.
+QUOKKA: Marsupial australiano conocido por su apariencia amigable y expresión facial “sonriente”.
+RATÓN: Pequeño roedor, comúnmente encontrado en áreas residenciales y campos.
+SAPO: Anfibio similar a la rana, pero con piel más seca y cuerpo más robusto.
+TIGRE: Gran felino conocido por su pelaje a rayas y habilidades de caza poderosas.
+URUTU: Tipo de serpiente venenosa encontrada principalmente en Sudamérica.
+VICUÑA: Mamífero andino conocido por su fina lana, es una especie de camélido.
+XENOPS: Pequeña ave tropical conocida por su pico corto y comportamiento insectívoro.
+YAK: Bovino robusto adaptado a climas montañosos y fríos, nativo del Himalaya.
+ZORRO: Mamífero carnívoro conocido por su astucia y su pelaje espeso y colorido.
+ÑANDÚ: Ave no voladora, nativa de Sudamérica, similar pero más pequeña que el avestruz.
+QUETZAL: Ave colorida y tropical, conocida por su largo plumaje y su estatus de símbolo nacional en Guatemala.
+UAPITÍ: También conocido como el ciervo canadiense, un mamífero grande con grandes cuernos.
+ÑU: También conocido como wildebeest, un antílope africano conocido por sus migraciones masivas.
+CANGREJO: Crustáceo con caparazón duro y pinzas, habita en playas y aguas saladas.
+DRAGÓN: Referencia a varios lagartos grandes, como el dragón de Komodo.
+ESCARABAJO: Insecto con alas duras que protegen sus alas voladoras más delicadas.
+FERRET: Carnívoro pequeño y delgado, domesticado y utilizado para controlar plagas.
+GARZA: Ave acuática con largo cuello y patas, conocida por pescar en aguas someras.
+IMPALA: Antílope africano conocido por su agilidad y sus largos saltos.
+LANGOSTA: Crustáceo marino conocido por ser un manjar y tener largas antenas.
+MAPACHE: Mamífero conocido por su máscara facial negra y hábitos nocturnos.
+NARVAL: Ballena dentada conocida por el largo colmillo en espiral de los machos.
+OCTOPUS: Molusco marino con ocho brazos o tentáculos; también conocido como pulpo.
+PUMA: Gran felino americano, también conocido como cougar o león de montaña.
+QUAGGA: Subespecie extinta de cebra, conocida por su pelaje a rayas único.
+RINOCERONTE: Mamífero pesado conocido por sus cuernos frontales y su piel gruesa.
+SALAMANDRA: Anfibio con capacidad de regenerar partes de su cuerpo, como la cola y las extremidades.
+TARÁNTULA: Arácnido grande y peludo, conocido por su mordedura dolorosa pero generalmente no letal.
+UALABÍ: Marsupial parecido al canguro pero más pequeño; nativo de Australia.
+VAQUITA: Especie de marsopa en peligro crítico, nativa del golfo de California.
+WOMBAT: Marsupial australiano conocido por su cuerpo robusto y su capacidad para excavar.
+XIPHOSURA: También conocido como cangrejo herradura, un artrópodo marino antiguo.
+YACARÉ: Especie de caimán encontrada principalmente en ríos sudamericanos.
+ZEBÚ: Raza de ganado con una joroba distintiva en su cuello.
+BARRACUDA: Pez marino conocido por su cuerpo largo y dientes afilados.
+CARACAL: Felino salvaje conocido por sus orejas puntiagudas y habilidades para cazar aves.
+DINGO: Perro salvaje encontrado principalmente en Australia, conocido por su pelaje corto y color arena.
+EMÚ: Segunda ave más grande, nativa de Australia, conocida por no poder volar.
+GAVIOTA: Ave marina conocida por su adaptabilidad y presencia en zonas costeras.
+HORNET: Especie de avispa grande y agresiva, conocida por su dolorosa picadura.
+IBIS: Ave zancuda con un pico curvo largo, comúnmente vista cerca de aguas.
+JAGUAR: Gran felino nativo de América, conocido por su poderosa constitución y hermoso pelaje manchado.
+KAKAPO: Papagayo nocturno y no volador de Nueva Zelanda, en peligro crítico de extinción.
+LÉMUR: Primate nativo de Madagascar, conocido por sus grandes ojos y cola larga.
+MONO: Término general para primates no humanos con colas, que viven principalmente en árboles.
+NUDIBRANQUIO: Molusco marino sin concha conocido por sus brillantes colores y formas diversas.
+OPOSSUM: Marsupial nocturno conocido por "jugar a estar muerto" como mecanismo de defensa.
+RATA: Roedor que se encuentra comúnmente en áreas urbanas, conocido por su adaptabilidad.
+TUCÁN: Ave tropical conocida por su pico grande y colorido.
+VAMPIRO: Especie de murciélago que se alimenta de sangre, principalmente de animales.
+WAPITI: Especie de ciervo, nativo de América del Norte y Asia Oriental.
+ZARIGÜEYA: Marsupial nocturno, conocido por su habilidad para colgarse de la cola.
+BISÓN: Mamífero grande y herbívoro, nativo de América del Norte y Europa.
+COBAYA: Roedor pequeño, también conocido como cuy, a menudo se mantiene como mascota.
+DUGONGO: Mamífero marino herbívoro, similar al manatí pero con una cola más parecida a la de un delfín.
+ESTURION: Pez conocido por producir caviar, tiene un cuerpo largo y hocico puntiagudo.
+FAISAN: Ave terrestre conocida por su plumaje brillante y colorido.
+HURÓN: Carnívoro pequeño domesticado, utilizado para cazar y controlar poblaciones de ratas.
+MANGOSTA: Mamífero pequeño conocido por su habilidad para cazar serpientes venenosas.
+ORUGA: La larva de una mariposa o polilla, conocida por su apetito voraz antes de la metamorfosis.
+RAYA: Pez cartilaginoso plano, conocido por sus aletas en forma de alas y su cola venenosa.
+UNAU: También conocido como oso perezoso de dos dedos, es un mamífero arborícola lento.
+XENARTRO: Clase de mamíferos que incluye armadillos, osos hormigueros y perezosos.
+ANACONDA: Serpiente constrictora grande y poderosa, nativa de Sudamérica.
+BUITRE: Ave rapaz carronera, conocida por su cabeza calva y su envergadura.
+COCODRILO: Reptil carnívoro grande, conocido por su piel gruesa y su poderosa mandíbula.
+HIPOPÓTAMO: Mamífero grande y semiacuático, conocido por su gran boca y piel gruesa.
+KOMODO: Referencia al dragón de Komodo, el lagarto más grande del mundo.
+LEOPARDO: Felino grande conocido por su pelaje manchado y habilidades de caza arbórea.
+MURCIÉLAGO: Mamífero volador conocido por su ecolocalización y hábitos nocturnos.
+ÓRICE: Antílope africano de gran tamaño, con largos cuernos rectos y pelaje blanco con marcas negras.
+PAVO: Ave grande conocida por su plumaje iridiscente y su cola en abanico.
+URACA: También conocida como urraca, es un ave conocida por su plumaje negro y blanco y su hábito de recolectar objetos brillantes.
+WEIMARANER: Raza de perro conocida por su pelaje corto, gris y ojos claros.
+XOLOITZCUINTLE: Raza de perro mexicana sin pelo y de tamaño variado, considerada una de las más antiguas.
+ZANCUDO: Insecto volador conocido por su picadura, algunas especies son portadoras de enfermedades.
+ARMADILLO: Mamífero conocido por su caparazón protector compuesto por placas óseas.
+EREMITA: Referencia a cangrejo eremita, un crustáceo conocido por ocupar conchas vacías.
+ÓPICE: Otro nombre para el íbice, una especie de cabra salvaje que habita montañas.
+PECARÍ: Mamífero similar al cerdo, nativo de las Américas, conocido por su robustez.
+ALEMANIA: País europeo conocido por su rica historia y avanzada ingeniería.
+BOLIVIA: País sudamericano conocido por su diversa geografía y rica cultura indígena.
+CANADÁ: País norteamericano conocido por su vasta extensión y amabilidad de su gente.
+DINAMARCA: País nórdico conocido por su bienestar social y diseño moderno.
+ECUADOR: País ecuatorial sudamericano conocido por su biodiversidad y la línea ecuatorial.
+FILIPINAS: Archipiélago en el sudeste asiático conocido por sus hermosas playas y biodiversidad.
+GRECIA: País europeo conocido por su antigua historia y mitología.
+HAITÍ: País caribeño conocido por su rica cultura y resiliencia.
+ISLANDIA: País nórdico conocido por su impresionante naturaleza y energía geotérmica.
+JORDANIA: País de Medio Oriente conocido por sus antiguos monumentos y hospitalidad.
+LESOTO: Pequeño país africano completamente rodeado por Sudáfrica, conocido por su alto terreno montañoso.
+MONGOLIA: País asiático conocido por su vasto desierto y tradiciones nómadas.
+PORTUGAL: País europeo conocido por su exploración marítima histórica y fado musical.
+QATAR: Pequeño país rico en petróleo en la península arábiga, conocido por su moderna capital, Doha.
+RUMANIA: País europeo conocido por sus castillos, mitos de Drácula y la región de Transilvania.
+SUECIA: País nórdico conocido por su bienestar social, diseño y empresas multinacionales.
+TÚNEZ: País norafricano conocido por sus sitios históricos y playas mediterráneas.
+URUGUAY: País sudamericano conocido por su tranquila vida, playas y mate.
+VANUATU: Nación insular en el Pacífico Sur conocida por su diversidad cultural y volcanes.
+YEMEN: País en la península arábiga conocido por su rica historia y arquitectura.
+ZAMBIA: País en el sur de África conocido por sus parques nacionales y diversidad de vida salvaje.
+ANDORRA: Pequeño país entre España y Francia conocido por su turismo de montaña.
+BÉLGICA: País europeo conocido por sus chocolates, cervezas y la sede de la UE.
+CHIPRE: Isla-nación en el Mediterráneo conocida por su historia antigua y disputa territorial.
+DJIBOUTI: País en el Cuerno de África conocido por su ubicación estratégica y clima árido.
+ESTONIA: País báltico conocido por su avanzado desarrollo digital y bellas ciudades medievales.
+FIYI: Archipiélago en el Pacífico Sur conocido por sus playas tropicales y resorts de lujo.
+GUINEA: País en África occidental conocido por su diversidad cultural y riqueza en minerales.
+HONDURAS: País centroamericano conocido por sus sitios arqueológicos mayas y barreras de coral.
+IRLANDA: Isla europea conocida por su rica tradición cultural y paisajes verdes.
+JAPÓN: País insular en Asia Oriental conocido por su tecnología avanzada y rica cultura tradicional.
+KUWAIT: País pequeño en la península arábiga conocido por su riqueza petrolera.
+LUXEMBURGO: Pequeño país europeo conocido por su riqueza y sede de instituciones de la UE.
+MALDIVAS: Archipiélago en el Océano Índico conocido por sus islas y resorts de lujo.
+NEPAL: País del sur de Asia conocido por el Himalaya y ser el hogar del monte Everest.
+OBUDAI: Isla en Budapest, Hungría.
+PALAU: País insular en el Pacífico conocido por su biodiversidad marina y destinos de buceo.
+RUANDA: País africano conocido por su recuperación post-genocidio y vida silvestre, incluyendo gorilas de montaña.
+SIRIA: País de Medio Oriente con rica historia, actualmente afectado por conflictos y guerra civil.
+TAILANDIA: País del sudeste asiático conocido por su cultura, playas y turismo.
+UCRANIA: País europeo conocido por su historia, agricultura y tensiones políticas actuales.
+VATICANO: La ciudad-estado más pequeña del mundo, centro de la Iglesia Católica.
+YIBUTI: Variante en español de Djibouti, país africano conocido por su posición estratégica.
+ZIMBABUE: País africano conocido por sus parques nacionales y la cascada Victoria.
+ARGELIA: País norafricano conocido por su vasto desierto del Sahara.
+BAHAMAS: Archipiélago caribeño conocido por sus playas turísticas y bancos offshore.
+COLOMBIA: País sudamericano conocido por su diversidad geográfica y producción de café.
+DOMINICA: Isla caribeña conocida por sus bosques tropicales y aguas termales.
+ETIOPÍA: País africano conocido por su antigua historia y sitios arqueológicos.
+FINLANDIA: País nórdico conocido por sus lagos, bosques y educación.
+GAMBIA: País africano conocido por su río homónimo y vida silvestre.
+HUNGRÍA: País europeo conocido por su arquitectura, baños termales y vino.
+INDIA: País del sur de Asia conocido por su diversidad cultural, histórica y gastronómica.
+KIRIBATI: País insular en el Pacífico Central, afectado significativamente por el cambio climático.
+LIBIA: País norafricano conocido por sus vastos desiertos y riqueza petrolera.
+MARRUECOS: País norafricano conocido por sus ciudades históricas y diversidad geográfica.
+NIGERIA: País africano conocido por su población diversa y riqueza en recursos naturales.
+PANAMÁ: País centroamericano conocido por su canal interoceánico y diversidad biológica.
+SINGAPUR: Ciudad-estado asiática conocida por su desarrollo económico y limpieza.
+TANZANIA: País africano conocido por sus parques nacionales y el monte Kilimanjaro.
+UZBEKISTÁN: País en Asia Central conocido por sus ciudades históricas y ruta de la seda.
+VENEZUELA: País sudamericano conocido por su diversidad natural y crisis económica reciente.
+AUSTRALIA: Continente y país conocido por su biodiversidad única y grandes ciudades como Sídney.
+CAMBOYA: País del sudeste asiático conocido por los templos de Angkor Wat.
+FRANCIA: País europeo conocido por París, su cultura, vinos y la Riviera Francesa.
+GEORGIA: País en la intersección de Europa y Asia, conocido por su diversidad geográfica y su vino.
+JAMAICA: Isla caribeña famosa por su cultura reggae, playas y clima tropical.
+MALASIA: País del sudeste asiático conocido por su diversidad cultural y ecosistemas tropicales.
+NAMIBIA: País africano conocido por sus impresionantes paisajes desérticos y diversidad étnica.
+POLONIA: País europeo con una rica historia, ciudades históricas y cultura.
+RUSIA: El país más grande del mundo, transcontinental entre Europa y Asia, rico en recursos naturales.
+VIETNAM: País del sudeste asiático conocido por su historia, cultura y comida.
+ALBANIA: País balcánico conocido por sus montañas y costas en el Mar Adriático.
+BURUNDI: País africano conocido por sus montañas y conflictos políticos pasados y actuales.
+CHAD: País africano conocido por el lago Chad y por ser parte del Sahel.
+ESLOVAQUIA: País europeo conocido por sus montañas y castillos.
+GUATEMALA: País centroamericano conocido por su rica historia Maya y diversidad natural.
+IRÁN: País de Medio Oriente conocido por su rica historia y cultura Persa.
+KOSOVO: País balcánico conocido por su declaración unilateral de independencia de Serbia.
+MÓNACO: Ciudad-estado en la Riviera Francesa, conocido por su lujo y el Gran Premio de Mónaco.
+RWANDA: País africano conocido por su recuperación tras el genocidio de 1994.
+TAIWÁN: Isla en Asia Oriental con un gobierno independiente, su status es objeto de disputa internacional.
+WUHAN: Ciudad de China conocida por ser el epicentro inicial de la COVID-19.
+XOCHIMILCO: Área en Ciudad de México conocida por sus canales y jardines flotantes.
+YUGOSLAVIA: Antiguo país de los Balcanes que se disolvió en varios países en los años 90.
+BERMUDAS: Territorio británico en el Atlántico norte, conocido por el triángulo de Bermudas y turismo.
+ERITREA: País del Cuerno de África, con una extensa costa a lo largo del Mar Rojo.
+INDONESIA: País del sudeste asiático, compuesto por miles de islas volcánicas y conocido por su biodiversidad.
+QUENIA: Variante de Kenia, país africano conocido por su vida silvestre y parques nacionales.
+RUMANÍA: País europeo conocido por el Castillo de Bran (Drácula) y la región de Transilvania.
+ANGOLA: País en el sur de África, rico en recursos naturales como petróleo y diamantes.
+BELICE: País en América Central conocido por su barrera de coral y diversidad ecológica.
+COMORAS: Nación insular entre Madagascar y Mozambique, conocida por su biodiversidad.
+GRANADA: País caribeño conocido por sus especias y bellas playas.
+UGANDA: País de África Oriental conocido por su diversidad de vida silvestre y paisajes.
+BRASIL: El país más grande de América del Sur, conocido por su cultura diversa, fútbol y el Carnaval de Río.
+EGIPTO: País africano conocido por sus pirámides, el río Nilo y su rica historia antigua.
+GHANA: País en África Occidental conocido por su rica cultura, oro y fortalezas coloniales.
+LAOS: País del sudeste asiático conocido por sus montañas, arquitectura francesa y budismo.
+MALTA: Pequeña isla en el Mediterráneo conocida por su historia y sitios arqueológicos.
+MANZANA: Fruta dulce, viene en variedades como roja, verde y amarilla.
+BANANA: Fruta tropical amarilla, rica en potasio.
+CEREZA: Fruta roja pequeña y dulce, común en postres.
+DURAZNO: Fruta dulce y jugosa con una piel aterciopelada.
+ESPÁRRAGO: Verdura verde, larga y delgada, buena para asar o vaporizar.
+FRESA: Fruta roja y jugosa, popular en postres y ensaladas.
+GUAYABA: Fruta tropical dulce y ácida, rica en vitamina C.
+HIGO: Fruta dulce y carnosa, usualmente morada o verde.
+JITOMATE: Fruta roja, base para salsas y ensaladas, rica en vitamina C.
+LIMÓN: Fruta cítrica, amarilla, rica en vitamina C, usada en alimentos y bebidas.
+MANGO: Fruta tropical jugosa y dulce, consumida fresca o en jugos y postres.
+OKRA: Verdura verde, también conocida como quimbombó, usada en guisos.
+PAPAYA: Fruta tropical naranja, dulce y carnosa, buena para la digestión.
+SANDÍA: Fruta grande, jugosa y dulce, principalmente consumida en verano.
+TOMATE: Fruta roja, base para salsas y ensaladas, rica en antioxidantes.
+VAINITA: También conocida como judía verde, utilizada en una variedad de platillos.
+WASABI: Raíz utilizada como condimento picante en la comida japonesa, similar al rábano.
+XOCOATOLE: Bebida prehispánica hecha a base de maíz y cacao, utilizada ocasionalmente para referirse al cacao o chocolate.
+YUCA: Raíz comestible, rica en carbohidratos, se consume cocida o frita.
+ZANAHORIA: Verdura naranja, rica en vitamina A, consumida cruda o cocida.
+ACEROLA: Fruta tropical rica en vitamina C, también conocida como cereza de Barbados.
+BRÓCOLI: Verdura verde, rica en vitaminas y minerales, consumida cocida o cruda.
+CAQUI: Fruta naranja, dulce cuando está madura, también conocida como persimón.
+ENDIVIA: Verdura de hoja utilizada en ensaladas, con un sabor ligeramente amargo.
+FRAMBUESA: Fruta pequeña, roja o negra, utilizada en postres y mermeladas.
+HABICHUELA: Tipo de frijol, consumido en diversos platos, rica en proteínas.
+INJERTO: Técnica utilizada para unir partes de plantas, también referente a un tipo de fruta.
+JÍCAMA: Raíz comestible, crujiente y jugosa, consumida cruda en ensaladas.
+KALE: Tipo de col rizada, verde, rica en nutrientes, utilizada en ensaladas y batidos.
+LITCHI: Fruta tropical dulce, con una cáscara roja y rugosa.
+MANDARINA: Fruta cítrica, pequeña y dulce, fácil de pelar.
+NANCHE: Fruta tropical pequeña y amarilla, utilizada en conservas y licuados.
+PEPINO: Verdura fresca y crujiente, comúnmente usada en ensaladas y para hidratación.
+QUÍNOA: Grano alto en proteínas, usado en ensaladas, sopas y otros platillos.
+REMOLACHA: Raíz morada, dulce, consumida cocida, cruda o en jugos.
+SESAMO: Semillas pequeñas, usadas para aceite, decoración y en alimentación.
+TAMARINDO: Fruta tropical ácida, usada en dulces, salsas y bebidas.
+UVILLA: Fruta pequeña, similar al tomate cherry, usada en postres y ensaladas.
+VERDOLAGA: Planta comestible verde, usada en ensaladas y como hierba medicinal.
+WAKAME: Alga comestible, usada en sopas y ensaladas, común en cocina japonesa.
+XILITOL: Edulcorante extraído de frutas y verduras, usado como sustituto de azúcar.
+YACÓN: Raíz sudamericana, consumida cruda o cocida, usada también para té.
+ZAPALLO: Tipo de calabaza, usada en sopas, guisos y postres.
+ALBARICOQUE: Fruta similar al durazno, usada fresca o en conservas.
+CHÍCHARO: También conocido como guisante, usado en sopas y ensaladas.
+DAICON: Tipo de rábano blanco grande, usado en ensaladas y como garnitura.
+ESCAROLA: Verdura de hoja verde, usada en ensaladas y sopas.
+FRIJOL: Semilla comestible, usada en una variedad de platillos, fuente de proteína.
+GARBANZO: Legumbre, usada en sopas, guisos y hummus.
+HINOJO: Planta con sabor anisado, usada en ensaladas y platillos cocidos.
+IBOGA: Planta africana, raíz usada en ceremonias y como medicina tradicional (no comúnmente consumida).
+KIWANO: Fruta exótica, también conocida como melón africano o pepino cornudo.
+PIMIENTO: Verdura colorida, usada en una variedad de platillos, cruda o cocida.
+QUINOTO: Fruta cítrica pequeña, usada en mermeladas y postres.
+RUÉBANO: Raíz comestible, también conocida como rabanito, usada en ensaladas.
+SETAS: Tipo de hongos comestibles, usados en una variedad de platillos.
+UMEBOSHI: Ciruela japonesa fermentada y salada, usada como condimento.
+VAINILLA: Orquídea cuyas vainas se usan para dar sabor a postres y bebidas.
+XOCONOXTLE: Cactácea mexicana, su fruto es ácido y se usa en salsas y bebidas.
+ZARZAMORA: Fruta pequeña y negra, usada en mermeladas, jugos y postres.
+AGUACATE: Fruta cremosa, usada en ensaladas, guacamole y muchos platillos.
+ITALIA: Variedad de uva dulce y jugosa.
+JALAPEÑO: Pimiento picante, usado en salsas, guisos y como condimento.
+KUMQUAT: Fruta cítrica pequeña, se come entera, incluida la cáscara.
+TOMILLO: Hierba aromática usada como condimento en diversos platillos.
+UCHUVA: Fruta pequeña, también conocida como aguaymanto, consumida fresca o en postres.
+APIO: Tallo crujiente, usado en ensaladas, sopas o como snack.
+BERENJENA: Vegetal morado, usado en guisos, asados o rellenos.
+CALABAZA: Vegetal naranja, usado en sopas, guisos o postres.
+DÁTIL: Fruta dulce y pegajosa, consumida fresca o seca.
+HABAS: Legumbre verde, usada en sopas y guisos.
+NECTARINA: Fruta similar al durazno pero con piel lisa.
+PIÑA: Fruta tropical ácida y dulce, usada en jugos, postres y platillos.
+TÁMARA: Fruta seca y dulce, consumida como snack o en postres.
+ACELGA: Hoja verde, consumida cocida o en ensaladas.
+CILANTRO: Hierba aromática, usada como condimento o decoración en diversos platillos.
+RÚCULA: Hoja verde y picante, usada en ensaladas y como guarnición.
+ZAPOTE: Fruta tropical dulce, consumida fresca o en postres.
+ALMENDRA: Tipo de nuez, consumida cruda, tostada o en diversas preparaciones.
+COCO: Fruta tropical, su carne y agua son consumidas frescas o en preparaciones.
+ABOGADO: Profesional que practica o enseña derecho.
+BIÓLOGO: Científico especializado en biología.
+CARPINTERO: Persona que construye o repara objetos de madera.
+DENTISTA: Profesional médico especializado en la salud dental.
+ELECTRICISTA: Especialista en instalaciones y sistemas eléctricos.
+FARMACÉUTICO: Especialista en preparación y dispensación de medicamentos.
+GEÓLOGO: Científico que estudia la Tierra, rocas y procesos terrestres.
+HERRERO: Persona que trabaja metales, especialmente hierro, mediante el forjado.
+INGENIERO: Profesional de la ingeniería, aplicando conocimientos científicos y matemáticos.
+JARDINERO: Persona que mantiene y cultiva jardines.
+KINESIÓLOGO: Profesional de la salud especializado en kinesiología, la terapia física a través del movimiento.
+LINGÜISTA: Persona especializada en el estudio científico del lenguaje.
+MECÁNICO: Persona que repara y mantiene maquinarias y motores.
+NUTRICIONISTA: Especialista en la ciencia de la nutrición y la alimentación.
+PLOMERO: Persona que instala y repara sistemas de tuberías y accesorios de plomería.
+REPOSTERO: Especialista en la creación de postres y pasteles.
+SOCORRISTA: Persona entrenada para asistir en emergencias y realizar primeros auxilios.
+TATUADOR: Artista que aplica tatuajes en la piel de las personas.
+URÓLOGO: Médico especializado en el sistema urinario y salud masculina.
+VETERINARIO: Médico especializado en la salud y enfermedades de los animales.
+WEBMASTER: Persona que administra y mantiene un sitio web.
+XILÓGRAFO: Artista o artesano que realiza grabados en madera.
+ZAPATERO: Artesano especializado en hacer o reparar zapatos.
+ARQUITECTO: Profesional que diseña y supervisa la construcción de edificios.
+BIBLIOTECARIO: Persona que administra o asiste en una biblioteca.
+CERRAJERO: Profesional que repara o fabrica cerraduras y llaves.
+DECORADOR: Persona que se especializa en decorar espacios interiores.
+ECONOMISTA: Profesional que estudia la producción y distribución de recursos, bienes y servicios.
+FOTÓGRAFO: Persona que toma y procesa fotografías.
+GUARDIA: Persona responsable de la seguridad en un lugar determinado.
+HISTORIADOR: Profesional que estudia e interpreta los eventos del pasado.
+ILUSTRADOR: Artista que crea imágenes para acompañar textos o conceptos.
+JOYERO: Artesano que diseña y crea joyas.
+LOCUTOR: Persona que comunica verbalmente en radio, televisión o eventos.
+MASAJISTA: Profesional entrenado para dar masajes terapéuticos.
+ORTOPTISTA: Especialista en evaluar y tratar problemas visuales y de movimiento ocular.
+PANADERO: Persona que hace o vende pan y otros productos de panadería.
+QUIROPRÁCTICO: Profesional que trata problemas musculoesqueléticos, especialmente de la columna vertebral.
+RELATOR: Persona que narra o describe eventos, especialmente en deportes.
+TERAPEUTA: Profesional que practica alguna forma de terapia para tratar trastornos o enfermedades.
+UJIER: Persona que asiste en la organización y orden de eventos o ceremonias.
+VIGILANTE: Persona encargada de mantener la seguridad en un lugar o propiedad.
+WINCHERO: Operador de winche, maquinaria para mover o levantar objetos pesados. (Término menos común y específico de algunas regiones)
+YACHTSMAN: Persona dedicada a navegar yates como deporte o recreación. (Término inglés pero usado también en español)
+ZOÓLOGO: Científico especializado en el estudio de los animales.
+ACUPUNTURISTA: Profesional que practica la acupuntura para tratar diversas condiciones.
+BARISTA: Persona especializada en hacer y servir café de especialidad.
+CAMARERO: Persona que sirve comida y bebida en restaurantes y bares.
+DIETISTA: Experto en dietética y asesora sobre nutrición y alimentación.
+ESCULTOR: Artista que crea obras tridimensionales utilizando diferentes materiales.
+FISIOTERAPEUTA: Profesional de la salud especializado en terapia física.
+GESTOR: Persona que administra o maneja diferentes aspectos de una empresa o proyecto.
+HIPNOTIZADOR: Persona que practica la hipnosis como forma de terapia o entretenimiento.
+INTÉRPRETE: Persona que traduce oralmente entre dos o más idiomas.
+JUEZ: Funcionario público que administra justicia en un tribunal.
+KARATECA: Persona que practica y es experta en karate.
+LEÑADOR: Persona que corta y transporta madera como oficio.
+MONTAJISTA: Especialista en montar y editar piezas audiovisuales, como películas o videos.
+NUMISMÁTICO: Persona que colecciona o comercia con monedas y medallas.
+OCULISTA: Otro término para referirse a un oftalmólogo o especialista en cuidado ocular.
+PODÓLOGO: Especialista en el cuidado y tratamiento de los pies.
+QUIROPEDISTA: Especialista en tratar enfermedades y deformidades de los pies.
+RADIÓLOGO: Médico especializado en interpretar imágenes médicas como rayos X, MRI y CT.
+SEXÓLOGO: Especialista en estudiar y tratar temas relacionados con la sexualidad humana.
+TOPÓGRAFO: Persona que realiza mediciones y evaluaciones de terrenos y áreas geográficas.
+URBANISTA: Profesional que se especializa en desarrollar y planificar áreas urbanas y rurales.
+VITICULTOR: Persona dedicada al cultivo de la vid y la producción de vino.
+WEDDING PLANNER: Organizador de bodas y eventos relacionados.
+XEROGRÁFICO: Técnico especializado en el uso de máquinas de xerografía o fotocopiadoras (puede no ser común, pero se usa en algunos contextos técnicos).
+YESERO: Persona que trabaja con yeso, especialmente en construcción y acabados de interiores.
+ZOOKEEPER: Cuidador de animales en un zoológico (término inglés pero usado también en algunos contextos en español).
+BOMBERO: Persona encargada de extinguir incendios y realizar rescates.
+CARTÓGRAFO: Persona que se especializa en la creación y estudio de mapas.
+DRAGAMINAS: Militar especializado en desactivar minas marinas.
+ESTADÍSTICO: Profesional que recopila, analiza e interpreta datos numéricos.
+FLORISTA: Persona que se especializa en el arreglo y venta de flores.
+LITÓGRAFO: Artista que crea impresiones artísticas usando una técnica de impresión llamada litografía.
+NATUROPATA: Profesional que practica la naturopatía, usando métodos naturales para promover la salud.
+ORFEBRE: Artesano que crea objetos artísticos de metales preciosos, como oro y plata.
+PASTELERO: Persona que se especializa en hacer pasteles y otros postres.
+RESTAURADOR: Profesional que restaura y conserva obras de arte y otros objetos de valor cultural.
+SOMMELIER: Experto en vinos y otras bebidas, que asesora en su selección y maridaje.
+TAQUÍGRAFO: Persona que se especializa en escribir a mano de manera rápida y precisa, a menudo para tomar notas de discursos o declaraciones.
+UROLOGÍA: Especialista médico enfocado en el sistema urinario y los órganos reproductivos masculinos.
+ACUARIOLOGÍA: Especialista que se enfoca en el estudio y cuidado de la vida marina en acuarios.
+AJEDREZ: Juego de estrategia entre dos jugadores con piezas movibles en un tablero.
+BÁDMINTON: Deporte de raqueta jugado con un volante o shuttlecock.
+CRICKET: Deporte con bate y pelota, popular principalmente en Inglaterra y Australia.
+DOMINO: Juego de mesa con piezas rectangulares divididas en dos cuadrados, cada uno con un número.
+ESGRIMA: Arte marcial y deporte de combate usando espadas.
+FUTSAL: Versión del fútbol jugado en interiores con un equipo más pequeño.
+GOLF: Deporte donde los jugadores usan clubes para golpear bolas en una serie de agujeros.
+HOCKEY: Deporte jugado con un palo curvo y una bola o puck, puede ser en hielo o césped.
+INMERSIÓN: Deporte acuático que implica sumergirse bajo el agua, también relacionado con el buceo.
+JUDO: Arte marcial y deporte olímpico originario de Japón, enfocado en agarres y llaves.
+LACROSSE: Deporte de equipo jugado con una pelota pequeña de goma y un palo largo con una red.
+MOTOCROSS: Deporte extremo de carreras de motocicletas en terrenos off-road.
+NATACIÓN: Deporte y actividad recreativa que implica moverse a través del agua usando movimientos corporales.
+ORIENTACIÓN: Deporte donde los participantes navegan entre puntos de control usando mapas y brújulas.
+PADEL: Deporte de raqueta jugado en parejas, similar al tenis, pero en una cancha más pequeña y cerrada.
+QUIDDITCH: Deporte ficticio de la serie de Harry Potter, jugado en escobas voladoras.
+RUGBY: Deporte de equipo jugado con una pelota ovalada, similar al fútbol americano.
+SQUASH: Deporte de raqueta jugado en una cancha cerrada, golpeando la pelota contra una pared.
+TENIS: Deporte de raqueta jugado individualmente o en parejas, golpeando la pelota sobre una red.
+ULTIMATE: Deporte de equipo jugado con un disco volador, también conocido como frisbee.
+VÓLEY: Deporte de equipo donde los jugadores pasan la pelota por encima de una red, intentando anotar puntos.
+WINDSURF: Deporte acuático que implica navegar en el agua en una tabla con una vela.
+XARE: Deporte tradicional vasco similar al frontón.
+ZUMBA: Ejercicio de fitness que combina aeróbicos con movimientos de danza, principalmente latinos.
+BOXEO: Deporte de combate entre dos competidores que usan puñetazos y tácticas defensivas.
+CANOA: Deporte acuático en el que los participantes reman en una canoa o kayak.
+DUATLÓN: Competencia que incluye correr y andar en bicicleta.
+EQUITACIÓN: Arte y deporte de montar, conducir o saltar caballos.
+FUTBOL: Deporte de equipo jugado con una pelota esférica entre dos equipos de once jugadores.
+GIMNASIA: Deporte que incluye ejercicios y rutinas de flexibilidad, fuerza y coordinación.
+HALTEROFILIA: Deporte que involucra levantar pesas.
+KICKBOXING: Deporte de contacto que combina elementos de boxeo y artes marciales como el karate.
+LUCHA: Deporte de combate cuerpo a cuerpo que implica técnicas de agarre y control.
+MARATÓN: Carrera a pie de larga distancia, específicamente 42.195 kilómetros.
+NOPALTEC: Antiguo deporte prehispánico similar al polo, jugado con mazos y una pelota.
+ÓBOLO: Antiguo deporte griego similar al rugby, pero con reglas menos estructuradas.
+QUAD: Deporte extremo que involucra carreras en vehículos todo terreno de cuatro ruedas.
+REMO: Deporte acuático que implica propulsar un bote usando remos.
+SENDERISMO: Actividad recreativa de caminar por la naturaleza.
+TRIATLÓN: Deporte que combina natación, ciclismo y carrera en una sola competencia.
+UNIHOCKEY: Variante del hockey jugado en interiores con un disco pequeño y palos más ligeros.
+VELODROMO: Ciclismo en una pista ovalada, cerrada y con superficie inclinada.
+WUSHU: Arte marcial chino moderno, también una forma de ejercicio y un deporte de combate.
+ACROBACIA: Deporte y arte que involucra maniobras y figuras con el cuerpo.
+BILLAR: Deporte de mesa jugado con bolas y un taco.
+CLAVADOS: Deporte acuático de saltar o lanzarse al agua desde una plataforma o trampolín.
+DARDOS: Juego y deporte que implica lanzar dardos pequeños a un objetivo circular.
+ESCALADA: Deporte que involucra ascender por formaciones rocosas o paredes artificiales.
+FRISBEE: Deporte y actividad recreativa jugada con un disco volador.
+GLIDING: Deslizarse o planeo, referente a deportes aéreos como parapente.
+HIPISMO: Arte y deporte de montar a caballo, especialmente en competencias.
+KITESURF: Deporte acuático que combina aspectos de surf, parapente y wakeboard.
+LONGBOARD: Modalidad de skateboarding con una tabla más larga.
+MOTOBALL: Deporte similar al fútbol pero jugado con motocicletas.
+NINJUTSU: Arte marcial japonés practicado por los ninjas históricos.
+OUTRIGGER: Canoa o kayak con un flotador adjunto, usado en competencias.
+PARKOUR: Deporte y disciplina física centrada en moverse por el entorno superando obstáculos.
+QUICKBALL: Versión moderna y más rápida del béisbol, destinada a niños.
+RAFTING: Deporte extremo y recreativo de aguas bravas usando una balsa inflable.
+SKI: Deporte y recreación de deslizarse en la nieve usando esquís.
+TAEKWONDO: Arte marcial coreano conocido por su énfasis en patadas altas y rápidas.
+ULTRAMARATÓN: Carrera a pie que excede la distancia oficial de maratón de 42.195 km.
+VOLEIBOL: Deporte de equipo jugado con una red en la cual los equipos se pasan una pelota tratando de anotar puntos.
+WATERPOLO: Deporte de equipo jugado en agua, donde los equipos intentan marcar goles lanzando una pelota en la portería del oponente.
+CROSSFIT: Programa de acondicionamiento físico de alta intensidad que combina diferentes ejercicios y disciplinas.
+DOMA: Disciplina del deporte ecuestre donde los caballos realizan ejercicios específicos.
+NETBALL: Deporte de equipo similar al baloncesto, jugado principalmente por mujeres.
+TCHOUKBALL: Deporte de equipo que combina elementos de balonmano y voleibol.
+CRÁNEO: Parte superior del esqueleto que encierra y protege el cerebro.
+MANDÍBULA: Hueso móvil de la cabeza donde están implantados los dientes inferiores.
+CERVICALES: Vértebras del cuello.
+CLAVÍCULA: Hueso largo y delgado que conecta el esternón con el hombro.
+ESCÁPULA: Hueso plano y triangular situado en la parte posterior y superior del tórax.
+HÚMERO: Hueso del brazo.
+RADIUS: Hueso del antebrazo, paralelo al cúbito.
+CÚBITO: Hueso del antebrazo, paralelo al radio.
+ESTERNÓN: Hueso plano y central del pecho donde se articulan las costillas.
+COSTILLAS: Huesos que forman la caja torácica.
+VÉRTEBRAS: Huesos que forman la columna vertebral.
+CÓCCIX: Huesos pequeños fusionados en la base de la columna vertebral.
+SACRO: Hueso grande, triangular, en la base de la columna vertebral.
+FÉMUR: Hueso del muslo.
+RÓTULA: Hueso redondo en la rodilla.
+TIBIA: Hueso grande de la parte inferior de la pierna.
+PERONÉ: Hueso de la parte inferior de la pierna, paralelo a la tibia.
+METATARSO: Huesos en la parte frontal del pie.
+FALANGES: Huesos de los dedos de las manos y los pies.
+TARSO: Huesos en la parte posterior del pie.
+CALCÁNEO: Hueso del talón.
+ASTRÁGALO: Hueso del tobillo.
+RADIO: Hueso del antebrazo.
+CARPO: Huesos de la muñeca.
+METACARPO: Huesos de la palma de la mano.
+ILION: Parte superior y ancha del hueso de la cadera.
+ÍSQUIO: Parte inferior y posterior del hueso de la cadera.
+PUBIS: Parte anterior del hueso de la cadera.
+OÍDO: Órgano responsable de detectar los sonidos.
+NARIZ: Órgano olfativo y parte del sistema respiratorio.
+LENGUA: Órgano muscular en la boca, utilizado para el habla y el gusto.
+DIENTE: Estructuras óseas en la boca utilizadas para masticar.
+MENTÓN: Parte inferior de la cara, debajo de la boca.
+CUELLO: Parte que conecta la cabeza con el resto del cuerpo.
+HOMBRO: Articulación entre el brazo y el torso.
+TRÍCEPS: Músculo en la parte posterior del brazo.
+CODO: Articulación entre el brazo y el antebrazo.
+MUÑECA: Articulación entre el antebrazo y la mano.
+PULGAR: Dedo más corto y grueso de la mano.
+PULMÓN: Órgano respiratorio.
+HÍGADO: Órgano que procesa y detoxifica sustancias.
+ESTÓMAGO: Órgano del sistema digestivo que procesa alimentos.
+VEJIGA: Órgano que almacena la orina.
+INTESTINO: Parte del sistema digestivo involucrado en la absorción de nutrientes.
+PANCREAS: Órgano involucrado en la digestión y regulación de la glucosa.
+BAZO: Órgano involucrado en la filtración y almacenamiento de sangre.
+APÉNDICE: Pequeña extensión del intestino grueso.
+TALÓN: Parte posterior del pie.
+RODILLA: Articulación entre el muslo y la pierna.
+TOBILLO: Articulación entre la pierna y el pie.
+CEREBRO: Órgano principal del sistema nervioso central.
+NUDILLO: Articulaciones en los dedos de manos y pies.
+ESPINA: Parte posterior central; también conocida como columna vertebral.
+COSTILLA: Huesos que protegen los órganos torácicos.
+PÁNCREAS: Glándula que ayuda en la digestión y regula el azúcar.
+VÉRTEBRA: Huesos individuales que forman la columna vertebral.
+PELVIS: Estructura ósea en la parte inferior del torso.
+DIAFRAGMA: Músculo principal utilizado en la respiración.
+LARINGE: Órgano vocal.
+TRÁQUEA: Tubo que conecta la laringe con los bronquios.
+BRONQUIO: Tubos que llevan aire a los pulmones.
+ARTERIA: Vasos sanguíneos que llevan sangre oxigenada.
+CAPILAR: Pequeños vasos sanguíneos donde se intercambian oxígeno y dióxido de carbono.
+TENDÓN: Tejido que conecta músculo con hueso.
+LIGAMENTO: Tejido que conecta hueso con hueso.
+TALLO CEREBRAL: Parte del cerebro que conecta con la médula espinal.
+CEREBELO: Parte del cerebro que controla el equilibrio y la coordinación.
+HIPÓFISIS: Glándula en el cerebro que produce hormonas.
+RETINA: Membrana sensible a la luz en el ojo.
+CÓRNEA: Parte frontal transparente del ojo.
+IRIS: Parte coloreada del ojo que controla la entrada de luz.
+PUPILA: Apertura en el centro del iris.
+LENTE: Estructura detrás del iris que enfoca la luz en la retina.
+MÁCULA: Parte central de la retina con la mayor agudeza visual.
+VÍTREO: Sustancia gelatinosa que llena el ojo detrás del lente.
+ESCLERA: Parte blanca del ojo.
+CÍLIA: Pequeñas estructuras en los bordes de los párpados.
+CANAL LAGRIMAL: Ducto por donde drenan las lágrimas.
+TÍMPANO: Membrana que vibra en respuesta a las ondas sonoras.
+CÓCLEA: Órgano espiral en el oído interno relacionado con el oído.
+ESTAPEDIO: Hueso pequeño en el oído medio.
+MARTILLO: Hueso en el oído medio conectado al tímpano.
+FARINGE: Tubo muscular que conecta la boca y la nariz con el esófago.
+ESÓFAGO: Tubo muscular que conecta la faringe con el estómago.
+DUODENO: Parte inicial del intestino delgado.
+ÚVULA: Estructura colgante en la parte posterior de la garganta.
+AMÍGDALAS: Tejido linfoide en la parte posterior de la garganta.
+VERMIS: Parte del cerebelo que conecta los dos hemisferios.
+LÓBULOS: Partes en que se divide el cerebro o cualquier órgano.
+SÍNAPSIS: Conexión entre dos neuronas.
+VÉRTICES: Puntos de encuentro de los huesos del cráneo.
+COXIS: Hueso formado por la fusión de vértebras, base de la columna.
+MENISCO: Cartílago en la rodilla que actúa como amortiguador.
+CARTÍLAGO: Tejido conectivo suave y resistente.
+MAXILAR: Hueso que forma la parte superior de la boca.
+BRONQUIOS: Tubos que llevan aire a los pulmones.
+ALVÉOLOS: Sacos de aire pequeños en los pulmones donde ocurre el intercambio de gases.
+EPIGLOTIS: Flap que cubre la tráquea durante la deglución.
+PLEURA: Membrana que recubre los pulmones.
+PLASMA: Parte líquida de la sangre.
+HEMOGLOBINA: Proteína en los glóbulos rojos que transporta oxígeno.
+MOLAR: Diente especializado en moler alimentos.
+CANINO: Diente puntiagudo entre los incisivos y premolares.
+INCISIVO: Diente frontal, afilado para cortar.
+PREMOLAR: Diente entre los caninos y molares.
+GINGIVA: Tejido que rodea los dientes, conocido también como encía.
+PALADAR: Parte superior del interior de la boca.
+AMÍGDALA: Masas de tejido linfático en la parte posterior de la garganta.
+FÓVEA: Depresión en la retina, importante para la visión detallada.
+CÍLIO: Pelos pequeños que protegen el ojo.
+CEJA: Pelos que protegen el ojo del sudor y la luz.
+AQUILES: Tendón que conecta la pantorrilla con el talón.
+PLANTAR: Referente a la planta del pie.
+DORSAL: Referente al dorso o parte posterior.
+LUNAR: Pequeña marca en la piel, a menudo redonda y oscura.
+PORO: Abertura pequeña en la piel, permite la transpiración.
+CUTÍCULA: Capa fina de piel que protege la base de las uñas.
+CERVICAL: Referente a las vértebras del cuello.
+TORÁCICO: Referente a las vértebras de la parte superior de la espalda.
+LUMBAR: Referente a las vértebras de la parte baja de la espalda.
+ESTRELLA: Cuerpo celeste que emite luz y calor debido a reacciones nucleares.
+NUBE: Acumulación visible de gotas de agua o cristales de hielo suspendidos en la atmósfera.
+LLUVIA: Precipitación de agua en forma de gotas que caen debido a la condensación del vapor de agua atmosférico.
+RELÁMPAGO: Descarga eléctrica atmosférica acompañada de un destello luminoso.
+ARCOÍRIS: Fenómeno óptico y meteorológico que causa la aparición de un espectro de luz en el cielo cuando la luz del sol se refracta en las gotas de lluvia.
+HURACÁN: Tormenta tropical intensamente poderosa con vientos fuertes y lluvia.
+TORNADO: Columna de aire violentamente giratoria que está en contacto con la superficie terrestre y una nube cumulonimbus.
+TSUNAMI: Serie de olas del océano causadas por un terremoto submarino, erupción volcánica o deslizamiento de tierra.
+VOLCÁN: Montaña que tiene un cráter o una chimenea por donde salen materiales del interior de la Tierra, como lava, cenizas y gases.
+TERREMOTO: Sacudida repentina y violenta de la superficie terrestre causada por movimientos subterráneos.
+MAREMOTO: Movimiento violento de las aguas del mar, generalmente causado por un terremoto submarino.
+GEISER: Fuente termal que erupciona periódicamente, expulsando agua caliente y vapor.
+LAVA: Material rocoso fundido expulsado por un volcán durante una erupción.
+AVALANCHA: Gran cantidad de nieve, hielo y rocas que caen rápidamente montaña abajo.
+INUNDACIÓN: Desbordamiento de agua sobre la tierra debido a lluvias, deshielo o la ruptura de embalses.
+SEQUÍA: Periodo prolongado de tiempo seco, sin precipitaciones suficientes.
+DEFORESTACIÓN: Eliminación extensa de un bosque o stand de árboles.
+ERUPCIÓN: Expulsión violenta de materiales contenidos en un volcán o géiser.
+COMETA: Objeto celestial que orbita el sol y tiene una atmósfera difusa y una cola que siempre apunta lejos del sol.
+METEORO: Fenómeno atmosférico como el viento, la lluvia o un meteoroide que entra en la atmósfera terrestre.
+METEORITO: Fragmento de un meteoroide que sobrevive a su paso a través de la atmósfera y cae a la Tierra.
+NEBULOSA: Nube de gas y polvo en el espacio, donde pueden ocurrir formaciones estelares.
+AURORA: Fenómeno óptico en forma de brillo o luminiscencia que aparece en el cielo nocturno, usualmente en áreas polares.
+MAREA: Movimiento periódico y oscilatorio de las aguas del mar debido a la atracción gravitatoria del sol y la luna.
+CICLÓN: Sistema de vientos que gira alrededor de un centro de baja presión atmosférica.
+ANTICICLÓN: Región de alta presión atmosférica con vientos que circulan en dirección opuesta a las agujas del reloj en el hemisferio norte.
+CORRIENTE: Flujo continuo de agua o aire en una dirección predominante.
+BIOMA: Comunidad biológica de organismos que habitan en una región específica.
+MONZÓN: Viento estacional que trae lluvia abundante.
+TIFÓN: Huracán que ocurre en el océano Pacífico noroeste.
+ARCO IRIS: Arco de luz separado en los colores del espectro, apareciendo en el cielo opuesto al sol y causado por la refracción y reflexión de los rayos solares en gotas de lluvia.
+ROCÍO: Humedad condensada en pequeñas gotas en superficies frías durante la noche.
+HELADA: Depósito de hielo blanco formado en una superficie cuando la temperatura cae por debajo del punto de congelación.
+NEBLINA: Humedad atmosférica que obstaculiza la visibilidad.
+SISMO: Temblor o sacudida de la superficie terrestre, resultado de la liberación de energía en la corteza terrestre.
+ALUD: Gran cantidad de nieve, tierra o rocas que caen por una pendiente de montaña.
+NIEBLA: Nube baja que limita la visibilidad.
+MAGMA: Masa de material fundido debajo de la superficie terrestre.
+FANGO: Tierra mezclada con agua, resultando en una sustancia espesa y blanda.
+HUMUS: Material orgánico descompuesto en el suelo.
+SEDIMENTO: Material sólido depositado en la superficie terrestre por agua, viento o hielo.
+LAGUNA: Cuerpo de agua, generalmente dulce, de tamaño menor que un lago.
+ESTUARIO: Boca o parte baja de un río donde su agua se mezcla con el agua del mar.
+FIORDO: Entrada de mar estrecha y profunda entre altas montañas.
+OASIS: Área en un desierto donde hay agua y vegetación.
+MESETA: Área de terreno elevado y plano.
+PRADERA: Área de tierra plana o suavemente ondulada que está cubierta principalmente por hierba.
+TAIGA: Bioma caracterizado por coníferas y un clima frío.
+TUNDRA: Área donde el suelo está permanentemente congelado y solo la superficie se descongela en verano.
+ARCILLA: Tipo de suelo compuesto por partículas extremadamente finas.
+BASALTO: Roca ígnea volcánica de color oscuro.
+CALIZA: Roca sedimentaria compuesta principalmente de calcita.
+MÁRMOL: Roca metamórfica compuesta principalmente de carbonato de calcio.
+FELDESPATO: Grupo de minerales que componen muchas rocas ígneas.
+EQUINOCCIO: Momento del año cuando el día y la noche tienen aproximadamente la misma duración.
+SÍSMO: Sacudida de la tierra causada por el movimiento de las placas tectónicas.
+ISLA: Pedazo de tierra rodeado completamente por agua.
+PENÍNSULA: Extensión de tierra rodeada de agua por casi todos lados.
+ISTMO: Estrecha franja de tierra que conecta dos masas terrestres mayores.
+DESIERTO: Área de tierra caracterizada por bajas precipitaciones y condiciones áridas.
+SELVA: Gran área cubierta densamente por árboles y vegetación.
+DELTA: Tierra formada por la acumulación de sedimento en la boca de un río.
+LICUADORA: Utilizada para mezclar, purificar o emulsionar alimentos.
+TOSTADORA: Aparato eléctrico para tostar pan.
+MICROONDAS: Electrodoméstico usado para calentar alimentos mediante ondas electromagnéticas.
+REFRIGERADOR: Aparato eléctrico que enfría y conserva los alimentos.
+LAVADORA: Máquina para lavar ropa automáticamente.
+SECADORA: Máquina que seca la ropa después de ser lavada.
+ASPIRADORA: Aparato eléctrico que se usa para limpiar el polvo y la suciedad del suelo.
+CALENTADOR: Aparato que se utiliza para calentar agua.
+VENTILADOR: Aparato eléctrico que mueve el aire para refrescar el ambiente.
+MINISPLIT: Aparato que se usa para enfriar o calentar el aire en un espacio cerrado.
+TELEVISOR: Aparato electrónico para recibir y reproducir transmisiones televisivas.
+BATIDORA: Aparato para batir, mezclar y amasar alimentos.
+CAFETERA: Electrodoméstico para preparar café.
+SANDWICHERA: Aparato para hacer sándwiches calientes y tostados.
+FREIDORA: Electrodoméstico diseñado para freír alimentos sumergiéndolos en aceite caliente.
+PLANCHADORA: Aparato caliente utilizado para quitar arrugas de la ropa.
+DESHUMIDIFICADOR: Aparato para reducir la humedad en el aire.
+HUMIDIFICADOR: Aparato que añade humedad al aire.
+RADIADOR: Dispositivo para calentar habitaciones.
+AMASADORA: Máquina para mezclar y amasar ingredientes.
+EXTRACTOR: Aparato que se usa para eliminar olores o vapores, usualmente de la cocina.
+ENCERADORA: Máquina para pulir y encerar suelos.
+PICADORA: Electrodoméstico que se usa para picar alimentos en trozos pequeños.
+VAPORETTO: Limpiador a vapor para la limpieza doméstica.
+LAVAVAJILLAS: Máquina automática para lavar platos y utensilios.
+CORTADORA: Aparato eléctrico utilizado para cortar, como cortadoras de césped o de pelo.
+ZUMERA: Máquina para extraer jugo de frutas, especialmente cítricos.
+PARRILLA: Aparato eléctrico usado para asar y cocinar alimentos directamente sobre una fuente de calor.
+WAFFLERA: Electrodoméstico para hacer waffles o gofres.
+TRITURADORA: Máquina eléctrica para descomponer materiales en partes más pequeñas, como papel o alimentos.
+ESTERILIZADOR: Aparato utilizado para esterilizar, comúnmente utensilios o biberones.
+FRIGORÍFICO: Aparato eléctrico grande utilizado para la conservación y refrigeración de alimentos.
+CONGELADOR: Parte de un refrigerador o aparato independiente destinado a congelar alimentos.
+MOLINILLO: Aparato pequeño utilizado para moler, como café o especias.
+PANIFICADORA: Máquina eléctrica para hacer pan.
+PELADORA: Máquina o aparato eléctrico para pelar alimentos.
+BÁSCULA: Instrumento para pesar ingredientes al cocinar.
+EXPRIMIDOR: Aparato para extraer jugo de frutas.
+HELADERA: Máquina utilizada para hacer helado.
+YOGURTERA: Máquina para hacer yogur en casa.

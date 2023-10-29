@@ -137,6 +137,15 @@
             Text="{Binding StatusMessage}"
             TextColor="Black"
             />
+
+        <Label
+            FontFamily="Mistage"
+            FontSize="10"
+            HorizontalTextAlignment="Center"
+            IsVisible="{Binding ResultGameIsVisible}"
+            Text="{Binding Definition}"
+            TextColor="Black"
+            />
         <!--#endregion-->
 
         <!--#region Action buttons -->

@@ -40,6 +40,18 @@ namespace Hangman.ViewModels
             }
         }
 
+        private string definition;
+        public string Definition
+        {
+            get => definition;
+
+            set
+            {
+                definition = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Definition)));
+            }
+        }
+
         private List<Models.Game.Keyboard> keyboardLetters = new List<Models.Game.Keyboard>();
         public List<Models.Game.Keyboard> KeyboardLetters
         {
@@ -230,18 +242,23 @@ namespace Hangman.ViewModels
 
             while (reader.Peek() is not -1)
             {
-                var word = reader.ReadLine().ToUpper();
+                var line = reader.ReadLine().ToUpper();
+
+                var word = line.Split(": ").FirstOrDefault();
 
                 if (word.Length > 3 && word.Length <= 8 && !word.Contains("Ñ"))
                 {
-                    words.Add(word);
+                    words.Add(line);
                 }
             }
         }
 
         private void SetRandomWord()
         {
-            answer = words[new Random().Next(0, words.Count)];
+            var wordLarge = words[new Random().Next(0, words.Count)].Split(": ");
+
+            answer = wordLarge.FirstOrDefault();
+            Definition = wordLarge.LastOrDefault();
         }
 
         private void CalculateWord(string answer, List<char> guessed)
