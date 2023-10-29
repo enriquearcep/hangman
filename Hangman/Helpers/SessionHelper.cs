@@ -16,7 +16,7 @@
 
                 return expiresAt > DateTime.Now;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return false;
             }
@@ -37,6 +37,12 @@
             {
                 return string.Empty;
             }
+        }
+
+        public static void CloseSession()
+        {
+            Preferences.Remove("Session");
+            Preferences.Remove("ExpiresAt");
         }
     }
 }

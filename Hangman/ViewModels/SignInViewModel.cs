@@ -14,7 +14,7 @@ namespace Hangman.ViewModels
         #endregion
 
         #region Commands
-        public ICommand SignInCommand => new Command(SignIn);
+        public ICommand SignInCommand => new Command(async () => await SignIn());
         public ICommand RedirectToSignUpCommand => new Command(RedirectToSignUp);
         #endregion
 
@@ -27,7 +27,7 @@ namespace Hangman.ViewModels
         #endregion
 
         #region Functions
-        private async void SignIn()
+        private async Task SignIn()
         {
             try
             {
@@ -52,7 +52,7 @@ namespace Hangman.ViewModels
 
                     SessionHelper.Set(signed.AccessToken);
 
-                    App.Current.MainPage = new MainPage();
+                    App.Current.MainPage = new NavigationPage(new DashboardView());
                 }
             }
             catch (Exception ex)

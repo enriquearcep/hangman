@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hangman.Views.MenuView"
+             Title="Menú"
+             BackgroundColor="#f0ccef">
+    
+    <VerticalStackLayout
+        Padding="15"
+        Spacing="25"
+        >
+
+        <HorizontalStackLayout Spacing="15">
+
+            <Image
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                >
+
+                <Image.Source>
+
+                    <FontImageSource
+                        Color="Black"
+                        FontFamily="Icons"
+                        Glyph="&#xE80D;"
+                        Size="25"
+                        />
+
+                </Image.Source>
+
+            </Image>
+
+            <Label
+                FontFamily="Mistage"
+                FontSize="20"
+                Text="Mi perfil"
+                TextColor="Black"
+                TextDecorations="Underline"
+                VerticalOptions="Center"
+                />
+
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout Spacing="15">
+
+            <Image
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                >
+
+                <Image.Source>
+
+                    <FontImageSource
+                        Color="Black"
+                        FontFamily="Icons"
+                        Glyph="&#xE81E;"
+                        Size="25"
+                        />
+
+                </Image.Source>
+
+            </Image>
+
+            <Label
+                FontFamily="Mistage"
+                FontSize="20"
+                Text="Estadísticas"
+                TextColor="Black"
+                TextDecorations="Underline"
+                VerticalOptions="Center"
+                />
+
+        </HorizontalStackLayout>
+
+        <StackLayout
+            Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand"
+            >
+
+            <Image
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                >
+
+                <Image.Source>
+
+                    <FontImageSource
+                        Color="Black"
+                        FontFamily="Icons"
+                        Glyph="&#xE815;"
+                        Size="25"
+                        />
+
+                </Image.Source>
+
+            </Image>
+
+            <Label
+                FontFamily="Mistage"
+                FontSize="20"
+                Margin="15, 0, 0, 0"
+                Text="Sonido"
+                TextColor="Black"
+                TextDecorations="Underline"
+                VerticalOptions="Center"
+                />
+
+            <Switch
+                HorizontalOptions="EndAndExpand"
+                VerticalOptions="Center"
+                />
+
+        </StackLayout>
+
+        <StackLayout
+            Spacing="15"
+            Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand"
+            >
+
+            <Image
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                >
+
+                <Image.Source>
+
+                    <FontImageSource
+                        Color="Black"
+                        FontFamily="Icons"
+                        Glyph="&#xF00C;"
+                        Size="25"
+                        />
+
+                </Image.Source>
+
+            </Image>
+
+            <Label
+                FontFamily="Mistage"
+                FontSize="20"
+                Margin="15, 0, 0, 0"
+                Text="Vibración"
+                TextColor="Black"
+                TextDecorations="Underline"
+                VerticalOptions="Center"
+                />
+
+            <Switch
+                HorizontalOptions="EndAndExpand"
+                VerticalOptions="Center"
+                />
+
+        </StackLayout>
+
+        <HorizontalStackLayout Spacing="15">
+
+            <Image
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                >
+
+                <Image.Source>
+
+                    <FontImageSource
+                        Color="OrangeRed"
+                        FontFamily="Icons"
+                        Glyph="&#xF02D;"
+                        Size="25"
+                        />
+
+                </Image.Source>
+
+            </Image>
+
+            <Label
+                FontFamily="Mistage"
+                FontSize="20"
+                Text="Cerrar sesión"
+                TextColor="OrangeRed"
+                TextDecorations="Underline"
+                VerticalOptions="Center"
+                >
+
+                <Label.GestureRecognizers>
+
+                    <TapGestureRecognizer Command="{Binding CloseSessionCommand}" />
+
+                </Label.GestureRecognizers>
+                
+            </Label>
+
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+    
+</ContentPage>

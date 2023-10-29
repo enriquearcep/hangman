@@ -11,7 +11,7 @@ public partial class App : Application
 
 		if(SessionHelper.IsAuthenticate())
 		{
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new DashboardView());
         }
 		else
 		{

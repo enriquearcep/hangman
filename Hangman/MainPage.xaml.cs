@@ -1,6 +1,7 @@
 ﻿using Hangman.Models;
 using Hangman.Models.Api.Request;
 using Hangman.Services;
+using Hangman.Views;
 using Plugin.Maui.Audio;
 using System.ComponentModel;
 using System.Globalization;
@@ -429,5 +430,10 @@ public partial class MainPage : ContentPage, INotifyPropertyChanged
         SetRandomWord();
         CalculateWord(answer, guessed);
         EnableButtons();
+    }
+
+    private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new MenuView());
     }
 }

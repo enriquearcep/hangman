@@ -1,6 +1,7 @@
 ﻿using Hangman.Helpers;
 using Hangman.Models.Api.Request;
 using Hangman.Services;
+using Hangman.Views;
 using System.Windows.Input;
 
 namespace Hangman.ViewModels
@@ -46,7 +47,7 @@ namespace Hangman.ViewModels
 
                     SessionHelper.Set(registered.AccessToken);
 
-                    App.Current.MainPage = new MainPage();
+                    App.Current.MainPage = new NavigationPage(new DashboardView());
                 }
             }
             catch (Exception)

@@ -27,32 +27,60 @@
 
             <HorizontalStackLayout
                 HorizontalOptions="Center"
-                Margin="0, 0, 0, 5"
+                Margin="5, 0, 0, 5"
                 Spacing="15"
                 >
+
+                <Image
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    >
+                    
+                    <Image.Source>
+                        
+                        <FontImageSource
+                            Color="Black"
+                            FontFamily="Icons"
+                            Glyph="&#xE810;"
+                            Size="25"
+                            />
+                        
+                    </Image.Source>
+
+                    <Image.GestureRecognizers>
+
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+
+                    </Image.GestureRecognizers>
+                    
+                </Image>
 
                 <Label
                     FontSize="10"
                     Text="{Binding TotalWon, StringFormat='Ganadas: {0}'}"
                     TextColor="Black"
+                    VerticalOptions="Center"
                     />
 
                 <Label
                     FontSize="10"
                     Text="{Binding TotalLost, StringFormat='Perdidas: {0}'}"
                     TextColor="Black"
+                    VerticalOptions="Center"
                     />
 
                 <Label
                     FontSize="10"
                     Text="{Binding WinStreak, StringFormat='Racha: {0}'}"
                     TextColor="Black"
+                    VerticalOptions="Center"
                     />
 
                 <Label
                     FontSize="10"
                     Text="{Binding LongestWinStreak, StringFormat='Racha más larga: {0}'}"
                     TextColor="Black"
+                    VerticalOptions="Center"
                     />
 
             </HorizontalStackLayout>
@@ -91,7 +119,7 @@
             </HorizontalStackLayout>
 
             <Image
-                HeightRequest="200"
+                HeightRequest="150"
                 Margin="0, 10"
                 Source="{Binding CurrentImage}"
                 />
