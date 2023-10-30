@@ -21,8 +21,8 @@ namespace Hangman.ViewModels
         #region Constructors
         public SignInViewModel()
         {
-            Email = "medss@enriquepz.com";
-            Password = "$Kikin123";
+            //Email = "medss@enriquepz.com";
+            //Password = "$Kikin123";
         } 
         #endregion
 

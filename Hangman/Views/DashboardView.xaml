@@ -92,7 +92,7 @@
                                 Color="Black"
                                 FontFamily="Icons"
                                 Glyph="{Binding ImageSource, Mode=TwoWay}"
-                                Size="20"
+                                Size="10"
                                 />
 
                         </Image.Source>
@@ -148,6 +148,36 @@
             />
         <!--#endregion-->
 
+        <!--#region Keyboard -->
+        <FlexLayout
+            BindableLayout.ItemsSource="{Binding KeyboardLetters}"
+            JustifyContent="SpaceEvenly"
+            Margin="15"
+            Wrap="Wrap"
+            >
+
+            <BindableLayout.ItemTemplate>
+
+                <DataTemplate>
+
+                    <Button
+                        Command="{Binding PressedCommand}"
+                        CommandParameter="{Binding Key}"
+                        FontAttributes="Bold"
+                        HeightRequest="40"
+                        IsEnabled="{Binding IsEnabled}"
+                        Margin="2"
+                        WidthRequest="40"
+                        Text="{Binding Key}"
+                        />
+
+                </DataTemplate>
+
+            </BindableLayout.ItemTemplate>
+
+        </FlexLayout>
+        <!--#endregion-->
+
         <!--#region Action buttons -->
         <HorizontalStackLayout
             HorizontalOptions="CenterAndExpand"
@@ -173,36 +203,6 @@
                 />
 
         </HorizontalStackLayout>
-        <!--#endregion-->
-
-        <!--#region Keyboard -->
-        <FlexLayout
-            BindableLayout.ItemsSource="{Binding KeyboardLetters}"
-            JustifyContent="SpaceEvenly"
-            Margin="15, 0"
-            Wrap="Wrap"
-            >
-
-            <BindableLayout.ItemTemplate>
-
-                <DataTemplate>
-
-                    <Button
-                        Command="{Binding PressedCommand}"
-                        CommandParameter="{Binding Key}"
-                        FontAttributes="Bold"
-                        HeightRequest="50"
-                        IsEnabled="{Binding IsEnabled}"
-                        Margin="2"
-                        WidthRequest="50"
-                        Text="{Binding Key}"
-                        />
-
-                </DataTemplate>
-
-            </BindableLayout.ItemTemplate>
-
-        </FlexLayout>
         <!--#endregion-->
 
     </VerticalStackLayout>
